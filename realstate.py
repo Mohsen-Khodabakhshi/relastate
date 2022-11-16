@@ -67,3 +67,10 @@ def starter():
             with open("errors.txt", 'a', encoding='utf-8') as f2:
                 f2.write(f"state: {state} suburb: {suburb_name} postcode: {postcode}, ")
                 f2.close()
+
+
+from multiprocessing import Process, freeze_support
+
+if __name__ == "__main__":
+    freeze_support()
+    starter()
