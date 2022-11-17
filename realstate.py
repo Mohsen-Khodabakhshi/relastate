@@ -5,8 +5,6 @@ import time
 from realstate.xpaths import real_state_xpaths
 from realstate.processor import processor, collect
 
-from pprint import pprint
-
 import json
 
 
@@ -24,13 +22,11 @@ def starter():
         try:
             suburb_name = str(suburb['suburb_name']).lower()
             suburb_name = suburb_name.replace("'", "-")
+            suburb_name = suburb_name.replace(" ", "-")
 
             state = str(suburb['state']).lower()
 
             postcode = str(suburb['postcode']).lower()
-
-            print("Crawling...")
-            print(f"state: {state} suburb: {suburb_name} postcode: {postcode}")
 
             my_driver.selenium_driver.get(f"https://www.realestate.com.au/{state}/{suburb_name}-{postcode}/")
 
@@ -61,11 +57,13 @@ def starter():
                 c["suburb_id"] = suburb.get("suburb_id", "")
                 my_driver.save_to_csv(c)
             
-            print("")
+            with open("success.txt", 'a', encoding='utf-8') as f2:
+                f2.write(f"state: {state} suburb: {suburb_name} postcode: {postcode}\n")
+                f2.close()
 
         except:
             with open("errors.txt", 'a', encoding='utf-8') as f2:
-                f2.write(f"state: {state} suburb: {suburb_name} postcode: {postcode}, ")
+                f2.write(f"state: {state} suburb: {suburb_name} postcode: {postcode}\n")
                 f2.close()
 
 

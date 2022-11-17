@@ -274,3 +274,5 @@ cython_debug/
 
 
 output.csv
+success.txt
+errors.txt
