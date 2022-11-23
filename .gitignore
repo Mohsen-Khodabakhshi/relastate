@@ -279,3 +279,5 @@ errors.txt
 domain_success.txt
 domain_errors.txt
 domain.csv
+*.txt
+domain_history.csv
