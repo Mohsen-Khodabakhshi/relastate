@@ -22,6 +22,9 @@ class ChromeCrawler:
     def get_by_xpath(self, xpath: str) -> list:
         return self.selenium_driver.find_elements(By.XPATH, xpath)
 
+    def get_by_id(self, id_: str) -> list:
+        return self.selenium_driver.find_elements(By.ID, id_)
+
     def save_to_csv(self, data: dict):
         with open('output.csv', 'a') as f:
             w = csv.DictWriter(f, data.keys())
