@@ -8,8 +8,6 @@ from realstate.processor import processor, collect
 import json
 
 
-point = "wa"
-
 def starter():
     print("Loading...")
 
@@ -21,9 +19,6 @@ def starter():
 
 
     for suburb in suburbs:
-
-        if not suburb.get("state", "") == point:
-            continue
 
         try:
             suburb_name = str(suburb['suburb_name']).lower()
@@ -51,7 +46,7 @@ def starter():
 
             # my_driver.selenium_driver.get(f"https://www.realestate.com.au/{state}/{suburb_name}-{postcode}/")
 
-            time.sleep(10)
+            time.sleep(15)
 
             ad_button = my_driver.get_by_xpath(real_state_xpaths.get("close_ad"))
             if ad_button:
