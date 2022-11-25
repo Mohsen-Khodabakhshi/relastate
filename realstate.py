@@ -24,7 +24,7 @@ def starter():
         if loop_counter >= 5:
             my_driver.selenium_driver.delete_all_cookies()
             my_driver.selenium_driver.quit()
-            time.sleep(2)
+            time.sleep(5)
             my_driver = ChromeCrawler(debug=True)
             loop_counter = 0
 
