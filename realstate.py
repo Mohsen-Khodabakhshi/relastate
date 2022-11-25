@@ -9,6 +9,8 @@ import json
 
 
 def starter():
+    loop_counter = 0
+
     print("Loading...")
 
     my_driver = ChromeCrawler(debug=True)
@@ -19,6 +21,14 @@ def starter():
 
 
     for suburb in suburbs:
+        if loop_counter >= 5:
+            my_driver.selenium_driver.delete_all_cookies()
+            my_driver.selenium_driver.quit()
+            time.sleep(2)
+            my_driver = ChromeCrawler(debug=True)
+            loop_counter = 0
+
+        loop_counter += 1
 
         try:
             suburb_name = str(suburb['suburb_name']).lower()
