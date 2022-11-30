@@ -1,2936 +1,602 @@
 [
   {
-    "suburb_id": 7263,
-    "state": "sa",
-    "postcode": 5050,
-    "suburb_name": "Eden Hills"
+    "suburb_id": 2,
+    "state": "act",
+    "postcode": 2602,
+    "suburb_name": "Ainslie"
   },
   {
-    "suburb_id": 7529,
-    "state": "sa",
-    "postcode": 5223,
-    "suburb_name": "Kingscote"
+    "suburb_id": 3,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Amaroo"
   },
   {
-    "suburb_id": 7314,
-    "state": "sa",
-    "postcode": 5159,
-    "suburb_name": "Flagstaff Hill"
+    "suburb_id": 4,
+    "state": "act",
+    "postcode": 2614,
+    "suburb_name": "Aranda"
   },
   {
-    "suburb_id": 7784,
-    "state": "sa",
-    "postcode": 5291,
-    "suburb_name": "Nene Valley"
+    "suburb_id": 5,
+    "state": "act",
+    "postcode": 2906,
+    "suburb_name": "Banks"
   },
   {
-    "suburb_id": 7572,
-    "state": "sa",
-    "postcode": 5417,
-    "suburb_name": "Leighton"
+    "suburb_id": 6,
+    "state": "act",
+    "postcode": 2600,
+    "suburb_name": "Barton"
   },
   {
-    "suburb_id": 8074,
-    "state": "sa",
-    "postcode": 5044,
-    "suburb_name": "Somerton Park"
+    "suburb_id": 8,
+    "state": "act",
+    "postcode": 2617,
+    "suburb_name": "Belconnen"
   },
   {
-    "suburb_id": 6963,
-    "state": "sa",
-    "postcode": 5117,
-    "suburb_name": "Angle Vale"
+    "suburb_id": 9,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Bonner"
   },
   {
-    "suburb_id": 8069,
-    "state": "sa",
-    "postcode": 5114,
-    "suburb_name": "Smithfield"
+    "suburb_id": 10,
+    "state": "act",
+    "postcode": 2905,
+    "suburb_name": "Bonython"
   },
   {
-    "suburb_id": 6981,
-    "state": "sa",
-    "postcode": 5012,
-    "suburb_name": "Athol Park"
+    "suburb_id": 11,
+    "state": "act",
+    "postcode": 2612,
+    "suburb_name": "Braddon"
   },
   {
-    "suburb_id": 7872,
-    "state": "sa",
-    "postcode": 5043,
-    "suburb_name": "Park Holme"
+    "suburb_id": 12,
+    "state": "act",
+    "postcode": 2617,
+    "suburb_name": "Bruce"
   },
   {
-    "suburb_id": 7518,
-    "state": "sa",
-    "postcode": 5035,
-    "suburb_name": "Keswick"
+    "suburb_id": 13,
+    "state": "act",
+    "postcode": 2905,
+    "suburb_name": "Calwell"
   },
   {
-    "suburb_id": 7299,
-    "state": "sa",
-    "postcode": 5035,
-    "suburb_name": "Everard Park"
+    "suburb_id": 14,
+    "state": "act",
+    "postcode": 2612,
+    "suburb_name": "Campbell"
   },
   {
-    "suburb_id": 7826,
-    "state": "sa",
-    "postcode": 5046,
-    "suburb_name": "Oaklands Park"
+    "suburb_id": 18,
+    "state": "act",
+    "postcode": 2913,
+    "suburb_name": "Casey"
   },
   {
-    "suburb_id": 7752,
-    "state": "sa",
-    "postcode": 5115,
-    "suburb_name": "Munno Para"
+    "suburb_id": 19,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Chapman"
   },
   {
-    "suburb_id": 6977,
-    "state": "sa",
-    "postcode": 5035,
-    "suburb_name": "Ashford"
+    "suburb_id": 20,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Charnwood"
   },
   {
-    "suburb_id": 7448,
-    "state": "sa",
-    "postcode": 5116,
-    "suburb_name": "Hillier"
+    "suburb_id": 21,
+    "state": "act",
+    "postcode": 2606,
+    "suburb_name": "Chifley"
   },
   {
-    "suburb_id": 8161,
-    "state": "sa",
-    "postcode": 5571,
-    "suburb_name": "Tiddy Widdy Beach"
+    "suburb_id": 22,
+    "state": "act",
+    "postcode": 2905,
+    "suburb_name": "Chisholm"
   },
   {
-    "suburb_id": 7945,
-    "state": "sa",
-    "postcode": 5167,
-    "suburb_name": "Port Noarlunga"
+    "suburb_id": 23,
+    "state": "act",
+    "postcode": 2906,
+    "suburb_name": "Conder"
   },
   {
-    "suburb_id": 8073,
-    "state": "sa",
-    "postcode": 5540,
-    "suburb_name": "Solomontown"
+    "suburb_id": 24,
+    "state": "act",
+    "postcode": 2614,
+    "suburb_name": "Cook"
   },
   {
-    "suburb_id": 7156,
-    "state": "sa",
-    "postcode": 5256,
-    "suburb_name": "Clayton Bay"
+    "suburb_id": 25,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Coombs"
   },
   {
-    "suburb_id": 8018,
-    "state": "sa",
-    "postcode": 5108,
-    "suburb_name": "Salisbury Downs"
+    "suburb_id": 28,
+    "state": "act",
+    "postcode": 2911,
+    "suburb_name": "Crace"
   },
   {
-    "suburb_id": 7942,
-    "state": "sa",
-    "postcode": 5238,
-    "suburb_name": "Port Mannum"
+    "suburb_id": 29,
+    "state": "act",
+    "postcode": 2605,
+    "suburb_name": "Curtin"
   },
   {
-    "suburb_id": 7769,
-    "state": "sa",
-    "postcode": 5064,
-    "suburb_name": "Myrtle Bank"
+    "suburb_id": 30,
+    "state": "act",
+    "postcode": 2600,
+    "suburb_name": "Deakin"
   },
   {
-    "suburb_id": 7701,
-    "state": "sa",
-    "postcode": 5558,
-    "suburb_name": "Moonta Bay"
+    "suburb_id": 31,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Denman Prospect"
   },
   {
-    "suburb_id": 7294,
-    "state": "sa",
-    "postcode": 5116,
-    "suburb_name": "Evanston Gardens"
+    "suburb_id": 32,
+    "state": "act",
+    "postcode": 2602,
+    "suburb_name": "Dickson"
   },
   {
-    "suburb_id": 7378,
-    "state": "sa",
-    "postcode": 5070,
-    "suburb_name": "Glynde"
+    "suburb_id": 33,
+    "state": "act",
+    "postcode": 2602,
+    "suburb_name": "Downer"
   },
   {
-    "suburb_id": 7497,
-    "state": "sa",
-    "postcode": 5157,
-    "suburb_name": "Kangarilla"
+    "suburb_id": 34,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Duffy"
   },
   {
-    "suburb_id": 7421,
-    "state": "sa",
-    "postcode": 5159,
-    "suburb_name": "Happy Valley"
+    "suburb_id": 35,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Dunlop"
   },
   {
-    "suburb_id": 8022,
-    "state": "sa",
-    "postcode": 5109,
-    "suburb_name": "Salisbury Park"
+    "suburb_id": 36,
+    "state": "act",
+    "postcode": 2617,
+    "suburb_name": "Evatt"
   },
   {
-    "suburb_id": 7988,
-    "state": "sa",
-    "postcode": 5161,
-    "suburb_name": "Reynella East"
+    "suburb_id": 37,
+    "state": "act",
+    "postcode": 2904,
+    "suburb_name": "Fadden"
   },
   {
-    "suburb_id": 8011,
-    "state": "sa",
-    "postcode": 5014,
-    "suburb_name": "Royal Park"
+    "suburb_id": 38,
+    "state": "act",
+    "postcode": 2607,
+    "suburb_name": "Farrer"
   },
   {
-    "suburb_id": 7201,
-    "state": "sa",
-    "postcode": 5051,
-    "suburb_name": "Coromandel Valley"
+    "suburb_id": 39,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Fisher"
   },
   {
-    "suburb_id": 7000,
-    "state": "sa",
-    "postcode": 5091,
-    "suburb_name": "Banksia Park"
+    "suburb_id": 40,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Florey"
   },
   {
-    "suburb_id": 7669,
-    "state": "sa",
-    "postcode": 5031,
-    "suburb_name": "Mile End"
+    "suburb_id": 41,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Flynn"
   },
   {
-    "suburb_id": 7858,
-    "state": "sa",
-    "postcode": 5093,
-    "suburb_name": "Para Vista"
+    "suburb_id": 42,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Forde"
   },
   {
-    "suburb_id": 7333,
-    "state": "sa",
-    "postcode": 5063,
-    "suburb_name": "Frewville"
+    "suburb_id": 43,
+    "state": "act",
+    "postcode": 2603,
+    "suburb_name": "Forrest"
   },
   {
-    "suburb_id": 7065,
-    "state": "sa",
-    "postcode": 5374,
-    "suburb_name": "Bower"
+    "suburb_id": 44,
+    "state": "act",
+    "postcode": 2913,
+    "suburb_name": "Franklin"
   },
   {
-    "suburb_id": 6976,
-    "state": "sa",
-    "postcode": 5157,
-    "suburb_name": "Ashbourne"
+    "suburb_id": 47,
+    "state": "act",
+    "postcode": 2605,
+    "suburb_name": "Garran"
   },
   {
-    "suburb_id": 7100,
-    "state": "sa",
-    "postcode": 5066,
-    "suburb_name": "Burnside"
+    "suburb_id": 48,
+    "state": "act",
+    "postcode": 2905,
+    "suburb_name": "Gilmore"
   },
   {
-    "suburb_id": 7069,
-    "state": "sa",
-    "postcode": 5153,
-    "suburb_name": "Bradbury"
+    "suburb_id": 49,
+    "state": "act",
+    "postcode": 2617,
+    "suburb_name": "Giralang"
   },
   {
-    "suburb_id": 7805,
-    "state": "sa",
-    "postcode": 5006,
-    "suburb_name": "North Adelaide"
+    "suburb_id": 50,
+    "state": "act",
+    "postcode": 2906,
+    "suburb_name": "Gordon"
   },
   {
-    "suburb_id": 7383,
-    "state": "sa",
-    "postcode": 5214,
-    "suburb_name": "Goolwa"
+    "suburb_id": 51,
+    "state": "act",
+    "postcode": 2904,
+    "suburb_name": "Gowrie"
   },
   {
-    "suburb_id": 8019,
-    "state": "sa",
-    "postcode": 5109,
-    "suburb_name": "Salisbury East"
+    "suburb_id": 52,
+    "state": "act",
+    "postcode": 2900,
+    "suburb_name": "Greenway"
   },
   {
-    "suburb_id": 7930,
-    "state": "sa",
-    "postcode": 5700,
-    "suburb_name": "Port Augusta West"
+    "suburb_id": 53,
+    "state": "act",
+    "postcode": 2603,
+    "suburb_name": "Griffith"
   },
   {
-    "suburb_id": 7490,
-    "state": "sa",
-    "postcode": 5070,
-    "suburb_name": "Joslin"
+    "suburb_id": 54,
+    "state": "act",
+    "postcode": 2912,
+    "suburb_name": "Gungahlin"
   },
   {
-    "suburb_id": 7585,
-    "state": "sa",
-    "postcode": 5032,
-    "suburb_name": "Lockleys"
+    "suburb_id": 55,
+    "state": "act",
+    "postcode": 2602,
+    "suburb_name": "Hackett"
   },
   {
-    "suburb_id": 6941,
-    "state": "sa",
-    "postcode": 5173,
-    "suburb_name": "Aldinga Beach"
+    "suburb_id": 57,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Harrison"
   },
   {
-    "suburb_id": 7808,
-    "state": "sa",
-    "postcode": 5018,
-    "suburb_name": "North Haven"
+    "suburb_id": 58,
+    "state": "act",
+    "postcode": 2614,
+    "suburb_name": "Hawker"
   },
   {
-    "suburb_id": 8291,
-    "state": "sa",
-    "postcode": 5013,
-    "suburb_name": "Wingfield"
+    "suburb_id": 59,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Higgins"
   },
   {
-    "suburb_id": 7703,
-    "state": "sa",
-    "postcode": 5291,
-    "suburb_name": "Moorak"
+    "suburb_id": 60,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Holder"
   },
   {
-    "suburb_id": 7442,
-    "state": "sa",
-    "postcode": 5089,
-    "suburb_name": "Highbury"
+    "suburb_id": 61,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Holt"
   },
   {
-    "suburb_id": 7574,
-    "state": "sa",
-    "postcode": 5501,
-    "suburb_name": "Lewiston"
+    "suburb_id": 62,
+    "state": "act",
+    "postcode": 2605,
+    "suburb_name": "Hughes"
   },
   {
-    "suburb_id": 8313,
-    "state": "sa",
-    "postcode": 5010,
-    "suburb_name": "Woodville Gardens"
+    "suburb_id": 64,
+    "state": "act",
+    "postcode": 2607,
+    "suburb_name": "Isaacs"
   },
   {
-    "suburb_id": 7217,
-    "state": "sa",
-    "postcode": 5008,
-    "suburb_name": "Croydon Park"
+    "suburb_id": 65,
+    "state": "act",
+    "postcode": 2905,
+    "suburb_name": "Isabella Plains"
   },
   {
-    "suburb_id": 8075,
-    "state": "sa",
-    "postcode": 5048,
-    "suburb_name": "South Brighton"
+    "suburb_id": 66,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Jacka"
   },
   {
-    "suburb_id": 7772,
-    "state": "sa",
-    "postcode": 5252,
-    "suburb_name": "Nairne"
+    "suburb_id": 68,
+    "state": "act",
+    "postcode": 2617,
+    "suburb_name": "Kaleen"
   },
   {
-    "suburb_id": 8006,
-    "state": "sa",
-    "postcode": 5371,
-    "suburb_name": "Roseworthy"
+    "suburb_id": 69,
+    "state": "act",
+    "postcode": 2902,
+    "suburb_name": "Kambah"
   },
   {
-    "suburb_id": 7813,
-    "state": "sa",
-    "postcode": 5085,
-    "suburb_name": "Northfield"
+    "suburb_id": 71,
+    "state": "act",
+    "postcode": 2604,
+    "suburb_name": "Kingston"
   },
   {
-    "suburb_id": 7636,
-    "state": "sa",
-    "postcode": 5033,
-    "suburb_name": "Marleston"
+    "suburb_id": 73,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Latham"
   },
   {
-    "suburb_id": 7470,
-    "state": "sa",
-    "postcode": 5163,
-    "suburb_name": "Huntfield Heights"
+    "suburb_id": 74,
+    "state": "act",
+    "postcode": 2617,
+    "suburb_name": "Lawson"
   },
   {
-    "suburb_id": 7149,
-    "state": "sa",
-    "postcode": 5164,
-    "suburb_name": "Christie Downs"
+    "suburb_id": 75,
+    "state": "act",
+    "postcode": 2602,
+    "suburb_name": "Lyneham"
   },
   {
-    "suburb_id": 7908,
-    "state": "sa",
-    "postcode": 5275,
-    "suburb_name": "Pinks Beach"
+    "suburb_id": 76,
+    "state": "act",
+    "postcode": 2606,
+    "suburb_name": "Lyons"
   },
   {
-    "suburb_id": 7616,
-    "state": "sa",
-    "postcode": 5061,
-    "suburb_name": "Malvern"
+    "suburb_id": 77,
+    "state": "act",
+    "postcode": 2904,
+    "suburb_name": "Macarthur"
   },
   {
-    "suburb_id": 8044,
-    "state": "sa",
-    "postcode": 5169,
-    "suburb_name": "Seaford Rise"
+    "suburb_id": 78,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Macgregor"
   },
   {
-    "suburb_id": 7896,
-    "state": "sa",
-    "postcode": 5016,
-    "suburb_name": "Peterhead"
+    "suburb_id": 79,
+    "state": "act",
+    "postcode": 2614,
+    "suburb_name": "Macquarie"
   },
   {
-    "suburb_id": 7810,
-    "state": "sa",
-    "postcode": 5037,
-    "suburb_name": "North Plympton"
+    "suburb_id": 81,
+    "state": "act",
+    "postcode": 2607,
+    "suburb_name": "Mawson"
   },
   {
-    "suburb_id": 7581,
-    "state": "sa",
-    "postcode": 5241,
-    "suburb_name": "Lobethal"
+    "suburb_id": 82,
+    "state": "act",
+    "postcode": 2617,
+    "suburb_name": "Mckellar"
   },
   {
-    "suburb_id": 8008,
-    "state": "sa",
-    "postcode": 5073,
-    "suburb_name": "Rostrevor"
+    "suburb_id": 83,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Melba"
   },
   {
-    "suburb_id": 7290,
-    "state": "sa",
-    "postcode": 5374,
-    "suburb_name": "Eudunda"
+    "suburb_id": 85,
+    "state": "act",
+    "postcode": 2904,
+    "suburb_name": "Monash"
   },
   {
-    "suburb_id": 7565,
-    "state": "sa",
-    "postcode": 5016,
-    "suburb_name": "Largs North"
+    "suburb_id": 86,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Moncrieff"
   },
   {
-    "suburb_id": 7363,
-    "state": "sa",
-    "postcode": 5064,
-    "suburb_name": "Glen Osmond"
+    "suburb_id": 87,
+    "state": "act",
+    "postcode": 2604,
+    "suburb_name": "Narrabundah"
   },
   {
-    "suburb_id": 7050,
-    "state": "sa",
-    "postcode": 5462,
-    "suburb_name": "Blyth"
+    "suburb_id": 88,
+    "state": "act",
+    "postcode": 2913,
+    "suburb_name": "Ngunnawal"
   },
   {
-    "suburb_id": 7566,
-    "state": "sa",
-    "postcode": 5480,
-    "suburb_name": "Laura"
+    "suburb_id": 89,
+    "state": "act",
+    "postcode": 2913,
+    "suburb_name": "Nicholls"
   },
   {
-    "suburb_id": 7375,
-    "state": "sa",
-    "postcode": 5064,
-    "suburb_name": "Glenunga"
+    "suburb_id": 90,
+    "state": "act",
+    "postcode": 2602,
+    "suburb_name": "O'connor"
   },
   {
-    "suburb_id": 8112,
-    "state": "sa",
-    "postcode": 5680,
-    "suburb_name": "Streaky Bay"
+    "suburb_id": 91,
+    "state": "act",
+    "postcode": 2606,
+    "suburb_name": "O'malley"
   },
   {
-    "suburb_id": 8123,
-    "state": "sa",
-    "postcode": 5126,
-    "suburb_name": "Surrey Downs"
+    "suburb_id": 92,
+    "state": "act",
+    "postcode": 2620,
+    "suburb_name": "Oaks Estate"
   },
   {
-    "suburb_id": 7693,
-    "state": "sa",
-    "postcode": 5092,
-    "suburb_name": "Modbury North"
+    "suburb_id": 95,
+    "state": "act",
+    "postcode": 2903,
+    "suburb_name": "Oxley"
   },
   {
-    "suburb_id": 7602,
-    "state": "sa",
-    "postcode": 5602,
-    "suburb_name": "Lucky Bay"
+    "suburb_id": 97,
+    "state": "act",
+    "postcode": 2614,
+    "suburb_name": "Page"
   },
   {
-    "suburb_id": 7222,
-    "state": "sa",
-    "postcode": 5041,
-    "suburb_name": "Cumberland Park"
+    "suburb_id": 98,
+    "state": "act",
+    "postcode": 2913,
+    "suburb_name": "Palmerston"
   },
   {
-    "suburb_id": 8331,
-    "state": "sa",
-    "postcode": 5127,
-    "suburb_name": "Wynn Vale"
+    "suburb_id": 100,
+    "state": "act",
+    "postcode": 2607,
+    "suburb_name": "Pearce"
   },
   {
-    "suburb_id": 7474,
-    "state": "sa",
-    "postcode": 5098,
-    "suburb_name": "Ingle Farm"
+    "suburb_id": 101,
+    "state": "act",
+    "postcode": 2606,
+    "suburb_name": "Phillip"
   },
   {
-    "suburb_id": 7453,
-    "state": "sa",
-    "postcode": 5214,
-    "suburb_name": "Hindmarsh Island"
+    "suburb_id": 103,
+    "state": "act",
+    "postcode": 2603,
+    "suburb_name": "Red Hill"
   },
   {
-    "suburb_id": 7241,
-    "state": "sa",
-    "postcode": 5690,
-    "suburb_name": "Denial Bay"
+    "suburb_id": 104,
+    "state": "act",
+    "postcode": 2612,
+    "suburb_name": "Reid"
   },
   {
-    "suburb_id": 7026,
-    "state": "sa",
-    "postcode": 5067,
-    "suburb_name": "Beulah Park"
+    "suburb_id": 105,
+    "state": "act",
+    "postcode": 2905,
+    "suburb_name": "Richardson"
   },
   {
-    "suburb_id": 8310,
-    "state": "sa",
-    "postcode": 5253,
-    "suburb_name": "Woods Point"
+    "suburb_id": 106,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Rivett"
   },
   {
-    "suburb_id": 7273,
-    "state": "sa",
-    "postcode": 5112,
-    "suburb_name": "Elizabeth East"
+    "suburb_id": 108,
+    "state": "act",
+    "postcode": 2614,
+    "suburb_name": "Scullin"
   },
   {
-    "suburb_id": 7533,
-    "state": "sa",
-    "postcode": 5275,
-    "suburb_name": "Kingston Se"
+    "suburb_id": 109,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Spence"
   },
   {
-    "suburb_id": 7775,
-    "state": "sa",
-    "postcode": 5277,
-    "suburb_name": "Nangwarry"
-  },
-  {
-    "suburb_id": 8148,
-    "state": "sa",
-    "postcode": 5072,
-    "suburb_name": "Teringie"
-  },
-  {
-    "suburb_id": 7446,
-    "state": "sa",
-    "postcode": 5112,
-    "suburb_name": "Hillbank"
-  },
-  {
-    "suburb_id": 7034,
-    "state": "sa",
-    "postcode": 5035,
-    "suburb_name": "Black Forest"
-  },
-  {
-    "suburb_id": 7436,
-    "state": "sa",
-    "postcode": 5068,
-    "suburb_name": "Heathpool"
-  },
-  {
-    "suburb_id": 7990,
-    "state": "sa",
-    "postcode": 5033,
-    "suburb_name": "Richmond"
-  },
-  {
-    "suburb_id": 7399,
-    "state": "sa",
-    "postcode": 5096,
-    "suburb_name": "Gulfview Heights"
-  },
-  {
-    "suburb_id": 7932,
-    "state": "sa",
-    "postcode": 5522,
-    "suburb_name": "Port Broughton"
-  },
-  {
-    "suburb_id": 8081,
-    "state": "sa",
-    "postcode": 5453,
-    "suburb_name": "Spring Farm"
-  },
-  {
-    "suburb_id": 8269,
-    "state": "sa",
-    "postcode": 5600,
-    "suburb_name": "Whyalla Playford"
-  },
-  {
-    "suburb_id": 7633,
-    "state": "sa",
-    "postcode": 5043,
-    "suburb_name": "Marion"
-  },
-  {
-    "suburb_id": 7492,
-    "state": "sa",
-    "postcode": 5554,
-    "suburb_name": "Kadina"
-  },
-  {
-    "suburb_id": 7358,
-    "state": "sa",
-    "postcode": 5086,
-    "suburb_name": "Gilles Plains"
-  },
-  {
-    "suburb_id": 7881,
-    "state": "sa",
-    "postcode": 5070,
-    "suburb_name": "Payneham South"
-  },
-  {
-    "suburb_id": 8039,
-    "state": "sa",
-    "postcode": 5047,
-    "suburb_name": "Seacombe Gardens"
-  },
-  {
-    "suburb_id": 7160,
-    "state": "sa",
-    "postcode": 5640,
-    "suburb_name": "Cleve"
-  },
-  {
-    "suburb_id": 7064,
-    "state": "sa",
-    "postcode": 5007,
-    "suburb_name": "Bowden"
-  },
-  {
-    "suburb_id": 8246,
-    "state": "sa",
-    "postcode": 5007,
-    "suburb_name": "Welland"
-  },
-  {
-    "suburb_id": 7482,
-    "state": "sa",
-    "postcode": 5222,
-    "suburb_name": "Island Beach"
-  },
-  {
-    "suburb_id": 7210,
-    "state": "sa",
-    "postcode": 5152,
-    "suburb_name": "Crafers West"
-  },
-  {
-    "suburb_id": 7466,
-    "state": "sa",
-    "postcode": 5048,
-    "suburb_name": "Hove"
-  },
-  {
-    "suburb_id": 8178,
-    "state": "sa",
-    "postcode": 5158,
-    "suburb_name": "Trott Park"
-  },
-  {
-    "suburb_id": 6937,
-    "state": "sa",
-    "postcode": 5014,
-    "suburb_name": "Albert Park"
-  },
-  {
-    "suburb_id": 7926,
-    "state": "sa",
-    "postcode": 5095,
-    "suburb_name": "Pooraka"
-  },
-  {
-    "suburb_id": 7271,
-    "state": "sa",
-    "postcode": 5112,
-    "suburb_name": "Elizabeth"
-  },
-  {
-    "suburb_id": 6980,
-    "state": "sa",
-    "postcode": 5076,
-    "suburb_name": "Athelstone"
-  },
-  {
-    "suburb_id": 8270,
-    "state": "sa",
-    "postcode": 5608,
-    "suburb_name": "Whyalla Stuart"
-  },
-  {
-    "suburb_id": 7285,
-    "state": "sa",
-    "postcode": 5085,
-    "suburb_name": "Enfield"
-  },
-  {
-    "suburb_id": 8023,
-    "state": "sa",
-    "postcode": 5109,
-    "suburb_name": "Salisbury Plain"
-  },
-  {
-    "suburb_id": 6986,
-    "state": "sa",
-    "postcode": 5253,
-    "suburb_name": "Avoca Dell"
-  },
-  {
-    "suburb_id": 8277,
-    "state": "sa",
-    "postcode": 5118,
-    "suburb_name": "Willaston"
-  },
-  {
-    "suburb_id": 7848,
-    "state": "sa",
-    "postcode": 5271,
-    "suburb_name": "Padthaway"
-  },
-  {
-    "suburb_id": 8068,
-    "state": "sa",
-    "postcode": 5072,
-    "suburb_name": "Skye"
-  },
-  {
-    "suburb_id": 8233,
-    "state": "sa",
-    "postcode": 5066,
-    "suburb_name": "Waterfall Gully"
-  },
-  {
-    "suburb_id": 7018,
-    "state": "sa",
-    "postcode": 5050,
-    "suburb_name": "Bellevue Heights"
-  },
-  {
-    "suburb_id": 7368,
-    "state": "sa",
-    "postcode": 5045,
-    "suburb_name": "Glenelg"
-  },
-  {
-    "suburb_id": 8040,
-    "state": "sa",
-    "postcode": 5047,
-    "suburb_name": "Seacombe Heights"
-  },
-  {
-    "suburb_id": 7700,
-    "state": "sa",
-    "postcode": 5558,
-    "suburb_name": "Moonta"
-  },
-  {
-    "suburb_id": 7929,
-    "state": "sa",
-    "postcode": 5700,
-    "suburb_name": "Port Augusta"
-  },
-  {
-    "suburb_id": 7355,
-    "state": "sa",
-    "postcode": 5081,
-    "suburb_name": "Gilberton"
-  },
-  {
-    "suburb_id": 7639,
-    "state": "sa",
-    "postcode": 5068,
-    "suburb_name": "Marryatville"
-  },
-  {
-    "suburb_id": 7880,
-    "state": "sa",
-    "postcode": 5070,
-    "suburb_name": "Payneham"
-  },
-  {
-    "suburb_id": 8146,
-    "state": "sa",
-    "postcode": 5022,
-    "suburb_name": "Tennyson"
-  },
-  {
-    "suburb_id": 7169,
-    "state": "sa",
-    "postcode": 5607,
-    "suburb_name": "Coffin Bay"
-  },
-  {
-    "suburb_id": 8103,
-    "state": "sa",
-    "postcode": 5710,
-    "suburb_name": "Stirling North"
-  },
-  {
-    "suburb_id": 7525,
-    "state": "sa",
-    "postcode": 5009,
-    "suburb_name": "Kilkenny"
-  },
-  {
-    "suburb_id": 7295,
-    "state": "sa",
-    "postcode": 5116,
-    "suburb_name": "Evanston Park"
-  },
-  {
-    "suburb_id": 7511,
-    "state": "sa",
-    "postcode": 5068,
-    "suburb_name": "Kensington Gardens"
-  },
-  {
-    "suburb_id": 7242,
-    "state": "sa",
-    "postcode": 5075,
-    "suburb_name": "Dernancourt"
-  },
-  {
-    "suburb_id": 7319,
-    "state": "sa",
-    "postcode": 5025,
-    "suburb_name": "Flinders Park"
-  },
-  {
-    "suburb_id": 7624,
-    "state": "sa",
-    "postcode": 5012,
-    "suburb_name": "Mansfield Park"
-  },
-  {
-    "suburb_id": 7398,
-    "state": "sa",
-    "postcode": 5125,
-    "suburb_name": "Greenwith"
-  },
-  {
-    "suburb_id": 7259,
-    "state": "sa",
-    "postcode": 5063,
-    "suburb_name": "Eastwood"
-  },
-  {
-    "suburb_id": 7284,
-    "state": "sa",
-    "postcode": 5211,
-    "suburb_name": "Encounter Bay"
-  },
-  {
-    "suburb_id": 6972,
-    "state": "sa",
-    "postcode": 5453,
-    "suburb_name": "Armagh"
-  },
-  {
-    "suburb_id": 7433,
-    "state": "sa",
-    "postcode": 5211,
-    "suburb_name": "Hayborough"
-  },
-  {
-    "suburb_id": 7713,
-    "state": "sa",
-    "postcode": 5251,
-    "suburb_name": "Mount Barker"
-  },
-  {
-    "suburb_id": 7438,
-    "state": "sa",
-    "postcode": 5014,
-    "suburb_name": "Hendon"
-  },
-  {
-    "suburb_id": 8083,
-    "state": "sa",
-    "postcode": 5062,
-    "suburb_name": "Springfield"
-  },
-  {
-    "suburb_id": 7153,
-    "state": "sa",
-    "postcode": 5039,
-    "suburb_name": "Clarence Gardens"
-  },
-  {
-    "suburb_id": 7790,
-    "state": "sa",
-    "postcode": 5037,
-    "suburb_name": "Netley"
-  },
-  {
-    "suburb_id": 8253,
-    "state": "sa",
-    "postcode": 5021,
-    "suburb_name": "West Lakes"
-  },
-  {
-    "suburb_id": 8204,
-    "state": "sa",
-    "postcode": 5120,
-    "suburb_name": "Virginia"
-  },
-  {
-    "suburb_id": 7370,
-    "state": "sa",
-    "postcode": 5045,
-    "suburb_name": "Glenelg North"
-  },
-  {
-    "suburb_id": 7275,
-    "state": "sa",
-    "postcode": 5113,
-    "suburb_name": "Elizabeth North"
-  },
-  {
-    "suburb_id": 8175,
-    "state": "sa",
-    "postcode": 5073,
-    "suburb_name": "Tranmere"
-  },
-  {
-    "suburb_id": 7877,
-    "state": "sa",
-    "postcode": 5042,
-    "suburb_name": "Pasadena"
-  },
-  {
-    "suburb_id": 7293,
-    "state": "sa",
-    "postcode": 5116,
-    "suburb_name": "Evanston"
-  },
-  {
-    "suburb_id": 7411,
-    "state": "sa",
-    "postcode": 5158,
-    "suburb_name": "Hallett Cove"
-  },
-  {
-    "suburb_id": 7806,
-    "state": "sa",
-    "postcode": 5556,
-    "suburb_name": "North Beach"
-  },
-  {
-    "suburb_id": 7270,
-    "state": "sa",
-    "postcode": 5291,
-    "suburb_name": "Eight Mile Creek"
-  },
-  {
-    "suburb_id": 7337,
-    "state": "sa",
-    "postcode": 5063,
-    "suburb_name": "Fullarton"
-  },
-  {
-    "suburb_id": 8078,
-    "state": "sa",
-    "postcode": 5038,
-    "suburb_name": "South Plympton"
-  },
-  {
-    "suburb_id": 7796,
-    "state": "sa",
-    "postcode": 5074,
-    "suburb_name": "Newton"
-  },
-  {
-    "suburb_id": 6940,
-    "state": "sa",
-    "postcode": 5173,
-    "suburb_name": "Aldinga"
-  },
-  {
-    "suburb_id": 7793,
-    "state": "sa",
-    "postcode": 5554,
-    "suburb_name": "New Town"
-  },
-  {
-    "suburb_id": 8021,
-    "state": "sa",
-    "postcode": 5108,
-    "suburb_name": "Salisbury North"
-  },
-  {
-    "suburb_id": 8087,
-    "state": "sa",
-    "postcode": 5011,
-    "suburb_name": "St Clair"
-  },
-  {
-    "suburb_id": 7722,
-    "state": "sa",
-    "postcode": 5210,
-    "suburb_name": "Mount Compass"
-  },
-  {
-    "suburb_id": 7276,
-    "state": "sa",
-    "postcode": 5113,
-    "suburb_name": "Elizabeth Park"
-  },
-  {
-    "suburb_id": 7206,
-    "state": "sa",
-    "postcode": 5602,
-    "suburb_name": "Cowell"
-  },
-  {
-    "suburb_id": 7082,
-    "state": "sa",
-    "postcode": 5032,
-    "suburb_name": "Brooklyn Park"
-  },
-  {
-    "suburb_id": 7305,
-    "state": "sa",
-    "postcode": 5010,
-    "suburb_name": "Ferryden Park"
-  },
-  {
-    "suburb_id": 8181,
-    "state": "sa",
-    "postcode": 5605,
-    "suburb_name": "Tumby Bay"
-  },
-  {
-    "suburb_id": 6975,
-    "state": "sa",
-    "postcode": 5043,
-    "suburb_name": "Ascot Park"
-  },
-  {
-    "suburb_id": 7309,
-    "state": "sa",
-    "postcode": 5070,
-    "suburb_name": "Firle"
-  },
-  {
-    "suburb_id": 7856,
-    "state": "sa",
-    "postcode": 5096,
-    "suburb_name": "Para Hills"
-  },
-  {
-    "suburb_id": 8284,
-    "state": "sa",
-    "postcode": 5172,
-    "suburb_name": "Willunga"
-  },
-  {
-    "suburb_id": 7909,
-    "state": "sa",
-    "postcode": 5304,
-    "suburb_name": "Pinnaroo"
-  },
-  {
-    "suburb_id": 7707,
-    "state": "sa",
-    "postcode": 5320,
-    "suburb_name": "Morgan"
-  },
-  {
-    "suburb_id": 7374,
-    "state": "sa",
-    "postcode": 5065,
-    "suburb_name": "Glenside"
-  },
-  {
-    "suburb_id": 7822,
-    "state": "sa",
-    "postcode": 5158,
-    "suburb_name": "O'halloran Hill"
-  },
-  {
-    "suburb_id": 7080,
-    "state": "sa",
-    "postcode": 5007,
-    "suburb_name": "Brompton"
-  },
-  {
-    "suburb_id": 7913,
-    "state": "sa",
-    "postcode": 5038,
-    "suburb_name": "Plympton"
-  },
-  {
-    "suburb_id": 7152,
-    "state": "sa",
-    "postcode": 5453,
-    "suburb_name": "Clare"
-  },
-  {
-    "suburb_id": 8196,
-    "state": "sa",
-    "postcode": 5064,
-    "suburb_name": "Urrbrae"
-  },
-  {
-    "suburb_id": 8037,
-    "state": "sa",
-    "postcode": 5049,
-    "suburb_name": "Seacliff"
-  },
-  {
-    "suburb_id": 7937,
-    "state": "sa",
-    "postcode": 5558,
-    "suburb_name": "Port Hughes"
-  },
-  {
-    "suburb_id": 8215,
-    "state": "sa",
-    "postcode": 5554,
-    "suburb_name": "Wallaroo Mines"
-  },
-  {
-    "suburb_id": 7857,
-    "state": "sa",
-    "postcode": 5096,
-    "suburb_name": "Para Hills West"
-  },
-  {
-    "suburb_id": 8198,
-    "state": "sa",
-    "postcode": 5093,
-    "suburb_name": "Valley View"
-  },
-  {
-    "suburb_id": 7522,
-    "state": "sa",
-    "postcode": 5025,
-    "suburb_name": "Kidman Park"
-  },
-  {
-    "suburb_id": 8086,
-    "state": "sa",
-    "postcode": 5097,
-    "suburb_name": "St Agnes"
-  },
-  {
-    "suburb_id": 7564,
-    "state": "sa",
-    "postcode": 5016,
-    "suburb_name": "Largs Bay"
-  },
-  {
-    "suburb_id": 7621,
-    "state": "sa",
-    "postcode": 5086,
-    "suburb_name": "Manningham"
-  },
-  {
-    "suburb_id": 7598,
-    "state": "sa",
-    "postcode": 5062,
-    "suburb_name": "Lower Mitcham"
-  },
-  {
-    "suburb_id": 7823,
-    "state": "sa",
-    "postcode": 5166,
-    "suburb_name": "O'sullivan Beach"
-  },
-  {
-    "suburb_id": 7151,
-    "state": "sa",
-    "postcode": 5062,
-    "suburb_name": "Clapham"
-  },
-  {
-    "suburb_id": 7510,
-    "state": "sa",
-    "postcode": 5068,
-    "suburb_name": "Kensington"
-  },
-  {
-    "suburb_id": 8041,
-    "state": "sa",
-    "postcode": 5169,
-    "suburb_name": "Seaford"
-  },
-  {
-    "suburb_id": 7434,
-    "state": "sa",
-    "postcode": 5066,
-    "suburb_name": "Hazelwood Park"
-  },
-  {
-    "suburb_id": 8314,
-    "state": "sa",
-    "postcode": 5012,
-    "suburb_name": "Woodville North"
-  },
-  {
-    "suburb_id": 8190,
-    "state": "sa",
-    "postcode": 5061,
-    "suburb_name": "Unley Park"
-  },
-  {
-    "suburb_id": 7047,
-    "state": "sa",
-    "postcode": 5171,
-    "suburb_name": "Blewitt Springs"
-  },
-  {
-    "suburb_id": 7692,
-    "state": "sa",
-    "postcode": 5092,
-    "suburb_name": "Modbury Heights"
-  },
-  {
-    "suburb_id": 7235,
-    "state": "sa",
-    "postcode": 5113,
-    "suburb_name": "Davoren Park"
-  },
-  {
-    "suburb_id": 7933,
-    "state": "sa",
-    "postcode": 5212,
-    "suburb_name": "Port Elliot"
-  },
-  {
-    "suburb_id": 8051,
-    "state": "sa",
-    "postcode": 5083,
-    "suburb_name": "Sefton Park"
-  },
-  {
-    "suburb_id": 7385,
-    "state": "sa",
-    "postcode": 5214,
-    "suburb_name": "Goolwa North"
-  },
-  {
-    "suburb_id": 6997,
-    "state": "sa",
-    "postcode": 5242,
-    "suburb_name": "Balhannah"
-  },
-  {
-    "suburb_id": 7441,
-    "state": "sa",
-    "postcode": 5118,
-    "suburb_name": "Hewett"
-  },
-  {
-    "suburb_id": 7335,
-    "state": "sa",
-    "postcode": 5024,
-    "suburb_name": "Fulham"
-  },
-  {
-    "suburb_id": 8229,
-    "state": "sa",
-    "postcode": 5046,
-    "suburb_name": "Warradale"
-  },
-  {
-    "suburb_id": 8265,
-    "state": "sa",
-    "postcode": 5600,
-    "suburb_name": "Whyalla"
-  },
-  {
-    "suburb_id": 7447,
-    "state": "sa",
-    "postcode": 5086,
-    "suburb_name": "Hillcrest"
-  },
-  {
-    "suburb_id": 7653,
-    "state": "sa",
-    "postcode": 5039,
-    "suburb_name": "Melrose Park"
-  },
-  {
-    "suburb_id": 8070,
-    "state": "sa",
-    "postcode": 5114,
-    "suburb_name": "Smithfield Plains"
-  },
-  {
-    "suburb_id": 8133,
-    "state": "sa",
-    "postcode": 5017,
-    "suburb_name": "Taperoo"
-  },
-  {
-    "suburb_id": 7269,
-    "state": "sa",
-    "postcode": 5039,
-    "suburb_name": "Edwardstown"
-  },
-  {
-    "suburb_id": 7993,
-    "state": "sa",
-    "postcode": 5540,
-    "suburb_name": "Risdon Park"
-  },
-  {
-    "suburb_id": 7652,
-    "state": "sa",
-    "postcode": 5483,
-    "suburb_name": "Melrose"
-  },
-  {
-    "suburb_id": 7456,
-    "state": "sa",
-    "postcode": 5088,
-    "suburb_name": "Holden Hill"
-  },
-  {
-    "suburb_id": 6939,
-    "state": "sa",
-    "postcode": 5154,
-    "suburb_name": "Aldgate"
-  },
-  {
-    "suburb_id": 7382,
-    "state": "sa",
-    "postcode": 5034,
-    "suburb_name": "Goodwood"
-  },
-  {
-    "suburb_id": 7920,
-    "state": "sa",
-    "postcode": 5575,
-    "suburb_name": "Point Turton"
-  },
-  {
-    "suburb_id": 7520,
-    "state": "sa",
-    "postcode": 5353,
-    "suburb_name": "Keyneton"
-  },
-  {
-    "suburb_id": 7386,
-    "state": "sa",
-    "postcode": 5214,
-    "suburb_name": "Goolwa South"
-  },
-  {
-    "suburb_id": 7471,
-    "state": "sa",
-    "postcode": 5061,
-    "suburb_name": "Hyde Park"
-  },
-  {
-    "suburb_id": 7126,
-    "state": "sa",
-    "postcode": 5204,
-    "suburb_name": "Carrickalinga"
-  },
-  {
-    "suburb_id": 8255,
-    "state": "sa",
-    "postcode": 5033,
-    "suburb_name": "West Richmond"
-  },
-  {
-    "suburb_id": 7812,
-    "state": "sa",
-    "postcode": 5253,
-    "suburb_name": "Northern Heights"
-  },
-  {
-    "suburb_id": 8250,
-    "state": "sa",
-    "postcode": 5024,
-    "suburb_name": "West Beach"
-  },
-  {
-    "suburb_id": 8306,
-    "state": "sa",
-    "postcode": 5162,
-    "suburb_name": "Woodcroft"
-  },
-  {
-    "suburb_id": 8143,
-    "state": "sa",
-    "postcode": 5091,
-    "suburb_name": "Tea Tree Gully"
-  },
-  {
-    "suburb_id": 7122,
-    "state": "sa",
-    "postcode": 5204,
-    "suburb_name": "Cape Jervis"
-  },
-  {
-    "suburb_id": 7484,
-    "state": "sa",
-    "postcode": 5571,
-    "suburb_name": "James Well"
-  },
-  {
-    "suburb_id": 7900,
-    "state": "sa",
-    "postcode": 5151,
-    "suburb_name": "Piccadilly"
-  },
-  {
-    "suburb_id": 7365,
-    "state": "sa",
-    "postcode": 5291,
-    "suburb_name": "Glenburnie"
-  },
-  {
-    "suburb_id": 7212,
-    "state": "sa",
-    "postcode": 5114,
-    "suburb_name": "Craigmore"
-  },
-  {
-    "suburb_id": 7739,
-    "state": "sa",
-    "postcode": 5064,
-    "suburb_name": "Mount Osmond"
-  },
-  {
-    "suburb_id": 7811,
-    "state": "sa",
-    "postcode": 5607,
-    "suburb_name": "North Shields"
-  },
-  {
-    "suburb_id": 8315,
-    "state": "sa",
-    "postcode": 5011,
-    "suburb_name": "Woodville Park"
-  },
-  {
-    "suburb_id": 7369,
-    "state": "sa",
-    "postcode": 5045,
-    "suburb_name": "Glenelg East"
-  },
-  {
-    "suburb_id": 7765,
-    "state": "sa",
-    "postcode": 5153,
-    "suburb_name": "Mylor"
-  },
-  {
-    "suburb_id": 8312,
-    "state": "sa",
-    "postcode": 5011,
-    "suburb_name": "Woodville"
-  },
-  {
-    "suburb_id": 7609,
-    "state": "sa",
-    "postcode": 5121,
-    "suburb_name": "Macdonald Park"
-  },
-  {
-    "suburb_id": 8202,
-    "state": "sa",
-    "postcode": 5211,
-    "suburb_name": "Victor Harbor"
-  },
-  {
-    "suburb_id": 7102,
-    "state": "sa",
-    "postcode": 5291,
-    "suburb_name": "Burrungule"
-  },
-  {
-    "suburb_id": 8151,
-    "state": "sa",
-    "postcode": 5577,
-    "suburb_name": "The Pines"
-  },
-  {
-    "suburb_id": 7182,
-    "state": "sa",
-    "postcode": 5723,
-    "suburb_name": "Coober Pedy"
-  },
-  {
-    "suburb_id": 7176,
-    "state": "sa",
-    "postcode": 5041,
-    "suburb_name": "Colonel Light Gardens"
-  },
-  {
-    "suburb_id": 8325,
-    "state": "sa",
-    "postcode": 5291,
-    "suburb_name": "Worrolong"
-  },
-  {
-    "suburb_id": 7410,
-    "state": "sa",
-    "postcode": 5419,
-    "suburb_name": "Hallett"
-  },
-  {
-    "suburb_id": 7709,
-    "state": "sa",
-    "postcode": 5043,
-    "suburb_name": "Morphettville"
-  },
-  {
-    "suburb_id": 7820,
-    "state": "sa",
-    "postcode": 5355,
-    "suburb_name": "Nuriootpa"
-  },
-  {
-    "suburb_id": 8268,
-    "state": "sa",
-    "postcode": 5608,
-    "suburb_name": "Whyalla Norrie"
-  },
-  {
-    "suburb_id": 7371,
-    "state": "sa",
-    "postcode": 5045,
-    "suburb_name": "Glenelg South"
-  },
-  {
-    "suburb_id": 7648,
-    "state": "sa",
-    "postcode": 5171,
-    "suburb_name": "Mclaren Vale"
-  },
-  {
-    "suburb_id": 6993,
-    "state": "sa",
-    "postcode": 5461,
-    "suburb_name": "Balaklava"
-  },
-  {
-    "suburb_id": 8055,
-    "state": "sa",
-    "postcode": 5019,
-    "suburb_name": "Semaphore Park"
-  },
-  {
-    "suburb_id": 7278,
-    "state": "sa",
-    "postcode": 5112,
-    "suburb_name": "Elizabeth Vale"
-  },
-  {
-    "suburb_id": 7802,
-    "state": "sa",
-    "postcode": 5168,
-    "suburb_name": "Noarlunga Downs"
-  },
-  {
-    "suburb_id": 7255,
-    "state": "sa",
-    "postcode": 5065,
-    "suburb_name": "Dulwich"
-  },
-  {
-    "suburb_id": 7758,
-    "state": "sa",
-    "postcode": 5253,
-    "suburb_name": "Murray Bridge"
-  },
-  {
-    "suburb_id": 8080,
-    "state": "sa",
-    "postcode": 5454,
-    "suburb_name": "Spalding"
-  },
-  {
-    "suburb_id": 7778,
-    "state": "sa",
-    "postcode": 5271,
-    "suburb_name": "Naracoorte"
-  },
-  {
-    "suburb_id": 7992,
-    "state": "sa",
-    "postcode": 5008,
-    "suburb_name": "Ridleyton"
-  },
-  {
-    "suburb_id": 7928,
-    "state": "sa",
-    "postcode": 5015,
-    "suburb_name": "Port Adelaide"
-  },
-  {
-    "suburb_id": 7946,
-    "state": "sa",
-    "postcode": 5167,
-    "suburb_name": "Port Noarlunga South"
-  },
-  {
-    "suburb_id": 8187,
-    "state": "sa",
-    "postcode": 5032,
-    "suburb_name": "Underdale"
-  },
-  {
-    "suburb_id": 7246,
-    "state": "sa",
-    "postcode": 5110,
-    "suburb_name": "Direk"
-  },
-  {
-    "suburb_id": 8189,
-    "state": "sa",
-    "postcode": 5061,
-    "suburb_name": "Unley"
-  },
-  {
-    "suburb_id": 7729,
-    "state": "sa",
-    "postcode": 5290,
-    "suburb_name": "Mount Gambier"
-  },
-  {
-    "suburb_id": 7103,
-    "state": "sa",
-    "postcode": 5110,
-    "suburb_name": "Burton"
-  },
-  {
-    "suburb_id": 7914,
-    "state": "sa",
-    "postcode": 5038,
-    "suburb_name": "Plympton Park"
-  },
-  {
-    "suburb_id": 7895,
-    "state": "sa",
-    "postcode": 5422,
-    "suburb_name": "Peterborough"
-  },
-  {
-    "suburb_id": 8043,
-    "state": "sa",
-    "postcode": 5169,
-    "suburb_name": "Seaford Meadows"
-  },
-  {
-    "suburb_id": 8128,
-    "state": "sa",
-    "postcode": 5259,
-    "suburb_name": "Tailem Bend"
-  },
-  {
-    "suburb_id": 7825,
-    "state": "sa",
-    "postcode": 5086,
-    "suburb_name": "Oakden"
-  },
-  {
-    "suburb_id": 7817,
-    "state": "sa",
-    "postcode": 5040,
-    "suburb_name": "Novar Gardens"
-  },
-  {
-    "suburb_id": 6944,
-    "state": "sa",
-    "postcode": 5009,
-    "suburb_name": "Allenby Gardens"
-  },
-  {
-    "suburb_id": 7668,
-    "state": "sa",
-    "postcode": 5256,
-    "suburb_name": "Milang"
-  },
-  {
-    "suburb_id": 7841,
-    "state": "sa",
-    "postcode": 5017,
-    "suburb_name": "Osborne"
-  },
-  {
-    "suburb_id": 7345,
-    "state": "sa",
-    "postcode": 5118,
-    "suburb_name": "Gawler South"
-  },
-  {
-    "suburb_id": 8046,
-    "state": "sa",
-    "postcode": 5049,
-    "suburb_name": "Seaview Downs"
-  },
-  {
-    "suburb_id": 7824,
-    "state": "sa",
-    "postcode": 5243,
-    "suburb_name": "Oakbank"
-  },
-  {
-    "suburb_id": 7462,
-    "state": "sa",
-    "postcode": 5090,
-    "suburb_name": "Hope Valley"
-  },
-  {
-    "suburb_id": 7023,
-    "state": "sa",
-    "postcode": 5343,
-    "suburb_name": "Berri"
-  },
-  {
-    "suburb_id": 7053,
-    "state": "sa",
-    "postcode": 5417,
-    "suburb_name": "Booborowie"
-  },
-  {
-    "suburb_id": 7952,
-    "state": "sa",
-    "postcode": 5581,
-    "suburb_name": "Port Vincent"
-  },
-  {
-    "suburb_id": 8254,
-    "state": "sa",
-    "postcode": 5020,
-    "suburb_name": "West Lakes Shore"
-  },
-  {
-    "suburb_id": 7403,
-    "state": "sa",
-    "postcode": 5163,
-    "suburb_name": "Hackham"
-  },
-  {
-    "suburb_id": 7788,
-    "state": "sa",
-    "postcode": 5062,
-    "suburb_name": "Netherby"
-  },
-  {
-    "suburb_id": 7364,
-    "state": "sa",
-    "postcode": 5052,
-    "suburb_name": "Glenalta"
-  },
-  {
-    "suburb_id": 7211,
-    "state": "sa",
-    "postcode": 5051,
-    "suburb_name": "Craigburn Farm"
-  },
-  {
-    "suburb_id": 7888,
-    "state": "sa",
-    "postcode": 5222,
-    "suburb_name": "Penneshaw"
-  },
-  {
-    "suburb_id": 8054,
-    "state": "sa",
-    "postcode": 5019,
-    "suburb_name": "Semaphore"
-  },
-  {
-    "suburb_id": 8344,
-    "state": "sa",
-    "postcode": 5114,
-    "suburb_name": "Yattalunga"
-  },
-  {
-    "suburb_id": 8290,
-    "state": "sa",
-    "postcode": 5087,
-    "suburb_name": "Windsor Gardens"
-  },
-  {
-    "suburb_id": 7590,
-    "state": "sa",
-    "postcode": 5607,
-    "suburb_name": "Louth Bay"
-  },
-  {
-    "suburb_id": 7172,
-    "state": "sa",
-    "postcode": 5069,
-    "suburb_name": "College Park"
-  },
-  {
-    "suburb_id": 8184,
-    "state": "sa",
-    "postcode": 5501,
-    "suburb_name": "Two Wells"
-  },
-  {
-    "suburb_id": 7956,
-    "state": "sa",
-    "postcode": 5082,
-    "suburb_name": "Prospect"
-  },
-  {
-    "suburb_id": 7991,
-    "state": "sa",
-    "postcode": 5097,
-    "suburb_name": "Ridgehaven"
-  },
-  {
-    "suburb_id": 7807,
-    "state": "sa",
-    "postcode": 5048,
-    "suburb_name": "North Brighton"
-  },
-  {
-    "suburb_id": 7404,
-    "state": "sa",
-    "postcode": 5163,
-    "suburb_name": "Hackham West"
-  },
-  {
-    "suburb_id": 7674,
-    "state": "sa",
-    "postcode": 5280,
-    "suburb_name": "Millicent"
-  },
-  {
-    "suburb_id": 7632,
-    "state": "sa",
-    "postcode": 5049,
-    "suburb_name": "Marino"
-  },
-  {
-    "suburb_id": 7307,
-    "state": "sa",
-    "postcode": 5023,
-    "suburb_name": "Findon"
-  },
-  {
-    "suburb_id": 7615,
-    "state": "sa",
-    "postcode": 5502,
-    "suburb_name": "Mallala"
-  },
-  {
-    "suburb_id": 7003,
-    "state": "sa",
-    "postcode": 5345,
-    "suburb_name": "Barmera"
-  },
-  {
-    "suburb_id": 7079,
-    "state": "sa",
-    "postcode": 5083,
-    "suburb_name": "Broadview"
-  },
-  {
-    "suburb_id": 8005,
-    "state": "sa",
-    "postcode": 5013,
-    "suburb_name": "Rosewater"
-  },
-  {
-    "suburb_id": 8316,
-    "state": "sa",
-    "postcode": 5011,
-    "suburb_name": "Woodville South"
-  },
-  {
-    "suburb_id": 7994,
-    "state": "sa",
-    "postcode": 5540,
-    "suburb_name": "Risdon Park South"
-  },
-  {
-    "suburb_id": 7487,
-    "state": "sa",
-    "postcode": 5554,
-    "suburb_name": "Jerusalem"
-  },
-  {
-    "suburb_id": 8132,
-    "state": "sa",
-    "postcode": 5352,
-    "suburb_name": "Tanunda"
-  },
-  {
-    "suburb_id": 7644,
-    "state": "sa",
-    "postcode": 5069,
-    "suburb_name": "Maylands"
-  },
-  {
-    "suburb_id": 7262,
-    "state": "sa",
-    "postcode": 5153,
-    "suburb_name": "Echunga"
-  },
-  {
-    "suburb_id": 7843,
-    "state": "sa",
-    "postcode": 5013,
-    "suburb_name": "Ottoway"
-  },
-  {
-    "suburb_id": 7643,
-    "state": "sa",
-    "postcode": 5095,
-    "suburb_name": "Mawson Lakes"
-  },
-  {
-    "suburb_id": 7686,
-    "state": "sa",
-    "postcode": 5043,
-    "suburb_name": "Mitchell Park"
-  },
-  {
-    "suburb_id": 7157,
-    "state": "sa",
-    "postcode": 5085,
-    "suburb_name": "Clearview"
-  },
-  {
-    "suburb_id": 8111,
-    "state": "sa",
-    "postcode": 5255,
-    "suburb_name": "Strathalbyn"
-  },
-  {
-    "suburb_id": 7142,
-    "state": "sa",
-    "postcode": 5014,
-    "suburb_name": "Cheltenham"
-  },
-  {
-    "suburb_id": 6938,
-    "state": "sa",
-    "postcode": 5014,
-    "suburb_name": "Alberton"
-  },
-  {
-    "suburb_id": 7650,
-    "state": "sa",
-    "postcode": 5081,
-    "suburb_name": "Medindie"
-  },
-  {
-    "suburb_id": 8169,
-    "state": "sa",
-    "postcode": 5062,
-    "suburb_name": "Torrens Park"
-  },
-  {
-    "suburb_id": 7665,
-    "state": "sa",
-    "postcode": 5213,
-    "suburb_name": "Middleton"
-  },
-  {
-    "suburb_id": 7277,
-    "state": "sa",
-    "postcode": 5112,
-    "suburb_name": "Elizabeth South"
-  },
-  {
-    "suburb_id": 7430,
-    "state": "sa",
-    "postcode": 5062,
-    "suburb_name": "Hawthorn"
-  },
-  {
-    "suburb_id": 7422,
-    "state": "sa",
-    "postcode": 5575,
-    "suburb_name": "Hardwicke Bay"
-  },
-  {
-    "suburb_id": 7249,
-    "state": "sa",
-    "postcode": 5048,
-    "suburb_name": "Dover Gardens"
-  },
-  {
-    "suburb_id": 7218,
-    "state": "sa",
-    "postcode": 5523,
-    "suburb_name": "Crystal Brook"
-  },
-  {
-    "suburb_id": 8007,
-    "state": "sa",
-    "postcode": 5072,
-    "suburb_name": "Rosslyn Park"
-  },
-  {
-    "suburb_id": 7015,
-    "state": "sa",
-    "postcode": 5052,
-    "suburb_name": "Belair"
-  },
-  {
-    "suburb_id": 7553,
-    "state": "sa",
-    "postcode": 5037,
-    "suburb_name": "Kurralta Park"
-  },
-  {
-    "suburb_id": 8242,
-    "state": "sa",
-    "postcode": 5034,
-    "suburb_name": "Wayville"
-  },
-  {
-    "suburb_id": 7027,
-    "state": "sa",
-    "postcode": 5009,
-    "suburb_name": "Beverley"
-  },
-  {
-    "suburb_id": 7948,
-    "state": "sa",
-    "postcode": 5540,
-    "suburb_name": "Port Pirie South"
-  },
-  {
-    "suburb_id": 7534,
-    "state": "sa",
-    "postcode": 5062,
-    "suburb_name": "Kingswood"
-  },
-  {
-    "suburb_id": 8168,
-    "state": "sa",
-    "postcode": 5065,
-    "suburb_name": "Toorak Gardens"
-  },
-  {
-    "suburb_id": 7508,
-    "state": "sa",
-    "postcode": 5267,
-    "suburb_name": "Keith"
-  },
-  {
-    "suburb_id": 7302,
-    "state": "sa",
-    "postcode": 5126,
-    "suburb_name": "Fairview Park"
-  },
-  {
-    "suburb_id": 7683,
-    "state": "sa",
-    "postcode": 5415,
-    "suburb_name": "Mintaro"
-  },
-  {
-    "suburb_id": 7042,
-    "state": "sa",
-    "postcode": 5114,
-    "suburb_name": "Blakeview"
-  },
-  {
-    "suburb_id": 7855,
-    "state": "sa",
-    "postcode": 5041,
-    "suburb_name": "Panorama"
-  },
-  {
-    "suburb_id": 7641,
-    "state": "sa",
-    "postcode": 5554,
-    "suburb_name": "Matta Flat"
-  },
-  {
-    "suburb_id": 8045,
-    "state": "sa",
-    "postcode": 5023,
-    "suburb_name": "Seaton"
-  },
-  {
-    "suburb_id": 8038,
-    "state": "sa",
-    "postcode": 5049,
-    "suburb_name": "Seacliff Park"
-  },
-  {
-    "suburb_id": 8256,
-    "state": "sa",
-    "postcode": 5041,
-    "suburb_name": "Westbourne Park"
-  },
-  {
-    "suburb_id": 8212,
-    "state": "sa",
-    "postcode": 5098,
-    "suburb_name": "Walkley Heights"
-  },
-  {
-    "suburb_id": 6931,
-    "state": "sa",
-    "postcode": 5159,
-    "suburb_name": "Aberfoyle Park"
-  },
-  {
-    "suburb_id": 7236,
-    "state": "sa",
-    "postcode": 5041,
-    "suburb_name": "Daw Park"
-  },
-  {
-    "suburb_id": 7288,
-    "state": "sa",
-    "postcode": 5015,
-    "suburb_name": "Ethelton"
-  },
-  {
-    "suburb_id": 7622,
-    "state": "sa",
-    "postcode": 5238,
-    "suburb_name": "Mannum"
-  },
-  {
-    "suburb_id": 7040,
-    "state": "sa",
-    "postcode": 5051,
-    "suburb_name": "Blackwood"
-  },
-  {
-    "suburb_id": 7684,
-    "state": "sa",
-    "postcode": 5062,
-    "suburb_name": "Mitcham"
-  },
-  {
-    "suburb_id": 7440,
-    "state": "sa",
-    "postcode": 5022,
-    "suburb_name": "Henley Beach South"
-  },
-  {
-    "suburb_id": 7346,
-    "state": "sa",
-    "postcode": 5118,
-    "suburb_name": "Gawler West"
-  },
-  {
-    "suburb_id": 7873,
-    "state": "sa",
-    "postcode": 5063,
-    "suburb_name": "Parkside"
-  },
-  {
-    "suburb_id": 7150,
-    "state": "sa",
-    "postcode": 5165,
-    "suburb_name": "Christies Beach"
-  },
-  {
-    "suburb_id": 8311,
-    "state": "sa",
-    "postcode": 5244,
-    "suburb_name": "Woodside"
-  },
-  {
-    "suburb_id": 7502,
-    "state": "sa",
-    "postcode": 5373,
-    "suburb_name": "Kapunda"
-  },
-  {
-    "suburb_id": 7890,
-    "state": "sa",
-    "postcode": 5277,
-    "suburb_name": "Penola"
-  },
-  {
-    "suburb_id": 7009,
-    "state": "sa",
-    "postcode": 5280,
-    "suburb_name": "Beachport"
-  },
-  {
-    "suburb_id": 7384,
-    "state": "sa",
-    "postcode": 5214,
-    "suburb_name": "Goolwa Beach"
-  },
-  {
-    "suburb_id": 7437,
-    "state": "sa",
-    "postcode": 5073,
-    "suburb_name": "Hectorville"
-  },
-  {
-    "suburb_id": 7379,
-    "state": "sa",
-    "postcode": 5125,
-    "suburb_name": "Golden Grove"
-  },
-  {
-    "suburb_id": 7646,
-    "state": "sa",
-    "postcode": 5211,
-    "suburb_name": "Mccracken"
-  },
-  {
-    "suburb_id": 8183,
-    "state": "sa",
-    "postcode": 5065,
-    "suburb_name": "Tusmore"
-  },
-  {
-    "suburb_id": 7163,
-    "state": "sa",
-    "postcode": 5042,
-    "suburb_name": "Clovelly Park"
-  },
-  {
-    "suburb_id": 7631,
-    "state": "sa",
-    "postcode": 5070,
-    "suburb_name": "Marden"
-  },
-  {
-    "suburb_id": 8307,
-    "state": "sa",
-    "postcode": 5072,
-    "suburb_name": "Woodforde"
-  },
-  {
-    "suburb_id": 6982,
-    "state": "sa",
-    "postcode": 5451,
-    "suburb_name": "Auburn"
-  },
-  {
-    "suburb_id": 6960,
-    "state": "sa",
-    "postcode": 5353,
-    "suburb_name": "Angaston"
-  },
-  {
-    "suburb_id": 7688,
-    "state": "sa",
-    "postcode": 5169,
-    "suburb_name": "Moana"
-  },
-  {
-    "suburb_id": 7513,
-    "state": "sa",
-    "postcode": 5067,
-    "suburb_name": "Kent Town"
-  },
-  {
-    "suburb_id": 8004,
-    "state": "sa",
-    "postcode": 5275,
-    "suburb_name": "Rosetown"
-  },
-  {
-    "suburb_id": 7577,
-    "state": "sa",
-    "postcode": 5065,
-    "suburb_name": "Linden Park"
-  },
-  {
-    "suburb_id": 7535,
-    "state": "sa",
-    "postcode": 5087,
-    "suburb_name": "Klemzig"
-  },
-  {
-    "suburb_id": 7336,
-    "state": "sa",
-    "postcode": 5024,
-    "suburb_name": "Fulham Gardens"
-  },
-  {
-    "suburb_id": 7485,
-    "state": "sa",
-    "postcode": 5491,
-    "suburb_name": "Jamestown"
-  },
-  {
-    "suburb_id": 7987,
-    "state": "sa",
-    "postcode": 5161,
-    "suburb_name": "Reynella"
-  },
-  {
-    "suburb_id": 7816,
-    "state": "sa",
-    "postcode": 5067,
-    "suburb_name": "Norwood"
-  },
-  {
-    "suburb_id": 7524,
-    "state": "sa",
-    "postcode": 5084,
-    "suburb_name": "Kilburn"
-  },
-  {
-    "suburb_id": 7940,
-    "state": "sa",
-    "postcode": 5606,
-    "suburb_name": "Port Lincoln"
-  },
-  {
-    "suburb_id": 7154,
-    "state": "sa",
-    "postcode": 5034,
-    "suburb_name": "Clarence Park"
-  },
-  {
-    "suburb_id": 8017,
-    "state": "sa",
-    "postcode": 5108,
-    "suburb_name": "Salisbury"
-  },
-  {
-    "suburb_id": 7754,
-    "state": "sa",
-    "postcode": 5115,
-    "suburb_name": "Munno Para West"
-  },
-  {
-    "suburb_id": 8279,
-    "state": "sa",
-    "postcode": 5351,
-    "suburb_name": "Williamstown"
-  },
-  {
-    "suburb_id": 7248,
-    "state": "sa",
-    "postcode": 5291,
-    "suburb_name": "Donovans"
-  },
-  {
-    "suburb_id": 6970,
-    "state": "sa",
-    "postcode": 5571,
-    "suburb_name": "Ardrossan"
-  },
-  {
-    "suburb_id": 7965,
-    "state": "sa",
-    "postcode": 5014,
-    "suburb_name": "Queenstown"
-  },
-  {
-    "suburb_id": 7431,
-    "state": "sa",
-    "postcode": 5051,
-    "suburb_name": "Hawthorndene"
-  },
-  {
-    "suburb_id": 7833,
-    "state": "sa",
-    "postcode": 5168,
-    "suburb_name": "Old Noarlunga"
-  },
-  {
-    "suburb_id": 7954,
-    "state": "sa",
-    "postcode": 5173,
-    "suburb_name": "Port Willunga"
-  },
-  {
-    "suburb_id": 7834,
-    "state": "sa",
-    "postcode": 5161,
-    "suburb_name": "Old Reynella"
-  },
-  {
-    "suburb_id": 7708,
-    "state": "sa",
-    "postcode": 5162,
-    "suburb_name": "Morphett Vale"
-  },
-  {
-    "suburb_id": 7982,
-    "state": "sa",
-    "postcode": 5341,
-    "suburb_name": "Renmark"
-  },
-  {
-    "suburb_id": 8153,
-    "state": "sa",
-    "postcode": 5031,
-    "suburb_name": "Thebarton"
-  },
-  {
-    "suburb_id": 7116,
-    "state": "sa",
-    "postcode": 5074,
-    "suburb_name": "Campbelltown"
-  },
-  {
-    "suburb_id": 7033,
-    "state": "sa",
-    "postcode": 5015,
-    "suburb_name": "Birkenhead"
-  },
-  {
-    "suburb_id": 7011,
-    "state": "sa",
-    "postcode": 5066,
-    "suburb_name": "Beaumont"
-  },
-  {
-    "suburb_id": 7101,
-    "state": "sa",
-    "postcode": 5417,
-    "suburb_name": "Burra"
-  },
-  {
-    "suburb_id": 7272,
-    "state": "sa",
-    "postcode": 5113,
-    "suburb_name": "Elizabeth Downs"
-  },
-  {
-    "suburb_id": 7300,
-    "state": "sa",
-    "postcode": 5019,
-    "suburb_name": "Exeter"
-  },
-  {
-    "suburb_id": 7512,
-    "state": "sa",
-    "postcode": 5068,
-    "suburb_name": "Kensington Park"
-  },
-  {
-    "suburb_id": 7915,
-    "state": "sa",
-    "postcode": 5607,
-    "suburb_name": "Point Boston"
-  },
-  {
-    "suburb_id": 8010,
-    "state": "sa",
-    "postcode": 5725,
-    "suburb_name": "Roxby Downs"
-  },
-  {
-    "suburb_id": 7995,
-    "state": "sa",
-    "postcode": 5253,
-    "suburb_name": "Riverglades"
-  },
-  {
-    "suburb_id": 7331,
-    "state": "sa",
-    "postcode": 5372,
-    "suburb_name": "Freeling"
-  },
-  {
-    "suburb_id": 7032,
-    "state": "sa",
-    "postcode": 5234,
-    "suburb_name": "Birdwood"
-  },
-  {
-    "suburb_id": 7941,
-    "state": "sa",
-    "postcode": 5291,
-    "suburb_name": "Port Macdonnell"
-  },
-  {
-    "suburb_id": 7612,
-    "state": "sa",
-    "postcode": 5072,
-    "suburb_name": "Magill"
-  },
-  {
-    "suburb_id": 7439,
-    "state": "sa",
-    "postcode": 5022,
-    "suburb_name": "Henley Beach"
-  },
-  {
-    "suburb_id": 7390,
-    "state": "sa",
-    "postcode": 5022,
-    "suburb_name": "Grange"
-  },
-  {
-    "suburb_id": 7837,
-    "state": "sa",
-    "postcode": 5163,
-    "suburb_name": "Onkaparinga Hills"
-  },
-  {
-    "suburb_id": 8317,
-    "state": "sa",
-    "postcode": 5011,
-    "suburb_name": "Woodville West"
-  },
-  {
-    "suburb_id": 8092,
-    "state": "sa",
-    "postcode": 5042,
-    "suburb_name": "St Marys"
-  },
-  {
-    "suburb_id": 6957,
-    "state": "sa",
-    "postcode": 5114,
-    "suburb_name": "Andrews Farm"
-  },
-  {
-    "suburb_id": 7889,
-    "state": "sa",
-    "postcode": 5013,
-    "suburb_name": "Pennington"
-  },
-  {
-    "suburb_id": 7343,
-    "state": "sa",
-    "postcode": 5118,
-    "suburb_name": "Gawler East"
-  },
-  {
-    "suburb_id": 7301,
-    "state": "sa",
-    "postcode": 5121,
-    "suburb_name": "Eyre"
-  },
-  {
-    "suburb_id": 7702,
-    "state": "sa",
-    "postcode": 5558,
-    "suburb_name": "Moonta Mines"
-  },
-  {
-    "suburb_id": 7576,
-    "state": "sa",
-    "postcode": 5085,
-    "suburb_name": "Lightsview"
-  },
-  {
-    "suburb_id": 7361,
-    "state": "sa",
-    "postcode": 5037,
-    "suburb_name": "Glandore"
-  },
-  {
-    "suburb_id": 7647,
-    "state": "sa",
-    "postcode": 5171,
-    "suburb_name": "Mclaren Flat"
-  },
-  {
-    "suburb_id": 7041,
-    "state": "sa",
-    "postcode": 5084,
-    "suburb_name": "Blair Athol"
-  },
-  {
-    "suburb_id": 7189,
-    "state": "sa",
-    "postcode": 5265,
-    "suburb_name": "Coonalpyn"
-  },
-  {
-    "suburb_id": 8097,
-    "state": "sa",
-    "postcode": 5582,
-    "suburb_name": "Stansbury"
-  },
-  {
-    "suburb_id": 8251,
-    "state": "sa",
-    "postcode": 5008,
-    "suburb_name": "West Croydon"
-  },
-  {
-    "suburb_id": 7406,
-    "state": "sa",
-    "postcode": 5245,
-    "suburb_name": "Hahndorf"
-  },
-  {
-    "suburb_id": 8020,
-    "state": "sa",
-    "postcode": 5109,
-    "suburb_name": "Salisbury Heights"
-  },
-  {
-    "suburb_id": 8117,
-    "state": "sa",
-    "postcode": 5047,
-    "suburb_name": "Sturt"
-  },
-  {
-    "suburb_id": 7074,
-    "state": "sa",
-    "postcode": 5155,
-    "suburb_name": "Bridgewater"
-  },
-  {
-    "suburb_id": 7976,
-    "state": "sa",
-    "postcode": 5097,
-    "suburb_name": "Redwood Park"
-  },
-  {
-    "suburb_id": 8340,
-    "state": "sa",
-    "postcode": 5203,
-    "suburb_name": "Yankalilla"
-  },
-  {
-    "suburb_id": 7060,
-    "state": "sa",
-    "postcode": 5268,
-    "suburb_name": "Bordertown"
-  },
-  {
-    "suburb_id": 7580,
-    "state": "sa",
-    "postcode": 5250,
-    "suburb_name": "Littlehampton"
-  },
-  {
-    "suburb_id": 8102,
-    "state": "sa",
-    "postcode": 5152,
+    "suburb_id": 110,
+    "state": "act",
+    "postcode": 2611,
     "suburb_name": "Stirling"
   },
   {
-    "suburb_id": 8182,
-    "state": "sa",
-    "postcode": 5236,
-    "suburb_name": "Tungkillo"
+    "suburb_id": 113,
+    "state": "act",
+    "postcode": 2913,
+    "suburb_name": "Taylor"
   },
   {
-    "suburb_id": 8211,
-    "state": "sa",
-    "postcode": 5081,
-    "suburb_name": "Walkerville"
+    "suburb_id": 115,
+    "state": "act",
+    "postcode": 2905,
+    "suburb_name": "Theodore"
   },
   {
-    "suburb_id": 7372,
-    "state": "sa",
-    "postcode": 5044,
-    "suburb_name": "Glengowrie"
+    "suburb_id": 116,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Throsby"
   },
   {
-    "suburb_id": 7209,
-    "state": "sa",
-    "postcode": 5152,
-    "suburb_name": "Crafers"
+    "suburb_id": 117,
+    "state": "act",
+    "postcode": 2607,
+    "suburb_name": "Torrens"
   },
   {
-    "suburb_id": 8164,
-    "state": "sa",
-    "postcode": 5042,
-    "suburb_name": "Tonsley"
+    "suburb_id": 119,
+    "state": "act",
+    "postcode": 2612,
+    "suburb_name": "Turner"
   },
   {
-    "suburb_id": 7613,
-    "state": "sa",
-    "postcode": 5573,
-    "suburb_name": "Maitland"
+    "suburb_id": 121,
+    "state": "act",
+    "postcode": 2903,
+    "suburb_name": "Wanniassa"
   },
   {
-    "suburb_id": 7394,
-    "state": "sa",
-    "postcode": 5086,
-    "suburb_name": "Greenacres"
+    "suburb_id": 122,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Waramanga"
   },
   {
-    "suburb_id": 6962,
-    "state": "sa",
-    "postcode": 5010,
-    "suburb_name": "Angle Park"
+    "suburb_id": 123,
+    "state": "act",
+    "postcode": 2602,
+    "suburb_name": "Watson"
   },
   {
-    "suburb_id": 7863,
-    "state": "sa",
-    "postcode": 5107,
-    "suburb_name": "Parafield Gardens"
+    "suburb_id": 124,
+    "state": "act",
+    "postcode": 2614,
+    "suburb_name": "Weetangera"
   },
   {
-    "suburb_id": 7651,
-    "state": "sa",
-    "postcode": 5081,
-    "suburb_name": "Medindie Gardens"
+    "suburb_id": 125,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Weston"
   },
   {
-    "suburb_id": 7786,
-    "state": "sa",
-    "postcode": 5223,
-    "suburb_name": "Nepean Bay"
+    "suburb_id": 127,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Wright"
   },
   {
-    "suburb_id": 7204,
-    "state": "sa",
-    "postcode": 5033,
-    "suburb_name": "Cowandilla"
-  },
-  {
-    "suburb_id": 7791,
-    "state": "sa",
-    "postcode": 5015,
-    "suburb_name": "New Port"
-  },
-  {
-    "suburb_id": 6933,
-    "state": "sa",
-    "postcode": 5000,
-    "suburb_name": "Adelaide"
-  },
-  {
-    "suburb_id": 7997,
-    "state": "sa",
-    "postcode": 5276,
-    "suburb_name": "Robe"
-  },
-  {
-    "suburb_id": 7861,
-    "state": "sa",
-    "postcode": 5075,
-    "suburb_name": "Paradise"
-  },
-  {
-    "suburb_id": 8094,
-    "state": "sa",
-    "postcode": 5069,
-    "suburb_name": "St Peters"
-  },
-  {
-    "suburb_id": 7804,
-    "state": "sa",
-    "postcode": 5204,
-    "suburb_name": "Normanville"
-  },
-  {
-    "suburb_id": 7680,
-    "state": "sa",
-    "postcode": 5575,
-    "suburb_name": "Minlaton"
-  },
-  {
-    "suburb_id": 8267,
-    "state": "sa",
-    "postcode": 5609,
-    "suburb_name": "Whyalla Jenkins"
-  },
-  {
-    "suburb_id": 8056,
-    "state": "sa",
-    "postcode": 5019,
-    "suburb_name": "Semaphore South"
-  },
-  {
-    "suburb_id": 7986,
-    "state": "sa",
-    "postcode": 5008,
-    "suburb_name": "Renown Park"
-  },
-  {
-    "suburb_id": 7814,
-    "state": "sa",
-    "postcode": 5085,
-    "suburb_name": "Northgate"
-  },
-  {
-    "suburb_id": 8197,
-    "state": "sa",
-    "postcode": 5081,
-    "suburb_name": "Vale Park"
-  },
-  {
-    "suburb_id": 7604,
-    "state": "sa",
-    "postcode": 5351,
-    "suburb_name": "Lyndoch"
-  },
-  {
-    "suburb_id": 8052,
-    "state": "sa",
-    "postcode": 5174,
-    "suburb_name": "Sellicks Beach"
-  },
-  {
-    "suburb_id": 8208,
-    "state": "sa",
-    "postcode": 5330,
-    "suburb_name": "Waikerie"
-  },
-  {
-    "suburb_id": 7143,
-    "state": "sa",
-    "postcode": 5157,
-    "suburb_name": "Cherry Gardens"
-  },
-  {
-    "suburb_id": 7599,
-    "state": "sa",
-    "postcode": 5333,
-    "suburb_name": "Loxton"
-  },
-  {
-    "suburb_id": 7341,
-    "state": "sa",
-    "postcode": 5118,
-    "suburb_name": "Gawler"
-  },
-  {
-    "suburb_id": 7691,
-    "state": "sa",
-    "postcode": 5092,
-    "suburb_name": "Modbury"
-  },
-  {
-    "suburb_id": 7115,
-    "state": "sa",
-    "postcode": 5038,
-    "suburb_name": "Camden Park"
-  },
-  {
-    "suburb_id": 8062,
-    "state": "sa",
-    "postcode": 5158,
-    "suburb_name": "Sheidow Park"
-  },
-  {
-    "suburb_id": 8214,
-    "state": "sa",
-    "postcode": 5556,
-    "suburb_name": "Wallaroo"
-  },
-  {
-    "suburb_id": 8096,
-    "state": "sa",
-    "postcode": 5453,
-    "suburb_name": "Stanley Flat"
-  },
-  {
-    "suburb_id": 8332,
-    "state": "sa",
-    "postcode": 5275,
-    "suburb_name": "Wyomi"
-  },
-  {
-    "suburb_id": 8088,
-    "state": "sa",
-    "postcode": 5064,
-    "suburb_name": "St Georges"
-  },
-  {
-    "suburb_id": 7634,
-    "state": "sa",
-    "postcode": 5575,
-    "suburb_name": "Marion Bay"
-  },
-  {
-    "suburb_id": 7274,
-    "state": "sa",
-    "postcode": 5112,
-    "suburb_name": "Elizabeth Grove"
-  },
-  {
-    "suburb_id": 8171,
-    "state": "sa",
-    "postcode": 5031,
-    "suburb_name": "Torrensville"
-  },
-  {
-    "suburb_id": 7949,
-    "state": "sa",
-    "postcode": 5540,
-    "suburb_name": "Port Pirie West"
-  },
-  {
-    "suburb_id": 7418,
-    "state": "sa",
-    "postcode": 5086,
-    "suburb_name": "Hampstead Gardens"
-  },
-  {
-    "suburb_id": 8252,
-    "state": "sa",
-    "postcode": 5007,
-    "suburb_name": "West Hindmarsh"
-  },
-  {
-    "suburb_id": 7655,
-    "state": "sa",
-    "postcode": 5264,
-    "suburb_name": "Meningie"
-  },
-  {
-    "suburb_id": 8342,
-    "state": "sa",
-    "postcode": 5126,
-    "suburb_name": "Yatala Vale"
-  },
-  {
-    "suburb_id": 7251,
-    "state": "sa",
-    "postcode": 5094,
-    "suburb_name": "Dry Creek"
-  },
-  {
-    "suburb_id": 7070,
-    "state": "sa",
-    "postcode": 5109,
-    "suburb_name": "Brahma Lodge"
-  },
-  {
-    "suburb_id": 7138,
-    "state": "sa",
-    "postcode": 5159,
-    "suburb_name": "Chandlers Hill"
-  },
-  {
-    "suburb_id": 7864,
-    "state": "sa",
-    "postcode": 5108,
-    "suburb_name": "Paralowie"
-  },
-  {
-    "suburb_id": 7304,
-    "state": "sa",
-    "postcode": 5070,
-    "suburb_name": "Felixstow"
-  },
-  {
-    "suburb_id": 7075,
-    "state": "sa",
-    "postcode": 5048,
-    "suburb_name": "Brighton"
+    "suburb_id": 128,
+    "state": "act",
+    "postcode": 2600,
+    "suburb_name": "Yarralumla"
   }
 ]

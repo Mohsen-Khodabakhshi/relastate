@@ -104,17 +104,79 @@ def domain_history():
         dict_writer.writeheader()
         dict_writer.writerows(final)
 
-# def final_data():
-#     file_name = './mag.csv'
 
+def final_data():
+    final_result = []
+    all_fms = {}
+    all_fdsh = {}
+    all_fdsu = {}
+    all_suburbs = []
 
-#     with open(file_name) as f:
-#         reader = csv.DictReader(f)
+    fm_file = open('./mag.csv')
+    fd_file = open('./domain_history_s.csv')
 
-#         for r in reader:
-            
+    fm_reader = csv.DictReader(fm_file)
+    fd_reader = csv.DictReader(fd_file)
 
-#         f.close()
+    for fm in fm_reader:
+        suburb_id = fm.pop("suburb_id")
+        all_fms[suburb_id] = {**fm}
+        all_suburbs.append(suburb_id)
 
-# final_data()
+    for fd in fd_reader:
+        suburb_id = fd.pop("suburb_id")
+        if fd["type"] == "House":
+            all_fdsh[suburb_id] = {**fd}
+        else:
+            all_fdsu[suburb_id] = {**fd}
+
+    for s in all_suburbs:
+        try:
+            fm = all_fms.get(s, None)
+            fdh = all_fdsh.get(s, None)
+            fdu = all_fdsu.get(s, None)
+
+            if fdh:
+                fdh.pop("index")
+                annual_growth = (float(fdh.pop("annual_growth", 0)) + float(fm.get("house_average_annual_growth", 0))) / 2
+                final_result.append(
+                    {
+                        **fdh,
+                        "suburb_id": s,
+                        "annual_growth": annual_growth,
+                        "date_time": "2022-11-30 11:00:00",
+                        "id": "0",
+                        "column1": "0"
+                    }
+                )
+
+            if fdu:
+                fdu.pop("index")
+                annual_growth = (float(fdu.pop("annual_growth", 0)) + float(fm.get("unit_average_annual_growth", 0))) / 2
+                final_result.append(
+                    {
+                        **fdu,
+                        "suburb_id": s,
+                        "annual_growth": annual_growth,
+                        "date_time": "2022-11-30 11:00:00",
+                        "id": "0",
+                        "column1": "0"
+                    }
+                )
+
+            continue
+
+        except:
+            continue
+
+    fm_file.close()
+    fd_file.close()
+
+    keys = final_result[0].keys()
+    with open('final_domain_history.csv', 'w', newline='') as output_file:
+        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(final_result)
+
+final_data()
 # domain_history()
