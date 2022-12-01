@@ -1,602 +1,470 @@
 [
   {
-    "suburb_id": 2,
-    "state": "act",
-    "postcode": 2602,
-    "suburb_name": "Ainslie"
+    "suburb_id": 3961,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Acacia Hills"
   },
   {
-    "suburb_id": 3,
-    "state": "act",
-    "postcode": 2914,
-    "suburb_name": "Amaroo"
+    "suburb_id": 3963,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Alawa"
   },
   {
-    "suburb_id": 4,
-    "state": "act",
-    "postcode": 2614,
-    "suburb_name": "Aranda"
+    "suburb_id": 3973,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Anula"
   },
   {
-    "suburb_id": 5,
-    "state": "act",
-    "postcode": 2906,
-    "suburb_name": "Banks"
+    "suburb_id": 3974,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Araluen"
   },
   {
-    "suburb_id": 6,
-    "state": "act",
-    "postcode": 2600,
-    "suburb_name": "Barton"
+    "suburb_id": 3981,
+    "state": "nt",
+    "postcode": 832,
+    "suburb_name": "Bakewell"
   },
   {
-    "suburb_id": 8,
-    "state": "act",
-    "postcode": 2617,
-    "suburb_name": "Belconnen"
+    "suburb_id": 3984,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "Bayview"
   },
   {
-    "suburb_id": 9,
-    "state": "act",
-    "postcode": 2914,
-    "suburb_name": "Bonner"
+    "suburb_id": 3985,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Bees Creek"
   },
   {
-    "suburb_id": 10,
-    "state": "act",
-    "postcode": 2905,
-    "suburb_name": "Bonython"
+    "suburb_id": 3986,
+    "state": "nt",
+    "postcode": 832,
+    "suburb_name": "Bellamack"
   },
   {
-    "suburb_id": 11,
-    "state": "act",
-    "postcode": 2612,
-    "suburb_name": "Braddon"
+    "suburb_id": 3988,
+    "state": "nt",
+    "postcode": 828,
+    "suburb_name": "Berrimah"
   },
   {
-    "suburb_id": 12,
-    "state": "act",
-    "postcode": 2617,
-    "suburb_name": "Bruce"
+    "suburb_id": 3989,
+    "state": "nt",
+    "postcode": 838,
+    "suburb_name": "Berry Springs"
   },
   {
-    "suburb_id": 13,
-    "state": "act",
-    "postcode": 2905,
-    "suburb_name": "Calwell"
+    "suburb_id": 3993,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Braitling"
   },
   {
-    "suburb_id": 14,
-    "state": "act",
-    "postcode": 2612,
-    "suburb_name": "Campbell"
+    "suburb_id": 3994,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Brinkin"
   },
   {
-    "suburb_id": 18,
-    "state": "act",
-    "postcode": 2913,
-    "suburb_name": "Casey"
+    "suburb_id": 4003,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Coconut Grove"
   },
   {
-    "suburb_id": 19,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Chapman"
+    "suburb_id": 4004,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Connellan"
   },
   {
-    "suburb_id": 20,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Charnwood"
+    "suburb_id": 4005,
+    "state": "nt",
+    "postcode": 839,
+    "suburb_name": "Coolalinga"
   },
   {
-    "suburb_id": 21,
-    "state": "act",
-    "postcode": 2606,
-    "suburb_name": "Chifley"
+    "suburb_id": 4007,
+    "state": "nt",
+    "postcode": 850,
+    "suburb_name": "Cossack"
   },
   {
-    "suburb_id": 22,
-    "state": "act",
-    "postcode": 2905,
-    "suburb_name": "Chisholm"
+    "suburb_id": 4013,
+    "state": "nt",
+    "postcode": 841,
+    "suburb_name": "Darwin River"
   },
   {
-    "suburb_id": 23,
-    "state": "act",
-    "postcode": 2906,
-    "suburb_name": "Conder"
+    "suburb_id": 4017,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Desert Springs"
   },
   {
-    "suburb_id": 24,
-    "state": "act",
-    "postcode": 2614,
-    "suburb_name": "Cook"
+    "suburb_id": 4019,
+    "state": "nt",
+    "postcode": 830,
+    "suburb_name": "Driver"
   },
   {
-    "suburb_id": 25,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Coombs"
+    "suburb_id": 4020,
+    "state": "nt",
+    "postcode": 840,
+    "suburb_name": "Dundee Beach"
   },
   {
-    "suburb_id": 28,
-    "state": "act",
-    "postcode": 2911,
-    "suburb_name": "Crace"
+    "suburb_id": 4021,
+    "state": "nt",
+    "postcode": 840,
+    "suburb_name": "Dundee Downs"
   },
   {
-    "suburb_id": 29,
-    "state": "act",
-    "postcode": 2605,
-    "suburb_name": "Curtin"
+    "suburb_id": 4022,
+    "state": "nt",
+    "postcode": 830,
+    "suburb_name": "Durack"
   },
   {
-    "suburb_id": 30,
-    "state": "act",
-    "postcode": 2600,
-    "suburb_name": "Deakin"
+    "suburb_id": 4026,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "East Side"
   },
   {
-    "suburb_id": 31,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Denman Prospect"
+    "suburb_id": 4034,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "Fannie Bay"
   },
   {
-    "suburb_id": 32,
-    "state": "act",
-    "postcode": 2602,
-    "suburb_name": "Dickson"
+    "suburb_id": 4035,
+    "state": "nt",
+    "postcode": 830,
+    "suburb_name": "Farrar"
   },
   {
-    "suburb_id": 33,
-    "state": "act",
-    "postcode": 2602,
-    "suburb_name": "Downer"
+    "suburb_id": 4039,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Fly Creek"
   },
   {
-    "suburb_id": 34,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Duffy"
+    "suburb_id": 4045,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Gillen"
   },
   {
-    "suburb_id": 35,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Dunlop"
+    "suburb_id": 4046,
+    "state": "nt",
+    "postcode": 836,
+    "suburb_name": "Girraween"
   },
   {
-    "suburb_id": 36,
-    "state": "act",
-    "postcode": 2617,
-    "suburb_name": "Evatt"
+    "suburb_id": 4047,
+    "state": "nt",
+    "postcode": 830,
+    "suburb_name": "Gray"
   },
   {
-    "suburb_id": 37,
-    "state": "act",
-    "postcode": 2904,
-    "suburb_name": "Fadden"
+    "suburb_id": 4049,
+    "state": "nt",
+    "postcode": 832,
+    "suburb_name": "Gunn"
   },
   {
-    "suburb_id": 38,
-    "state": "act",
-    "postcode": 2607,
-    "suburb_name": "Farrer"
+    "suburb_id": 4055,
+    "state": "nt",
+    "postcode": 836,
+    "suburb_name": "Herbert"
   },
   {
-    "suburb_id": 39,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Fisher"
+    "suburb_id": 4060,
+    "state": "nt",
+    "postcode": 835,
+    "suburb_name": "Howard Springs"
   },
   {
-    "suburb_id": 40,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Florey"
+    "suburb_id": 4063,
+    "state": "nt",
+    "postcode": 836,
+    "suburb_name": "Humpty Doo"
   },
   {
-    "suburb_id": 41,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Flynn"
+    "suburb_id": 4067,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Jingili"
   },
   {
-    "suburb_id": 42,
-    "state": "act",
-    "postcode": 2914,
-    "suburb_name": "Forde"
+    "suburb_id": 4068,
+    "state": "nt",
+    "postcode": 832,
+    "suburb_name": "Johnston"
   },
   {
-    "suburb_id": 43,
-    "state": "act",
-    "postcode": 2603,
-    "suburb_name": "Forrest"
+    "suburb_id": 4072,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Karama"
   },
   {
-    "suburb_id": 44,
-    "state": "act",
-    "postcode": 2913,
-    "suburb_name": "Franklin"
+    "suburb_id": 4073,
+    "state": "nt",
+    "postcode": 850,
+    "suburb_name": "Katherine"
   },
   {
-    "suburb_id": 47,
-    "state": "act",
-    "postcode": 2605,
-    "suburb_name": "Garran"
+    "suburb_id": 4074,
+    "state": "nt",
+    "postcode": 850,
+    "suburb_name": "Katherine East"
   },
   {
-    "suburb_id": 48,
-    "state": "act",
-    "postcode": 2905,
-    "suburb_name": "Gilmore"
+    "suburb_id": 4075,
+    "state": "nt",
+    "postcode": 850,
+    "suburb_name": "Katherine South"
   },
   {
-    "suburb_id": 49,
-    "state": "act",
-    "postcode": 2617,
-    "suburb_name": "Giralang"
+    "suburb_id": 4076,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Kilgariff"
   },
   {
-    "suburb_id": 50,
-    "state": "act",
-    "postcode": 2906,
-    "suburb_name": "Gordon"
+    "suburb_id": 4083,
+    "state": "nt",
+    "postcode": 875,
+    "suburb_name": "Larapinta"
   },
   {
-    "suburb_id": 51,
-    "state": "act",
-    "postcode": 2904,
-    "suburb_name": "Gowrie"
+    "suburb_id": 4084,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "Larrakeyah"
   },
   {
-    "suburb_id": 52,
-    "state": "act",
-    "postcode": 2900,
-    "suburb_name": "Greenway"
+    "suburb_id": 4086,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Leanyer"
   },
   {
-    "suburb_id": 53,
-    "state": "act",
-    "postcode": 2603,
-    "suburb_name": "Griffith"
+    "suburb_id": 4090,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Lloyd Creek"
   },
   {
-    "suburb_id": 54,
-    "state": "act",
-    "postcode": 2912,
-    "suburb_name": "Gungahlin"
+    "suburb_id": 4091,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "Ludmilla"
   },
   {
-    "suburb_id": 55,
-    "state": "act",
-    "postcode": 2602,
-    "suburb_name": "Hackett"
-  },
-  {
-    "suburb_id": 57,
-    "state": "act",
-    "postcode": 2914,
-    "suburb_name": "Harrison"
-  },
-  {
-    "suburb_id": 58,
-    "state": "act",
-    "postcode": 2614,
-    "suburb_name": "Hawker"
-  },
-  {
-    "suburb_id": 59,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Higgins"
-  },
-  {
-    "suburb_id": 60,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Holder"
-  },
-  {
-    "suburb_id": 61,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Holt"
-  },
-  {
-    "suburb_id": 62,
-    "state": "act",
-    "postcode": 2605,
-    "suburb_name": "Hughes"
-  },
-  {
-    "suburb_id": 64,
-    "state": "act",
-    "postcode": 2607,
-    "suburb_name": "Isaacs"
-  },
-  {
-    "suburb_id": 65,
-    "state": "act",
-    "postcode": 2905,
-    "suburb_name": "Isabella Plains"
-  },
-  {
-    "suburb_id": 66,
-    "state": "act",
-    "postcode": 2914,
-    "suburb_name": "Jacka"
-  },
-  {
-    "suburb_id": 68,
-    "state": "act",
-    "postcode": 2617,
-    "suburb_name": "Kaleen"
-  },
-  {
-    "suburb_id": 69,
-    "state": "act",
-    "postcode": 2902,
-    "suburb_name": "Kambah"
-  },
-  {
-    "suburb_id": 71,
-    "state": "act",
-    "postcode": 2604,
-    "suburb_name": "Kingston"
-  },
-  {
-    "suburb_id": 73,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Latham"
-  },
-  {
-    "suburb_id": 74,
-    "state": "act",
-    "postcode": 2617,
-    "suburb_name": "Lawson"
-  },
-  {
-    "suburb_id": 75,
-    "state": "act",
-    "postcode": 2602,
-    "suburb_name": "Lyneham"
-  },
-  {
-    "suburb_id": 76,
-    "state": "act",
-    "postcode": 2606,
+    "suburb_id": 4092,
+    "state": "nt",
+    "postcode": 810,
     "suburb_name": "Lyons"
   },
   {
-    "suburb_id": 77,
-    "state": "act",
-    "postcode": 2904,
-    "suburb_name": "Macarthur"
+    "suburb_id": 4093,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Malak"
   },
   {
-    "suburb_id": 78,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Macgregor"
+    "suburb_id": 4097,
+    "state": "nt",
+    "postcode": 830,
+    "suburb_name": "Marlow Lagoon"
   },
   {
-    "suburb_id": 79,
-    "state": "act",
-    "postcode": 2614,
-    "suburb_name": "Macquarie"
+    "suburb_id": 4098,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Marrakai"
   },
   {
-    "suburb_id": 81,
-    "state": "act",
-    "postcode": 2607,
-    "suburb_name": "Mawson"
+    "suburb_id": 4099,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Marrara"
   },
   {
-    "suburb_id": 82,
-    "state": "act",
-    "postcode": 2617,
-    "suburb_name": "Mckellar"
+    "suburb_id": 4102,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Mcminns Lagoon"
   },
   {
-    "suburb_id": 83,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Melba"
+    "suburb_id": 4107,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Millner"
   },
   {
-    "suburb_id": 85,
-    "state": "act",
-    "postcode": 2904,
-    "suburb_name": "Monash"
+    "suburb_id": 4110,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Moil"
   },
   {
-    "suburb_id": 86,
-    "state": "act",
-    "postcode": 2914,
-    "suburb_name": "Moncrieff"
+    "suburb_id": 4111,
+    "state": "nt",
+    "postcode": 830,
+    "suburb_name": "Moulden"
   },
   {
-    "suburb_id": 87,
-    "state": "act",
-    "postcode": 2604,
-    "suburb_name": "Narrabundah"
+    "suburb_id": 4112,
+    "state": "nt",
+    "postcode": 874,
+    "suburb_name": "Mount Johns"
   },
   {
-    "suburb_id": 88,
-    "state": "act",
-    "postcode": 2913,
-    "suburb_name": "Ngunnawal"
+    "suburb_id": 4114,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Muirhead"
   },
   {
-    "suburb_id": 89,
-    "state": "act",
-    "postcode": 2913,
-    "suburb_name": "Nicholls"
+    "suburb_id": 4116,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Nakara"
   },
   {
-    "suburb_id": 90,
-    "state": "act",
-    "postcode": 2602,
-    "suburb_name": "O'connor"
+    "suburb_id": 4122,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Nightcliff"
   },
   {
-    "suburb_id": 91,
-    "state": "act",
-    "postcode": 2606,
-    "suburb_name": "O'malley"
+    "suburb_id": 4128,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "Parap"
   },
   {
-    "suburb_id": 92,
-    "state": "act",
-    "postcode": 2620,
-    "suburb_name": "Oaks Estate"
+    "suburb_id": 4136,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Rapid Creek"
   },
   {
-    "suburb_id": 95,
-    "state": "act",
-    "postcode": 2903,
-    "suburb_name": "Oxley"
+    "suburb_id": 4139,
+    "state": "nt",
+    "postcode": 832,
+    "suburb_name": "Rosebery"
   },
   {
-    "suburb_id": 97,
-    "state": "act",
-    "postcode": 2614,
-    "suburb_name": "Page"
+    "suburb_id": 4140,
+    "state": "nt",
+    "postcode": 873,
+    "suburb_name": "Ross"
   },
   {
-    "suburb_id": 98,
-    "state": "act",
-    "postcode": 2913,
-    "suburb_name": "Palmerston"
+    "suburb_id": 4142,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Sadadeen"
   },
   {
-    "suburb_id": 100,
-    "state": "act",
-    "postcode": 2607,
-    "suburb_name": "Pearce"
+    "suburb_id": 4147,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Stuart"
   },
   {
-    "suburb_id": 101,
-    "state": "act",
-    "postcode": 2606,
-    "suburb_name": "Phillip"
+    "suburb_id": 4148,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "Stuart Park"
   },
   {
-    "suburb_id": 103,
-    "state": "act",
-    "postcode": 2603,
-    "suburb_name": "Red Hill"
+    "suburb_id": 4152,
+    "state": "nt",
+    "postcode": 860,
+    "suburb_name": "Tennant Creek"
   },
   {
-    "suburb_id": 104,
-    "state": "act",
-    "postcode": 2612,
-    "suburb_name": "Reid"
+    "suburb_id": 4153,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "The Gap"
   },
   {
-    "suburb_id": 105,
-    "state": "act",
-    "postcode": 2905,
-    "suburb_name": "Richardson"
+    "suburb_id": 4154,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "The Gardens"
   },
   {
-    "suburb_id": 106,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Rivett"
+    "suburb_id": 4155,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "The Narrows"
   },
   {
-    "suburb_id": 108,
-    "state": "act",
-    "postcode": 2614,
-    "suburb_name": "Scullin"
+    "suburb_id": 4162,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Tiwi"
   },
   {
-    "suburb_id": 109,
-    "state": "act",
-    "postcode": 2615,
-    "suburb_name": "Spence"
+    "suburb_id": 4170,
+    "state": "nt",
+    "postcode": 834,
+    "suburb_name": "Virginia"
   },
   {
-    "suburb_id": 110,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Stirling"
+    "suburb_id": 4172,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Wagait Beach"
   },
   {
-    "suburb_id": 113,
-    "state": "act",
-    "postcode": 2913,
-    "suburb_name": "Taylor"
+    "suburb_id": 4173,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Wagaman"
   },
   {
-    "suburb_id": 115,
-    "state": "act",
-    "postcode": 2905,
-    "suburb_name": "Theodore"
+    "suburb_id": 4175,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Wanguri"
   },
   {
-    "suburb_id": 116,
-    "state": "act",
-    "postcode": 2914,
-    "suburb_name": "Throsby"
+    "suburb_id": 4184,
+    "state": "nt",
+    "postcode": 830,
+    "suburb_name": "Woodroffe"
   },
   {
-    "suburb_id": 117,
-    "state": "act",
-    "postcode": 2607,
-    "suburb_name": "Torrens"
+    "suburb_id": 4185,
+    "state": "nt",
+    "postcode": 820,
+    "suburb_name": "Woolner"
   },
   {
-    "suburb_id": 119,
-    "state": "act",
-    "postcode": 2612,
-    "suburb_name": "Turner"
+    "suburb_id": 4186,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Wulagi"
   },
   {
-    "suburb_id": 121,
-    "state": "act",
-    "postcode": 2903,
-    "suburb_name": "Wanniassa"
-  },
-  {
-    "suburb_id": 122,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Waramanga"
-  },
-  {
-    "suburb_id": 123,
-    "state": "act",
-    "postcode": 2602,
-    "suburb_name": "Watson"
-  },
-  {
-    "suburb_id": 124,
-    "state": "act",
-    "postcode": 2614,
-    "suburb_name": "Weetangera"
-  },
-  {
-    "suburb_id": 125,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Weston"
-  },
-  {
-    "suburb_id": 127,
-    "state": "act",
-    "postcode": 2611,
-    "suburb_name": "Wright"
-  },
-  {
-    "suburb_id": 128,
-    "state": "act",
-    "postcode": 2600,
-    "suburb_name": "Yarralumla"
+    "suburb_id": 4194,
+    "state": "nt",
+    "postcode": 832,
+    "suburb_name": "Zuccoli"
   }
 ]
