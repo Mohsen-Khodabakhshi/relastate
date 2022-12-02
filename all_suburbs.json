@@ -1,165 +1,21 @@
 [
   {
-    "suburb_id": 8829,
-    "state": "tas",
-    "postcode": 7025,
-    "suburb_name": "Richmond"
+    "suburb_id": 5020,
+    "state": "qld",
+    "postcode": 4516,
+    "suburb_name": "Elimbah"
   },
   {
-    "suburb_id": 8954,
-    "state": "tas",
-    "postcode": 7268,
-    "suburb_name": "Underwood"
+    "suburb_id": 7868,
+    "state": "sa",
+    "postcode": 5501,
+    "suburb_name": "Parham"
   },
   {
-    "suburb_id": 8373,
-    "state": "tas",
-    "postcode": 7330,
-    "suburb_name": "Arthur River"
-  },
-  {
-    "suburb_id": 8461,
-    "state": "tas",
-    "postcode": 7211,
-    "suburb_name": "Conara"
-  },
-  {
-    "suburb_id": 8864,
-    "state": "tas",
-    "postcode": 7215,
-    "suburb_name": "Scamander"
-  },
-  {
-    "suburb_id": 8984,
-    "state": "tas",
-    "postcode": 7303,
-    "suburb_name": "Westbury"
-  },
-  {
-    "suburb_id": 8799,
-    "state": "tas",
-    "postcode": 7116,
-    "suburb_name": "Port Huon"
-  },
-  {
-    "suburb_id": 8716,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Montello"
-  },
-  {
-    "suburb_id": 8603,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Huonville"
-  },
-  {
-    "suburb_id": 8482,
-    "state": "tas",
-    "postcode": 7150,
-    "suburb_name": "Dennes Point"
-  },
-  {
-    "suburb_id": 8915,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Summerhill"
-  },
-  {
-    "suburb_id": 8875,
-    "state": "tas",
-    "postcode": 7150,
-    "suburb_name": "Simpsons Bay"
-  },
-  {
-    "suburb_id": 8714,
-    "state": "tas",
-    "postcode": 7330,
-    "suburb_name": "Montagu"
-  },
-  {
-    "suburb_id": 8769,
-    "state": "tas",
-    "postcode": 7023,
-    "suburb_name": "Opossum Bay"
-  },
-  {
-    "suburb_id": 8821,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Ravenswood"
-  },
-  {
-    "suburb_id": 8625,
-    "state": "tas",
-    "postcode": 7050,
-    "suburb_name": "Kingston"
-  },
-  {
-    "suburb_id": 8730,
-    "state": "tas",
-    "postcode": 7007,
-    "suburb_name": "Mount Nelson"
-  },
-  {
-    "suburb_id": 8560,
-    "state": "tas",
-    "postcode": 7010,
-    "suburb_name": "Goodwood"
-  },
-  {
-    "suburb_id": 8871,
-    "state": "tas",
-    "postcode": 7307,
-    "suburb_name": "Shearwater"
-  },
-  {
-    "suburb_id": 8383,
-    "state": "tas",
-    "postcode": 7004,
-    "suburb_name": "Battery Point"
-  },
-  {
-    "suburb_id": 8848,
-    "state": "tas",
-    "postcode": 7010,
-    "suburb_name": "Rosetta"
-  },
-  {
-    "suburb_id": 8394,
-    "state": "tas",
-    "postcode": 7215,
-    "suburb_name": "Bicheno"
-  },
-  {
-    "suburb_id": 8390,
-    "state": "tas",
-    "postcode": 7254,
-    "suburb_name": "Bellingham"
-  },
-  {
-    "suburb_id": 8779,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Park Grove"
-  },
-  {
-    "suburb_id": 8717,
-    "state": "tas",
-    "postcode": 7010,
-    "suburb_name": "Montrose"
-  },
-  {
-    "suburb_id": 8446,
-    "state": "tas",
-    "postcode": 7215,
-    "suburb_name": "Chain Of Lagoons"
-  },
-  {
-    "suburb_id": 8564,
-    "state": "tas",
-    "postcode": 7306,
-    "suburb_name": "Gowrie Park"
+    "suburb_id": 10132,
+    "state": "vic",
+    "postcode": 3791,
+    "suburb_name": "Kallista"
   },
   {
     "suburb_id": 8757,
@@ -168,556 +24,472 @@
     "suburb_name": "Norwood"
   },
   {
-    "suburb_id": 8867,
-    "state": "tas",
-    "postcode": 7260,
-    "suburb_name": "Scottsdale"
+    "suburb_id": 7988,
+    "state": "sa",
+    "postcode": 5161,
+    "suburb_name": "Reynella East"
   },
   {
-    "suburb_id": 8644,
-    "state": "tas",
-    "postcode": 7315,
-    "suburb_name": "Leith"
+    "suburb_id": 9764,
+    "state": "vic",
+    "postcode": 3821,
+    "suburb_name": "Ellinbank"
   },
   {
-    "suburb_id": 8941,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Travellers Rest"
+    "suburb_id": 5566,
+    "state": "qld",
+    "postcode": 4503,
+    "suburb_name": "Kurwongbah"
   },
   {
-    "suburb_id": 8944,
-    "state": "tas",
-    "postcode": 7190,
-    "suburb_name": "Triabunna"
+    "suburb_id": 5093,
+    "state": "qld",
+    "postcode": 4560,
+    "suburb_name": "Flaxton"
   },
   {
-    "suburb_id": 8593,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Hillcrest"
+    "suburb_id": 11413,
+    "state": "vic",
+    "postcode": 3673,
+    "suburb_name": "Winton"
   },
   {
-    "suburb_id": 8356,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Aberdeen"
+    "suburb_id": 3838,
+    "state": "nsw",
+    "postcode": 2472,
+    "suburb_name": "Woodburn"
   },
   {
-    "suburb_id": 8896,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Spreyton"
+    "suburb_id": 8123,
+    "state": "sa",
+    "postcode": 5126,
+    "suburb_name": "Surrey Downs"
   },
   {
-    "suburb_id": 8927,
-    "state": "tas",
-    "postcode": 7053,
-    "suburb_name": "Taroona"
+    "suburb_id": 7774,
+    "state": "sa",
+    "postcode": 5210,
+    "suburb_name": "Nangkita"
   },
   {
-    "suburb_id": 8845,
-    "state": "tas",
-    "postcode": 7015,
-    "suburb_name": "Rose Bay"
+    "suburb_id": 3173,
+    "state": "nsw",
+    "postcode": 2074,
+    "suburb_name": "South Turramurra"
   },
   {
-    "suburb_id": 8747,
-    "state": "tas",
-    "postcode": 7112,
-    "suburb_name": "Nicholls Rivulet"
+    "suburb_id": 3516,
+    "state": "nsw",
+    "postcode": 2484,
+    "suburb_name": "Uki"
   },
   {
-    "suburb_id": 8357,
-    "state": "tas",
-    "postcode": 7306,
-    "suburb_name": "Acacia Hills"
+    "suburb_id": 7550,
+    "state": "sa",
+    "postcode": 5201,
+    "suburb_name": "Kuitpo"
   },
   {
-    "suburb_id": 8719,
-    "state": "tas",
-    "postcode": 7140,
-    "suburb_name": "Moogara"
+    "suburb_id": 1758,
+    "state": "nsw",
+    "postcode": 2168,
+    "suburb_name": "Hinchinbrook"
   },
   {
-    "suburb_id": 8354,
-    "state": "tas",
-    "postcode": 7315,
-    "suburb_name": "Abbotsham"
+    "suburb_id": 567,
+    "state": "nsw",
+    "postcode": 2425,
+    "suburb_name": "Booral"
   },
   {
-    "suburb_id": 8808,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Prospect"
-  },
-  {
-    "suburb_id": 8592,
-    "state": "tas",
-    "postcode": 7183,
-    "suburb_name": "Highcroft"
-  },
-  {
-    "suburb_id": 8983,
-    "state": "tas",
-    "postcode": 7315,
-    "suburb_name": "West Ulverstone"
-  },
-  {
-    "suburb_id": 8626,
-    "state": "tas",
-    "postcode": 7050,
-    "suburb_name": "Kingston Beach"
-  },
-  {
-    "suburb_id": 8667,
-    "state": "tas",
-    "postcode": 7253,
-    "suburb_name": "Low Head"
-  },
-  {
-    "suburb_id": 8815,
-    "state": "tas",
-    "postcode": 7467,
-    "suburb_name": "Queenstown"
-  },
-  {
-    "suburb_id": 8806,
-    "state": "tas",
-    "postcode": 7173,
-    "suburb_name": "Primrose Sands"
-  },
-  {
-    "suburb_id": 8885,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "South Burnie"
-  },
-  {
-    "suburb_id": 8682,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Lymington"
-  },
-  {
-    "suburb_id": 8880,
-    "state": "tas",
-    "postcode": 7322,
-    "suburb_name": "Somerset"
-  },
-  {
-    "suburb_id": 8858,
-    "state": "tas",
-    "postcode": 7186,
-    "suburb_name": "Saltwater River"
-  },
-  {
-    "suburb_id": 8514,
-    "state": "tas",
-    "postcode": 7054,
-    "suburb_name": "Electrona"
-  },
-  {
-    "suburb_id": 8546,
-    "state": "tas",
-    "postcode": 7116,
-    "suburb_name": "Geeveston"
-  },
-  {
-    "suburb_id": 8635,
-    "state": "tas",
-    "postcode": 7275,
-    "suburb_name": "Lanena"
-  },
-  {
-    "suburb_id": 8587,
-    "state": "tas",
-    "postcode": 7030,
-    "suburb_name": "Herdsmans Cove"
-  },
-  {
-    "suburb_id": 8950,
-    "state": "tas",
-    "postcode": 7315,
-    "suburb_name": "Turners Beach"
-  },
-  {
-    "suburb_id": 8830,
-    "state": "tas",
-    "postcode": 7054,
-    "suburb_name": "Ridgeway"
-  },
-  {
-    "suburb_id": 8967,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Wattle Grove"
-  },
-  {
-    "suburb_id": 8720,
-    "state": "tas",
-    "postcode": 7009,
-    "suburb_name": "Moonah"
-  },
-  {
-    "suburb_id": 8533,
-    "state": "tas",
-    "postcode": 7173,
-    "suburb_name": "Forcett"
-  },
-  {
-    "suburb_id": 8410,
-    "state": "tas",
-    "postcode": 7030,
-    "suburb_name": "Bothwell"
-  },
-  {
-    "suburb_id": 8656,
-    "state": "tas",
-    "postcode": 7190,
-    "suburb_name": "Little Swanport"
-  },
-  {
-    "suburb_id": 8576,
-    "state": "tas",
-    "postcode": 7315,
-    "suburb_name": "Gunns Plains"
-  },
-  {
-    "suburb_id": 8553,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Glendevie"
-  },
-  {
-    "suburb_id": 8878,
-    "state": "tas",
-    "postcode": 7330,
-    "suburb_name": "Smithton"
-  },
-  {
-    "suburb_id": 8543,
-    "state": "tas",
-    "postcode": 7112,
-    "suburb_name": "Garden Island Creek"
-  },
-  {
-    "suburb_id": 8480,
-    "state": "tas",
-    "postcode": 7112,
-    "suburb_name": "Deep Bay"
-  },
-  {
-    "suburb_id": 8432,
+    "suburb_id": 8359,
     "state": "tas",
     "postcode": 7170,
-    "suburb_name": "Cambridge"
+    "suburb_name": "Acton Park"
   },
   {
-    "suburb_id": 8705,
+    "suburb_id": 486,
+    "state": "nsw",
+    "postcode": 2774,
+    "suburb_name": "Blaxland"
+  },
+  {
+    "suburb_id": 6940,
+    "state": "sa",
+    "postcode": 5173,
+    "suburb_name": "Aldinga"
+  },
+  {
+    "suburb_id": 7276,
+    "state": "sa",
+    "postcode": 5113,
+    "suburb_name": "Elizabeth Park"
+  },
+  {
+    "suburb_id": 10737,
+    "state": "vic",
+    "postcode": 3898,
+    "suburb_name": "Omeo"
+  },
+  {
+    "suburb_id": 10038,
+    "state": "vic",
+    "postcode": 3442,
+    "suburb_name": "Hesket"
+  },
+  {
+    "suburb_id": 3239,
+    "state": "nsw",
+    "postcode": 2135,
+    "suburb_name": "Strathfield"
+  },
+  {
+    "suburb_id": 6595,
+    "state": "qld",
+    "postcode": 4650,
+    "suburb_name": "Tiaro"
+  },
+  {
+    "suburb_id": 5140,
+    "state": "qld",
+    "postcode": 4211,
+    "suburb_name": "Gaven"
+  },
+  {
+    "suburb_id": 10160,
+    "state": "vic",
+    "postcode": 3038,
+    "suburb_name": "Keilor Lodge"
+  },
+  {
+    "suburb_id": 875,
+    "state": "nsw",
+    "postcode": 2429,
+    "suburb_name": "Cedar Party"
+  },
+  {
+    "suburb_id": 8305,
+    "state": "sa",
+    "postcode": 5255,
+    "suburb_name": "Woodchester"
+  },
+  {
+    "suburb_id": 5301,
+    "state": "qld",
+    "postcode": 4341,
+    "suburb_name": "Hatton Vale"
+  },
+  {
+    "suburb_id": 12643,
+    "state": "wa",
+    "postcode": 6210,
+    "suburb_name": "San Remo"
+  },
+  {
+    "suburb_id": 6499,
+    "state": "qld",
+    "postcode": 4371,
+    "suburb_name": "Swanfels"
+  },
+  {
+    "suburb_id": 3845,
+    "state": "nsw",
+    "postcode": 2575,
+    "suburb_name": "Woodlands"
+  },
+  {
+    "suburb_id": 9598,
+    "state": "vic",
+    "postcode": 3666,
+    "suburb_name": "Creightons Creek"
+  },
+  {
+    "suburb_id": 1290,
+    "state": "nsw",
+    "postcode": 2113,
+    "suburb_name": "East Ryde"
+  },
+  {
+    "suburb_id": 10409,
+    "state": "vic",
+    "postcode": 3465,
+    "suburb_name": "Maryborough"
+  },
+  {
+    "suburb_id": 5841,
+    "state": "qld",
+    "postcode": 4170,
+    "suburb_name": "Morningside"
+  },
+  {
+    "suburb_id": 9945,
+    "state": "vic",
+    "postcode": 3305,
+    "suburb_name": "Gorae West"
+  },
+  {
+    "suburb_id": 3147,
+    "state": "nsw",
+    "postcode": 2250,
+    "suburb_name": "Somersby"
+  },
+  {
+    "suburb_id": 4039,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Fly Creek"
+  },
+  {
+    "suburb_id": 2044,
+    "state": "nsw",
+    "postcode": 2539,
+    "suburb_name": "Lake Tabourie"
+  },
+  {
+    "suburb_id": 10738,
+    "state": "vic",
+    "postcode": 3249,
+    "suburb_name": "Ondit"
+  },
+  {
+    "suburb_id": 5673,
+    "state": "qld",
+    "postcode": 4878,
+    "suburb_name": "Machans Beach"
+  },
+  {
+    "suburb_id": 8415,
     "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Miandetta"
+    "postcode": 7258,
+    "suburb_name": "Breadalbane"
   },
   {
-    "suburb_id": 8499,
-    "state": "tas",
-    "postcode": 7030,
-    "suburb_name": "Dromedary"
-  },
-  {
-    "suburb_id": 8477,
-    "state": "tas",
-    "postcode": 7112,
-    "suburb_name": "Cygnet"
-  },
-  {
-    "suburb_id": 8512,
-    "state": "tas",
-    "postcode": 7112,
-    "suburb_name": "Eggs And Bacon Bay"
-  },
-  {
-    "suburb_id": 8364,
-    "state": "tas",
-    "postcode": 7150,
-    "suburb_name": "Allens Rivulet"
-  },
-  {
-    "suburb_id": 8809,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Prospect Vale"
-  },
-  {
-    "suburb_id": 8641,
-    "state": "tas",
-    "postcode": 7254,
-    "suburb_name": "Lebrina"
-  },
-  {
-    "suburb_id": 8945,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Tugrah"
-  },
-  {
-    "suburb_id": 8624,
-    "state": "tas",
-    "postcode": 7249,
-    "suburb_name": "Kings Meadows"
-  },
-  {
-    "suburb_id": 8900,
-    "state": "tas",
-    "postcode": 7216,
-    "suburb_name": "St Helens"
-  },
-  {
-    "suburb_id": 8763,
-    "state": "tas",
-    "postcode": 7019,
-    "suburb_name": "Oakdowns"
-  },
-  {
-    "suburb_id": 8470,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Cradoc"
-  },
-  {
-    "suburb_id": 8794,
-    "state": "tas",
-    "postcode": 7302,
-    "suburb_name": "Poatina"
-  },
-  {
-    "suburb_id": 8861,
-    "state": "tas",
-    "postcode": 7005,
-    "suburb_name": "Sandy Bay"
-  },
-  {
-    "suburb_id": 8513,
-    "state": "tas",
-    "postcode": 7030,
-    "suburb_name": "Elderslie"
-  },
-  {
-    "suburb_id": 8590,
-    "state": "tas",
-    "postcode": 7316,
-    "suburb_name": "Heybridge"
-  },
-  {
-    "suburb_id": 8648,
-    "state": "tas",
-    "postcode": 7120,
-    "suburb_name": "Levendale"
-  },
-  {
-    "suburb_id": 8547,
-    "state": "tas",
-    "postcode": 7015,
-    "suburb_name": "Geilston Bay"
-  },
-  {
-    "suburb_id": 8888,
-    "state": "tas",
-    "postcode": 7249,
-    "suburb_name": "South Launceston"
-  },
-  {
-    "suburb_id": 8392,
-    "state": "tas",
-    "postcode": 7011,
-    "suburb_name": "Berriedale"
-  },
-  {
-    "suburb_id": 8449,
-    "state": "tas",
-    "postcode": 7330,
-    "suburb_name": "Christmas Hills"
-  },
-  {
-    "suburb_id": 9008,
-    "state": "tas",
-    "postcode": 7325,
-    "suburb_name": "Yolla"
-  },
-  {
-    "suburb_id": 8756,
-    "state": "tas",
-    "postcode": 7307,
-    "suburb_name": "Northdown"
-  },
-  {
-    "suburb_id": 8715,
-    "state": "tas",
-    "postcode": 7018,
-    "suburb_name": "Montagu Bay"
-  },
-  {
-    "suburb_id": 8497,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Downlands"
-  },
-  {
-    "suburb_id": 8781,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Parklands"
-  },
-  {
-    "suburb_id": 8911,
-    "state": "tas",
-    "postcode": 7468,
-    "suburb_name": "Strahan"
-  },
-  {
-    "suburb_id": 8712,
-    "state": "tas",
-    "postcode": 7140,
-    "suburb_name": "Molesworth"
-  },
-  {
-    "suburb_id": 8846,
-    "state": "tas",
-    "postcode": 7470,
-    "suburb_name": "Rosebery"
-  },
-  {
-    "suburb_id": 8595,
-    "state": "tas",
-    "postcode": 7000,
-    "suburb_name": "Hobart"
-  },
-  {
-    "suburb_id": 8375,
-    "state": "tas",
-    "postcode": 7011,
-    "suburb_name": "Austins Ferry"
-  },
-  {
-    "suburb_id": 8932,
-    "state": "tas",
-    "postcode": 7321,
-    "suburb_name": "Tewkesbury"
-  },
-  {
-    "suburb_id": 8395,
-    "state": "tas",
-    "postcode": 7216,
-    "suburb_name": "Binalong Bay"
-  },
-  {
-    "suburb_id": 8539,
-    "state": "tas",
-    "postcode": 7113,
-    "suburb_name": "Franklin"
-  },
-  {
-    "suburb_id": 8723,
-    "state": "tas",
-    "postcode": 7307,
-    "suburb_name": "Moriarty"
-  },
-  {
-    "suburb_id": 8428,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Burnie"
-  },
-  {
-    "suburb_id": 8558,
-    "state": "tas",
-    "postcode": 7010,
-    "suburb_name": "Glenorchy"
-  },
-  {
-    "suburb_id": 8599,
-    "state": "tas",
-    "postcode": 7018,
-    "suburb_name": "Howrah"
-  },
-  {
-    "suburb_id": 8787,
-    "state": "tas",
-    "postcode": 7171,
-    "suburb_name": "Penna"
-  },
-  {
-    "suburb_id": 8724,
-    "state": "tas",
-    "postcode": 7018,
-    "suburb_name": "Mornington"
-  },
-  {
-    "suburb_id": 8358,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Acton"
-  },
-  {
-    "suburb_id": 8752,
-    "state": "tas",
-    "postcode": 7000,
-    "suburb_name": "North Hobart"
-  },
-  {
-    "suburb_id": 8956,
-    "state": "tas",
-    "postcode": 7315,
-    "suburb_name": "Upper Castra"
-  },
-  {
-    "suburb_id": 8906,
-    "state": "tas",
-    "postcode": 7216,
-    "suburb_name": "Stieglitz"
-  },
-  {
-    "suburb_id": 8638,
-    "state": "tas",
-    "postcode": 7021,
-    "suburb_name": "Lauderdale"
-  },
-  {
-    "suburb_id": 8393,
+    "suburb_id": 8778,
     "state": "tas",
     "postcode": 7306,
-    "suburb_name": "Beulah"
+    "suburb_name": "Paradise"
   },
   {
-    "suburb_id": 8639,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Launceston"
+    "suburb_id": 3349,
+    "state": "nsw",
+    "postcode": 2486,
+    "suburb_name": "Terranora"
   },
   {
-    "suburb_id": 8859,
-    "state": "tas",
-    "postcode": 7150,
-    "suburb_name": "Sandfly"
+    "suburb_id": 6401,
+    "state": "qld",
+    "postcode": 4101,
+    "suburb_name": "South Brisbane"
   },
   {
-    "suburb_id": 8874,
-    "state": "tas",
-    "postcode": 7270,
-    "suburb_name": "Sidmouth"
+    "suburb_id": 9344,
+    "state": "vic",
+    "postcode": 3375,
+    "suburb_name": "Buangor"
   },
   {
-    "suburb_id": 8468,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Crabtree"
+    "suburb_id": 1455,
+    "state": "nsw",
+    "postcode": 2798,
+    "suburb_name": "Forest Reefs"
   },
   {
-    "suburb_id": 8448,
+    "suburb_id": 2399,
+    "state": "nsw",
+    "postcode": 2430,
+    "suburb_name": "Mondrook"
+  },
+  {
+    "suburb_id": 10213,
+    "state": "vic",
+    "postcode": 3981,
+    "suburb_name": "Koo Wee Rup"
+  },
+  {
+    "suburb_id": 9130,
+    "state": "vic",
+    "postcode": 3103,
+    "suburb_name": "Balwyn"
+  },
+  {
+    "suburb_id": 1897,
+    "state": "nsw",
+    "postcode": 2320,
+    "suburb_name": "Keinbah"
+  },
+  {
+    "suburb_id": 5488,
+    "state": "qld",
+    "postcode": 4341,
+    "suburb_name": "Kensington Grove"
+  },
+  {
+    "suburb_id": 10461,
+    "state": "vic",
+    "postcode": 3904,
+    "suburb_name": "Metung"
+  },
+  {
+    "suburb_id": 2608,
+    "state": "nsw",
+    "postcode": 2423,
+    "suburb_name": "Nerong"
+  },
+  {
+    "suburb_id": 10535,
+    "state": "vic",
+    "postcode": 3301,
+    "suburb_name": "Morgiana"
+  },
+  {
+    "suburb_id": 11973,
+    "state": "wa",
+    "postcode": 6041,
+    "suburb_name": "Gabbadah"
+  },
+  {
+    "suburb_id": 6803,
+    "state": "qld",
+    "postcode": 4350,
+    "suburb_name": "Wilsonton Heights"
+  },
+  {
+    "suburb_id": 4220,
+    "state": "qld",
+    "postcode": 4051,
+    "suburb_name": "Alderley"
+  },
+  {
+    "suburb_id": 5283,
+    "state": "qld",
+    "postcode": 4306,
+    "suburb_name": "Haigslea"
+  },
+  {
+    "suburb_id": 4713,
+    "state": "qld",
+    "postcode": 4660,
+    "suburb_name": "Childers"
+  },
+  {
+    "suburb_id": 12132,
+    "state": "wa",
+    "postcode": 6442,
+    "suburb_name": "Kambalda West"
+  },
+  {
+    "suburb_id": 1256,
+    "state": "nsw",
+    "postcode": 2330,
+    "suburb_name": "Dunolly"
+  },
+  {
+    "suburb_id": 11556,
+    "state": "wa",
+    "postcode": 6069,
+    "suburb_name": "Aveley"
+  },
+  {
+    "suburb_id": 4396,
+    "state": "qld",
+    "postcode": 4860,
+    "suburb_name": "Belvedere"
+  },
+  {
+    "suburb_id": 1520,
+    "state": "nsw",
+    "postcode": 2480,
+    "suburb_name": "Girards Hill"
+  },
+  {
+    "suburb_id": 7599,
+    "state": "sa",
+    "postcode": 5333,
+    "suburb_name": "Loxton"
+  },
+  {
+    "suburb_id": 10307,
+    "state": "vic",
+    "postcode": 3820,
+    "suburb_name": "Lillico"
+  },
+  {
+    "suburb_id": 10817,
+    "state": "vic",
+    "postcode": 3284,
+    "suburb_name": "Port Fairy"
+  },
+  {
+    "suburb_id": 1084,
+    "state": "nsw",
+    "postcode": 2099,
+    "suburb_name": "Cromer"
+  },
+  {
+    "suburb_id": 10890,
+    "state": "vic",
+    "postcode": 3561,
+    "suburb_name": "Rochester"
+  },
+  {
+    "suburb_id": 525,
+    "state": "nsw",
+    "postcode": 2320,
+    "suburb_name": "Bolwarra"
+  },
+  {
+    "suburb_id": 1364,
+    "state": "nsw",
+    "postcode": 2650,
+    "suburb_name": "Estella"
+  },
+  {
+    "suburb_id": 8804,
     "state": "tas",
-    "postcode": 7011,
-    "suburb_name": "Chigwell"
+    "postcode": 7316,
+    "suburb_name": "Preservation Bay"
+  },
+  {
+    "suburb_id": 7568,
+    "state": "sa",
+    "postcode": 5068,
+    "suburb_name": "Leabrook"
+  },
+  {
+    "suburb_id": 6114,
+    "state": "qld",
+    "postcode": 4221,
+    "suburb_name": "Palm Beach"
+  },
+  {
+    "suburb_id": 10643,
+    "state": "vic",
+    "postcode": 3638,
+    "suburb_name": "Nathalia"
+  },
+  {
+    "suburb_id": 9625,
+    "state": "vic",
+    "postcode": 3341,
+    "suburb_name": "Dales Creek"
+  },
+  {
+    "suburb_id": 2043,
+    "state": "nsw",
+    "postcode": 2259,
+    "suburb_name": "Lake Munmorah"
+  },
+  {
+    "suburb_id": 927,
+    "state": "nsw",
+    "postcode": 2206,
+    "suburb_name": "Clemton Park"
+  },
+  {
+    "suburb_id": 8039,
+    "state": "sa",
+    "postcode": 5047,
+    "suburb_name": "Seacombe Gardens"
   },
   {
     "suburb_id": 8506,
@@ -726,130 +498,814 @@
     "suburb_name": "East Cam"
   },
   {
-    "suburb_id": 8746,
+    "suburb_id": 8833,
     "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Newstead"
+    "postcode": 7017,
+    "suburb_name": "Risdon"
   },
   {
-    "suburb_id": 8574,
-    "state": "tas",
-    "postcode": 7277,
-    "suburb_name": "Grindelwald"
+    "suburb_id": 11094,
+    "state": "vic",
+    "postcode": 3903,
+    "suburb_name": "Swan Reach"
   },
   {
-    "suburb_id": 8835,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Riverside"
+    "suburb_id": 9148,
+    "state": "vic",
+    "postcode": 3451,
+    "suburb_name": "Barkers Creek"
   },
   {
-    "suburb_id": 8690,
-    "state": "tas",
-    "postcode": 7054,
-    "suburb_name": "Margate"
+    "suburb_id": 6657,
+    "state": "qld",
+    "postcode": 4564,
+    "suburb_name": "Twin Waters"
   },
   {
-    "suburb_id": 8697,
-    "state": "tas",
-    "postcode": 7248,
-    "suburb_name": "Mayfield"
+    "suburb_id": 1679,
+    "state": "nsw",
+    "postcode": 2365,
+    "suburb_name": "Guyra"
   },
   {
-    "suburb_id": 9006,
-    "state": "tas",
-    "postcode": 7325,
-    "suburb_name": "Wynyard"
+    "suburb_id": 9416,
+    "state": "vic",
+    "postcode": 3124,
+    "suburb_name": "Camberwell"
   },
   {
-    "suburb_id": 8606,
-    "state": "tas",
-    "postcode": 7248,
-    "suburb_name": "Invermay"
+    "suburb_id": 6379,
+    "state": "qld",
+    "postcode": 4352,
+    "suburb_name": "Silver Ridge"
   },
   {
-    "suburb_id": 8628,
-    "state": "tas",
-    "postcode": 7140,
-    "suburb_name": "Lachlan"
+    "suburb_id": 6040,
+    "state": "qld",
+    "postcode": 4304,
+    "suburb_name": "North Booval"
   },
   {
-    "suburb_id": 8467,
+    "suburb_id": 647,
+    "state": "nsw",
+    "postcode": 2880,
+    "suburb_name": "Broken Hill"
+  },
+  {
+    "suburb_id": 2336,
+    "state": "nsw",
+    "postcode": 2158,
+    "suburb_name": "Middle Dural"
+  },
+  {
+    "suburb_id": 2250,
+    "state": "nsw",
+    "postcode": 2204,
+    "suburb_name": "Marrickville"
+  },
+  {
+    "suburb_id": 7206,
+    "state": "sa",
+    "postcode": 5602,
+    "suburb_name": "Cowell"
+  },
+  {
+    "suburb_id": 10106,
+    "state": "vic",
+    "postcode": 3723,
+    "suburb_name": "Jamieson"
+  },
+  {
+    "suburb_id": 3993,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Braitling"
+  },
+  {
+    "suburb_id": 11445,
+    "state": "vic",
+    "postcode": 3485,
+    "suburb_name": "Woomelang"
+  },
+  {
+    "suburb_id": 6020,
+    "state": "qld",
+    "postcode": 4655,
+    "suburb_name": "Nikenbah"
+  },
+  {
+    "suburb_id": 9993,
+    "state": "vic",
+    "postcode": 3953,
+    "suburb_name": "Hallston"
+  },
+  {
+    "suburb_id": 7653,
+    "state": "sa",
+    "postcode": 5039,
+    "suburb_name": "Melrose Park"
+  },
+  {
+    "suburb_id": 9795,
+    "state": "vic",
+    "postcode": 3666,
+    "suburb_name": "Euroa"
+  },
+  {
+    "suburb_id": 4883,
+    "state": "qld",
+    "postcode": 4405,
+    "suburb_name": "Dalby"
+  },
+  {
+    "suburb_id": 3726,
+    "state": "nsw",
+    "postcode": 2541,
+    "suburb_name": "West Nowra"
+  },
+  {
+    "suburb_id": 4793,
+    "state": "qld",
+    "postcode": 4311,
+    "suburb_name": "Coominya"
+  },
+  {
+    "suburb_id": 4635,
+    "state": "qld",
+    "postcode": 4152,
+    "suburb_name": "Camp Hill"
+  },
+  {
+    "suburb_id": 10653,
+    "state": "vic",
+    "postcode": 3832,
+    "suburb_name": "Neerim Junction"
+  },
+  {
+    "suburb_id": 7955,
+    "state": "sa",
+    "postcode": 5570,
+    "suburb_name": "Price"
+  },
+  {
+    "suburb_id": 6841,
+    "state": "qld",
+    "postcode": 4514,
+    "suburb_name": "Woodford"
+  },
+  {
+    "suburb_id": 9894,
+    "state": "vic",
+    "postcode": 3146,
+    "suburb_name": "Glen Iris"
+  },
+  {
+    "suburb_id": 11826,
+    "state": "wa",
+    "postcode": 6025,
+    "suburb_name": "Craigie"
+  },
+  {
+    "suburb_id": 4579,
+    "state": "qld",
+    "postcode": 4455,
+    "suburb_name": "Bungeworgorai"
+  },
+  {
+    "suburb_id": 8354,
+    "state": "tas",
+    "postcode": 7315,
+    "suburb_name": "Abbotsham"
+  },
+  {
+    "suburb_id": 10952,
+    "state": "vic",
+    "postcode": 3821,
+    "suburb_name": "Seaview"
+  },
+  {
+    "suburb_id": 3983,
+    "state": "nt",
+    "postcode": 845,
+    "suburb_name": "Batchelor"
+  },
+  {
+    "suburb_id": 10823,
+    "state": "vic",
+    "postcode": 3305,
+    "suburb_name": "Portland North"
+  },
+  {
+    "suburb_id": 7444,
+    "state": "sa",
+    "postcode": 5255,
+    "suburb_name": "Highland Valley"
+  },
+  {
+    "suburb_id": 2508,
+    "state": "nsw",
+    "postcode": 2786,
+    "suburb_name": "Mount Victoria"
+  },
+  {
+    "suburb_id": 11267,
+    "state": "vic",
+    "postcode": 3325,
+    "suburb_name": "Vite Vite"
+  },
+  {
+    "suburb_id": 766,
+    "state": "nsw",
+    "postcode": 2488,
+    "suburb_name": "Cabarita Beach"
+  },
+  {
+    "suburb_id": 7292,
+    "state": "sa",
+    "postcode": 5069,
+    "suburb_name": "Evandale"
+  },
+  {
+    "suburb_id": 7502,
+    "state": "sa",
+    "postcode": 5373,
+    "suburb_name": "Kapunda"
+  },
+  {
+    "suburb_id": 9015,
+    "state": "vic",
+    "postcode": 3040,
+    "suburb_name": "Aberfeldie"
+  },
+  {
+    "suburb_id": 4556,
+    "state": "qld",
+    "postcode": 4575,
+    "suburb_name": "Buddina"
+  },
+  {
+    "suburb_id": 2206,
+    "state": "nsw",
+    "postcode": 2036,
+    "suburb_name": "Malabar"
+  },
+  {
+    "suburb_id": 9846,
+    "state": "vic",
+    "postcode": 3741,
+    "suburb_name": "Freeburgh"
+  },
+  {
+    "suburb_id": 399,
+    "state": "nsw",
+    "postcode": 2082,
+    "suburb_name": "Berowra Waters"
+  },
+  {
+    "suburb_id": 10705,
+    "state": "vic",
+    "postcode": 3070,
+    "suburb_name": "Northcote"
+  },
+  {
+    "suburb_id": 8156,
+    "state": "sa",
+    "postcode": 5082,
+    "suburb_name": "Thorngate"
+  },
+  {
+    "suburb_id": 61,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Holt"
+  },
+  {
+    "suburb_id": 9734,
+    "state": "vic",
+    "postcode": 3219,
+    "suburb_name": "East Geelong"
+  },
+  {
+    "suburb_id": 8817,
+    "state": "tas",
+    "postcode": 7305,
+    "suburb_name": "Railton"
+  },
+  {
+    "suburb_id": 4194,
+    "state": "nt",
+    "postcode": 832,
+    "suburb_name": "Zuccoli"
+  },
+  {
+    "suburb_id": 7301,
+    "state": "sa",
+    "postcode": 5121,
+    "suburb_name": "Eyre"
+  },
+  {
+    "suburb_id": 12551,
+    "state": "wa",
+    "postcode": 6714,
+    "suburb_name": "Pegs Creek"
+  },
+  {
+    "suburb_id": 1175,
+    "state": "nsw",
+    "postcode": 2099,
+    "suburb_name": "Dee Why"
+  },
+  {
+    "suburb_id": 7605,
+    "state": "sa",
+    "postcode": 5062,
+    "suburb_name": "Lynton"
+  },
+  {
+    "suburb_id": 2423,
+    "state": "nsw",
+    "postcode": 2340,
+    "suburb_name": "Moore Creek"
+  },
+  {
+    "suburb_id": 4627,
+    "state": "qld",
+    "postcode": 4340,
+    "suburb_name": "Calvert"
+  },
+  {
+    "suburb_id": 4021,
+    "state": "nt",
+    "postcode": 840,
+    "suburb_name": "Dundee Downs"
+  },
+  {
+    "suburb_id": 8387,
+    "state": "tas",
+    "postcode": 7252,
+    "suburb_name": "Beechford"
+  },
+  {
+    "suburb_id": 5401,
+    "state": "qld",
+    "postcode": 4306,
+    "suburb_name": "Ironbark"
+  },
+  {
+    "suburb_id": 5736,
+    "state": "qld",
+    "postcode": 4131,
+    "suburb_name": "Meadowbrook"
+  },
+  {
+    "suburb_id": 9975,
+    "state": "vic",
+    "postcode": 3675,
+    "suburb_name": "Greta West"
+  },
+  {
+    "suburb_id": 2371,
+    "state": "nsw",
+    "postcode": 2548,
+    "suburb_name": "Mirador"
+  },
+  {
+    "suburb_id": 12056,
+    "state": "wa",
+    "postcode": 6055,
+    "suburb_name": "Henley Brook"
+  },
+  {
+    "suburb_id": 1888,
+    "state": "nsw",
+    "postcode": 2250,
+    "suburb_name": "Kariong"
+  },
+  {
+    "suburb_id": 11279,
+    "state": "vic",
+    "postcode": 3825,
+    "suburb_name": "Walhalla"
+  },
+  {
+    "suburb_id": 2031,
+    "state": "nsw",
+    "postcode": 2650,
+    "suburb_name": "Lake Albert"
+  },
+  {
+    "suburb_id": 136,
+    "state": "nsw",
+    "postcode": 2320,
+    "suburb_name": "Aberglasslyn"
+  },
+  {
+    "suburb_id": 4004,
+    "state": "nt",
+    "postcode": 870,
+    "suburb_name": "Connellan"
+  },
+  {
+    "suburb_id": 4414,
+    "state": "qld",
+    "postcode": 4275,
+    "suburb_name": "Biddaddaba"
+  },
+  {
+    "suburb_id": 5381,
+    "state": "qld",
+    "postcode": 4570,
+    "suburb_name": "Imbil"
+  },
+  {
+    "suburb_id": 727,
+    "state": "nsw",
+    "postcode": 2630,
+    "suburb_name": "Bunyan"
+  },
+  {
+    "suburb_id": 3609,
+    "state": "nsw",
+    "postcode": 2259,
+    "suburb_name": "Wallarah"
+  },
+  {
+    "suburb_id": 1937,
+    "state": "nsw",
+    "postcode": 2071,
+    "suburb_name": "Killara"
+  },
+  {
+    "suburb_id": 9940,
+    "state": "vic",
+    "postcode": 3666,
+    "suburb_name": "Gooram"
+  },
+  {
+    "suburb_id": 1203,
+    "state": "nsw",
+    "postcode": 2229,
+    "suburb_name": "Dolans Bay"
+  },
+  {
+    "suburb_id": 8110,
+    "state": "sa",
+    "postcode": 5066,
+    "suburb_name": "Stonyfell"
+  },
+  {
+    "suburb_id": 4982,
+    "state": "qld",
+    "postcode": 4745,
+    "suburb_name": "Dysart"
+  },
+  {
+    "suburb_id": 9347,
+    "state": "vic",
+    "postcode": 3740,
+    "suburb_name": "Buckland"
+  },
+  {
+    "suburb_id": 7269,
+    "state": "sa",
+    "postcode": 5039,
+    "suburb_name": "Edwardstown"
+  },
+  {
+    "suburb_id": 6347,
+    "state": "qld",
+    "postcode": 4020,
+    "suburb_name": "Scarborough"
+  },
+  {
+    "suburb_id": 4672,
+    "state": "qld",
+    "postcode": 4211,
+    "suburb_name": "Carrara"
+  },
+  {
+    "suburb_id": 10084,
+    "state": "vic",
+    "postcode": 3223,
+    "suburb_name": "Indented Head"
+  },
+  {
+    "suburb_id": 7408,
+    "state": "sa",
+    "postcode": 5461,
+    "suburb_name": "Halbury"
+  },
+  {
+    "suburb_id": 10452,
+    "state": "vic",
+    "postcode": 3916,
+    "suburb_name": "Merricks"
+  },
+  {
+    "suburb_id": 9342,
+    "state": "vic",
+    "postcode": 3055,
+    "suburb_name": "Brunswick West"
+  },
+  {
+    "suburb_id": 4631,
+    "state": "qld",
+    "postcode": 4300,
+    "suburb_name": "Camira"
+  },
+  {
+    "suburb_id": 7015,
+    "state": "sa",
+    "postcode": 5052,
+    "suburb_name": "Belair"
+  },
+  {
+    "suburb_id": 9002,
+    "state": "tas",
+    "postcode": 7120,
+    "suburb_name": "Woodsdale"
+  },
+  {
+    "suburb_id": 327,
+    "state": "nsw",
+    "postcode": 2153,
+    "suburb_name": "Baulkham Hills"
+  },
+  {
+    "suburb_id": 3707,
+    "state": "nsw",
+    "postcode": 2127,
+    "suburb_name": "Wentworth Point"
+  },
+  {
+    "suburb_id": 7088,
+    "state": "sa",
+    "postcode": 5118,
+    "suburb_name": "Buchfelde"
+  },
+  {
+    "suburb_id": 163,
+    "state": "nsw",
+    "postcode": 2218,
+    "suburb_name": "Allawah"
+  },
+  {
+    "suburb_id": 7675,
+    "state": "sa",
+    "postcode": 5034,
+    "suburb_name": "Millswood"
+  },
+  {
+    "suburb_id": 7577,
+    "state": "sa",
+    "postcode": 5065,
+    "suburb_name": "Linden Park"
+  },
+  {
+    "suburb_id": 10577,
+    "state": "vic",
+    "postcode": 3875,
+    "suburb_name": "Mount Taylor"
+  },
+  {
+    "suburb_id": 11300,
+    "state": "vic",
+    "postcode": 3678,
+    "suburb_name": "Wangandary"
+  },
+  {
+    "suburb_id": 272,
+    "state": "nsw",
+    "postcode": 2041,
+    "suburb_name": "Balmain East"
+  },
+  {
+    "suburb_id": 5687,
+    "state": "qld",
+    "postcode": 4552,
+    "suburb_name": "Maleny"
+  },
+  {
+    "suburb_id": 11824,
+    "state": "wa",
+    "postcode": 6284,
+    "suburb_name": "Cowaramup"
+  },
+  {
+    "suburb_id": 2781,
+    "state": "nsw",
+    "postcode": 2035,
+    "suburb_name": "Pagewood"
+  },
+  {
+    "suburb_id": 9980,
+    "state": "vic",
+    "postcode": 3770,
+    "suburb_name": "Gruyere"
+  },
+  {
+    "suburb_id": 12911,
+    "state": "wa",
+    "postcode": 6041,
+    "suburb_name": "Woodridge"
+  },
+  {
+    "suburb_id": 4697,
+    "state": "qld",
+    "postcode": 4155,
+    "suburb_name": "Chandler"
+  },
+  {
+    "suburb_id": 10211,
+    "state": "vic",
+    "postcode": 3265,
+    "suburb_name": "Kolora"
+  },
+  {
+    "suburb_id": 7439,
+    "state": "sa",
+    "postcode": 5022,
+    "suburb_name": "Henley Beach"
+  },
+  {
+    "suburb_id": 10991,
+    "state": "vic",
+    "postcode": 3760,
+    "suburb_name": "Smiths Gully"
+  },
+  {
+    "suburb_id": 7268,
+    "state": "sa",
+    "postcode": 5583,
+    "suburb_name": "Edithburgh"
+  },
+  {
+    "suburb_id": 10721,
+    "state": "vic",
+    "postcode": 3595,
+    "suburb_name": "Nyah West"
+  },
+  {
+    "suburb_id": 1036,
+    "state": "nsw",
+    "postcode": 2251,
+    "suburb_name": "Copacabana"
+  },
+  {
+    "suburb_id": 2720,
+    "state": "nsw",
+    "postcode": 2790,
+    "suburb_name": "Oakey Park"
+  },
+  {
+    "suburb_id": 9799,
+    "state": "vic",
+    "postcode": 3678,
+    "suburb_name": "Everton Upper"
+  },
+  {
+    "suburb_id": 11507,
+    "state": "vic",
+    "postcode": 3770,
+    "suburb_name": "Yering"
+  },
+  {
+    "suburb_id": 11306,
+    "state": "vic",
+    "postcode": 3152,
+    "suburb_name": "Wantirna South"
+  },
+  {
+    "suburb_id": 10167,
+    "state": "vic",
+    "postcode": 3031,
+    "suburb_name": "Kensington"
+  },
+  {
+    "suburb_id": 9279,
+    "state": "vic",
+    "postcode": 3870,
+    "suburb_name": "Boolarra"
+  },
+  {
+    "suburb_id": 9321,
+    "state": "vic",
+    "postcode": 3741,
+    "suburb_name": "Bright"
+  },
+  {
+    "suburb_id": 1458,
+    "state": "nsw",
+    "postcode": 2428,
+    "suburb_name": "Forster"
+  },
+  {
+    "suburb_id": 5354,
+    "state": "qld",
+    "postcode": 4212,
+    "suburb_name": "Hope Island"
+  },
+  {
+    "suburb_id": 11372,
+    "state": "vic",
+    "postcode": 3049,
+    "suburb_name": "Westmeadows"
+  },
+  {
+    "suburb_id": 5252,
+    "state": "qld",
+    "postcode": 4124,
+    "suburb_name": "Greenbank"
+  },
+  {
+    "suburb_id": 7826,
+    "state": "sa",
+    "postcode": 5046,
+    "suburb_name": "Oaklands Park"
+  },
+  {
+    "suburb_id": 12505,
+    "state": "wa",
+    "postcode": 6163,
+    "suburb_name": "O'connor"
+  },
+  {
+    "suburb_id": 5433,
+    "state": "qld",
+    "postcode": 4074,
+    "suburb_name": "Jindalee"
+  },
+  {
+    "suburb_id": 2264,
+    "state": "nsw",
+    "postcode": 2250,
+    "suburb_name": "Matcham"
+  },
+  {
+    "suburb_id": 10382,
+    "state": "vic",
+    "postcode": 3145,
+    "suburb_name": "Malvern East"
+  },
+  {
+    "suburb_id": 10493,
+    "state": "vic",
+    "postcode": 3816,
+    "suburb_name": "Modella"
+  },
+  {
+    "suburb_id": 3825,
+    "state": "nsw",
+    "postcode": 2550,
+    "suburb_name": "Wolumla"
+  },
+  {
+    "suburb_id": 911,
+    "state": "nsw",
+    "postcode": 2322,
+    "suburb_name": "Chisholm"
+  },
+  {
+    "suburb_id": 12654,
+    "state": "wa",
+    "postcode": 6125,
+    "suburb_name": "Serpentine"
+  },
+  {
+    "suburb_id": 8570,
     "state": "tas",
     "postcode": 7215,
-    "suburb_name": "Cornwall"
+    "suburb_name": "Gray"
   },
   {
-    "suburb_id": 8788,
-    "state": "tas",
-    "postcode": 7300,
-    "suburb_name": "Perth"
+    "suburb_id": 6057,
+    "state": "qld",
+    "postcode": 4810,
+    "suburb_name": "North Ward"
   },
   {
-    "suburb_id": 8823,
-    "state": "tas",
-    "postcode": 7330,
-    "suburb_name": "Redpa"
+    "suburb_id": 6551,
+    "state": "qld",
+    "postcode": 4005,
+    "suburb_name": "Teneriffe"
   },
   {
-    "suburb_id": 8552,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Glen Huon"
+    "suburb_id": 10183,
+    "state": "vic",
+    "postcode": 3691,
+    "suburb_name": "Kiewa"
   },
   {
-    "suburb_id": 8421,
-    "state": "tas",
-    "postcode": 7030,
-    "suburb_name": "Brighton"
+    "suburb_id": 282,
+    "state": "nsw",
+    "postcode": 2216,
+    "suburb_name": "Banksia"
   },
   {
-    "suburb_id": 8924,
-    "state": "tas",
-    "postcode": 7180,
-    "suburb_name": "Taranna"
-  },
-  {
-    "suburb_id": 8887,
-    "state": "tas",
-    "postcode": 7004,
-    "suburb_name": "South Hobart"
-  },
-  {
-    "suburb_id": 8642,
-    "state": "tas",
-    "postcode": 7277,
-    "suburb_name": "Legana"
-  },
-  {
-    "suburb_id": 8943,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Trevallyn"
-  },
-  {
-    "suburb_id": 8998,
-    "state": "tas",
-    "postcode": 7275,
-    "suburb_name": "Winkleigh"
-  },
-  {
-    "suburb_id": 8489,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Devonport"
-  },
-  {
-    "suburb_id": 8640,
-    "state": "tas",
-    "postcode": 7140,
-    "suburb_name": "Lawitta"
-  },
-  {
-    "suburb_id": 9000,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Wivenhoe"
+    "suburb_id": 7242,
+    "state": "sa",
+    "postcode": 5075,
+    "suburb_name": "Dernancourt"
   },
   {
     "suburb_id": 8727,
@@ -858,364 +1314,460 @@
     "suburb_name": "Mount Direction"
   },
   {
-    "suburb_id": 8975,
-    "state": "tas",
-    "postcode": 7000,
-    "suburb_name": "West Hobart"
+    "suburb_id": 2848,
+    "state": "nsw",
+    "postcode": 2478,
+    "suburb_name": "Pimlico"
   },
   {
-    "suburb_id": 8842,
-    "state": "tas",
-    "postcode": 7019,
-    "suburb_name": "Rokeby"
+    "suburb_id": 9228,
+    "state": "vic",
+    "postcode": 3472,
+    "suburb_name": "Bet Bet"
   },
   {
-    "suburb_id": 8681,
-    "state": "tas",
-    "postcode": 7009,
-    "suburb_name": "Lutana"
+    "suburb_id": 6767,
+    "state": "qld",
+    "postcode": 4740,
+    "suburb_name": "West Mackay"
   },
   {
-    "suburb_id": 8980,
-    "state": "tas",
-    "postcode": 7321,
-    "suburb_name": "West Mooreville"
+    "suburb_id": 9455,
+    "state": "vic",
+    "postcode": 3351,
+    "suburb_name": "Carngham"
   },
   {
-    "suburb_id": 8675,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Lower Wilmot"
+    "suburb_id": 5078,
+    "state": "qld",
+    "postcode": 4275,
+    "suburb_name": "Ferny Glen"
   },
   {
-    "suburb_id": 8926,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Tarleton"
+    "suburb_id": 9307,
+    "state": "vic",
+    "postcode": 3821,
+    "suburb_name": "Brandy Creek"
   },
   {
-    "suburb_id": 8577,
-    "state": "tas",
-    "postcode": 7290,
-    "suburb_name": "Hadspen"
+    "suburb_id": 2191,
+    "state": "nsw",
+    "postcode": 2565,
+    "suburb_name": "Macquarie Links"
   },
   {
-    "suburb_id": 8772,
-    "state": "tas",
-    "postcode": 7303,
-    "suburb_name": "Osmaston"
+    "suburb_id": 3708,
+    "state": "nsw",
+    "postcode": 2145,
+    "suburb_name": "Wentworthville"
   },
   {
-    "suburb_id": 8476,
-    "state": "tas",
-    "postcode": 7256,
-    "suburb_name": "Currie"
-  },
-  {
-    "suburb_id": 8949,
-    "state": "tas",
-    "postcode": 7254,
-    "suburb_name": "Tunnel"
-  },
-  {
-    "suburb_id": 8401,
-    "state": "tas",
-    "postcode": 7052,
-    "suburb_name": "Blackmans Bay"
-  },
-  {
-    "suburb_id": 8745,
-    "state": "tas",
-    "postcode": 7248,
-    "suburb_name": "Newnham"
-  },
-  {
-    "suburb_id": 8872,
-    "state": "tas",
-    "postcode": 7306,
-    "suburb_name": "Sheffield"
-  },
-  {
-    "suburb_id": 8402,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Blackstone Heights"
-  },
-  {
-    "suburb_id": 8707,
-    "state": "tas",
-    "postcode": 7171,
-    "suburb_name": "Midway Point"
-  },
-  {
-    "suburb_id": 8800,
-    "state": "tas",
-    "postcode": 7307,
-    "suburb_name": "Port Sorell"
-  },
-  {
-    "suburb_id": 8549,
-    "state": "tas",
-    "postcode": 7264,
-    "suburb_name": "Gladstone"
-  },
-  {
-    "suburb_id": 8488,
-    "state": "tas",
-    "postcode": 7300,
-    "suburb_name": "Devon Hills"
-  },
-  {
-    "suburb_id": 8419,
-    "state": "tas",
-    "postcode": 7030,
-    "suburb_name": "Bridgewater"
-  },
-  {
-    "suburb_id": 8819,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Ranelagh"
-  },
-  {
-    "suburb_id": 8743,
-    "state": "tas",
-    "postcode": 7140,
-    "suburb_name": "New Norfolk"
-  },
-  {
-    "suburb_id": 8838,
-    "state": "tas",
-    "postcode": 7170,
-    "suburb_name": "Roches Beach"
-  },
-  {
-    "suburb_id": 8548,
-    "state": "tas",
-    "postcode": 7253,
-    "suburb_name": "George Town"
-  },
-  {
-    "suburb_id": 8961,
-    "state": "tas",
-    "postcode": 7112,
-    "suburb_name": "Verona Sands"
-  },
-  {
-    "suburb_id": 8365,
-    "state": "tas",
-    "postcode": 7150,
-    "suburb_name": "Alonnah"
-  },
-  {
-    "suburb_id": 8824,
-    "state": "tas",
-    "postcode": 7304,
-    "suburb_name": "Reedy Marsh"
-  },
-  {
-    "suburb_id": 8442,
-    "state": "tas",
-    "postcode": 7116,
-    "suburb_name": "Castle Forbes Bay"
-  },
-  {
-    "suburb_id": 8403,
+    "suburb_id": 8555,
     "state": "tas",
     "postcode": 7275,
-    "suburb_name": "Blackwall"
+    "suburb_name": "Glengarry"
   },
   {
-    "suburb_id": 8598,
-    "state": "tas",
-    "postcode": 7054,
-    "suburb_name": "Howden"
+    "suburb_id": 1159,
+    "state": "nsw",
+    "postcode": 2454,
+    "suburb_name": "Darkwood"
   },
   {
-    "suburb_id": 8733,
-    "state": "tas",
-    "postcode": 7178,
-    "suburb_name": "Murdunna"
+    "suburb_id": 7736,
+    "state": "sa",
+    "postcode": 5374,
+    "suburb_name": "Mount Mary"
   },
   {
-    "suburb_id": 8424,
-    "state": "tas",
-    "postcode": 7140,
-    "suburb_name": "Bronte Park"
+    "suburb_id": 4283,
+    "state": "qld",
+    "postcode": 4883,
+    "suburb_name": "Atherton"
   },
   {
-    "suburb_id": 8607,
-    "state": "tas",
-    "postcode": 7330,
-    "suburb_name": "Irishtown"
+    "suburb_id": 1882,
+    "state": "nsw",
+    "postcode": 2259,
+    "suburb_name": "Kanwal"
   },
   {
-    "suburb_id": 8601,
-    "state": "tas",
-    "postcode": 7055,
-    "suburb_name": "Huntingfield"
+    "suburb_id": 10030,
+    "state": "vic",
+    "postcode": 3081,
+    "suburb_name": "Heidelberg Heights"
   },
   {
-    "suburb_id": 9012,
-    "state": "tas",
-    "postcode": 7469,
-    "suburb_name": "Zeehan"
+    "suburb_id": 2179,
+    "state": "nsw",
+    "postcode": 2210,
+    "suburb_name": "Lugarno"
   },
   {
-    "suburb_id": 8767,
-    "state": "tas",
-    "postcode": 7017,
-    "suburb_name": "Old Beach"
+    "suburb_id": 8055,
+    "state": "sa",
+    "postcode": 5019,
+    "suburb_name": "Semaphore Park"
   },
   {
-    "suburb_id": 8444,
-    "state": "tas",
-    "postcode": 7304,
-    "suburb_name": "Caveside"
-  },
-  {
-    "suburb_id": 8692,
-    "state": "tas",
-    "postcode": 7330,
-    "suburb_name": "Marrawah"
-  },
-  {
-    "suburb_id": 8881,
-    "state": "tas",
-    "postcode": 7172,
-    "suburb_name": "Sorell"
-  },
-  {
-    "suburb_id": 8770,
-    "state": "tas",
-    "postcode": 7190,
-    "suburb_name": "Orford"
-  },
-  {
-    "suburb_id": 8425,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Brooklyn"
-  },
-  {
-    "suburb_id": 8834,
-    "state": "tas",
-    "postcode": 7016,
-    "suburb_name": "Risdon Vale"
-  },
-  {
-    "suburb_id": 8474,
-    "state": "tas",
-    "postcode": 7302,
-    "suburb_name": "Cressy"
-  },
-  {
-    "suburb_id": 8797,
-    "state": "tas",
-    "postcode": 7190,
-    "suburb_name": "Pontypool"
-  },
-  {
-    "suburb_id": 8542,
-    "state": "tas",
-    "postcode": 7030,
-    "suburb_name": "Gagebrook"
-  },
-  {
-    "suburb_id": 8955,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Upper Burnie"
-  },
-  {
-    "suburb_id": 8450,
-    "state": "tas",
-    "postcode": 7304,
-    "suburb_name": "Chudleigh"
-  },
-  {
-    "suburb_id": 8903,
-    "state": "tas",
-    "postcode": 7331,
-    "suburb_name": "Stanley"
-  },
-  {
-    "suburb_id": 8754,
-    "state": "tas",
-    "postcode": 7315,
-    "suburb_name": "North Motton"
-  },
-  {
-    "suburb_id": 8729,
-    "state": "tas",
-    "postcode": 7325,
-    "suburb_name": "Mount Hicks"
-  },
-  {
-    "suburb_id": 8901,
-    "state": "tas",
-    "postcode": 7250,
+    "suburb_id": 3209,
+    "state": "nsw",
+    "postcode": 2065,
     "suburb_name": "St Leonards"
   },
   {
-    "suburb_id": 8654,
-    "state": "tas",
-    "postcode": 7015,
-    "suburb_name": "Lindisfarne"
+    "suburb_id": 1753,
+    "state": "nsw",
+    "postcode": 2290,
+    "suburb_name": "Hillsborough"
   },
   {
-    "suburb_id": 8982,
-    "state": "tas",
-    "postcode": 7260,
-    "suburb_name": "West Scottsdale"
+    "suburb_id": 1813,
+    "state": "nsw",
+    "postcode": 2565,
+    "suburb_name": "Ingleburn"
   },
   {
-    "suburb_id": 8439,
-    "state": "tas",
-    "postcode": 7173,
-    "suburb_name": "Carlton"
+    "suburb_id": 1348,
+    "state": "nsw",
+    "postcode": 2042,
+    "suburb_name": "Enmore"
   },
   {
-    "suburb_id": 8977,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "West Launceston"
+    "suburb_id": 7227,
+    "state": "sa",
+    "postcode": 5580,
+    "suburb_name": "Curramulka"
   },
   {
-    "suburb_id": 8879,
-    "state": "tas",
-    "postcode": 7054,
-    "suburb_name": "Snug"
+    "suburb_id": 151,
+    "state": "nsw",
+    "postcode": 2527,
+    "suburb_name": "Albion Park"
   },
   {
-    "suburb_id": 8384,
-    "state": "tas",
-    "postcode": 7270,
-    "suburb_name": "Beaconsfield"
+    "suburb_id": 9526,
+    "state": "vic",
+    "postcode": 3978,
+    "suburb_name": "Clyde"
   },
   {
-    "suburb_id": 8744,
-    "state": "tas",
-    "postcode": 7008,
-    "suburb_name": "New Town"
+    "suburb_id": 3876,
+    "state": "nsw",
+    "postcode": 2540,
+    "suburb_name": "Worrigee"
   },
   {
-    "suburb_id": 8995,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Wilmot"
+    "suburb_id": 2039,
+    "state": "nsw",
+    "postcode": 2502,
+    "suburb_name": "Lake Heights"
   },
   {
-    "suburb_id": 8981,
-    "state": "tas",
-    "postcode": 7316,
-    "suburb_name": "West Pine"
+    "suburb_id": 10904,
+    "state": "vic",
+    "postcode": 3847,
+    "suburb_name": "Rosedale"
   },
   {
-    "suburb_id": 8508,
+    "suburb_id": 2274,
+    "state": "nsw",
+    "postcode": 2304,
+    "suburb_name": "Mayfield"
+  },
+  {
+    "suburb_id": 4682,
+    "state": "qld",
+    "postcode": 4810,
+    "suburb_name": "Castle Hill"
+  },
+  {
+    "suburb_id": 10803,
+    "state": "vic",
+    "postcode": 3225,
+    "suburb_name": "Point Lonsdale"
+  },
+  {
+    "suburb_id": 10206,
+    "state": "vic",
+    "postcode": 3608,
+    "suburb_name": "Kirwans Bridge"
+  },
+  {
+    "suburb_id": 306,
+    "state": "nsw",
+    "postcode": 2528,
+    "suburb_name": "Barrack Point"
+  },
+  {
+    "suburb_id": 2682,
+    "state": "nsw",
+    "postcode": 2490,
+    "suburb_name": "North Tumbulgum"
+  },
+  {
+    "suburb_id": 10215,
+    "state": "vic",
+    "postcode": 3644,
+    "suburb_name": "Koonoomoo"
+  },
+  {
+    "suburb_id": 8550,
     "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "East Launceston"
+    "postcode": 7109,
+    "suburb_name": "Glaziers Bay"
+  },
+  {
+    "suburb_id": 12028,
+    "state": "wa",
+    "postcode": 6041,
+    "suburb_name": "Guilderton"
+  },
+  {
+    "suburb_id": 4513,
+    "state": "qld",
+    "postcode": 4800,
+    "suburb_name": "Brandy Creek"
+  },
+  {
+    "suburb_id": 9501,
+    "state": "vic",
+    "postcode": 3683,
+    "suburb_name": "Chiltern"
+  },
+  {
+    "suburb_id": 6387,
+    "state": "qld",
+    "postcode": 4556,
+    "suburb_name": "Sippy Downs"
+  },
+  {
+    "suburb_id": 2628,
+    "state": "nsw",
+    "postcode": 2127,
+    "suburb_name": "Newington"
+  },
+  {
+    "suburb_id": 7011,
+    "state": "sa",
+    "postcode": 5066,
+    "suburb_name": "Beaumont"
+  },
+  {
+    "suburb_id": 2354,
+    "state": "nsw",
+    "postcode": 2798,
+    "suburb_name": "Millthorpe"
+  },
+  {
+    "suburb_id": 7549,
+    "state": "sa",
+    "postcode": 5115,
+    "suburb_name": "Kudla"
+  },
+  {
+    "suburb_id": 10961,
+    "state": "vic",
+    "postcode": 3139,
+    "suburb_name": "Seville"
+  },
+  {
+    "suburb_id": 6602,
+    "state": "qld",
+    "postcode": 4173,
+    "suburb_name": "Tingalpa"
+  },
+  {
+    "suburb_id": 2646,
+    "state": "nsw",
+    "postcode": 2076,
+    "suburb_name": "Normanhurst"
+  },
+  {
+    "suburb_id": 1803,
+    "state": "nsw",
+    "postcode": 2448,
+    "suburb_name": "Hyland Park"
+  },
+  {
+    "suburb_id": 3722,
+    "state": "nsw",
+    "postcode": 2250,
+    "suburb_name": "West Gosford"
+  },
+  {
+    "suburb_id": 6649,
+    "state": "qld",
+    "postcode": 4224,
+    "suburb_name": "Tugun"
+  },
+  {
+    "suburb_id": 8020,
+    "state": "sa",
+    "postcode": 5109,
+    "suburb_name": "Salisbury Heights"
+  },
+  {
+    "suburb_id": 6281,
+    "state": "qld",
+    "postcode": 4123,
+    "suburb_name": "Rochedale South"
+  },
+  {
+    "suburb_id": 752,
+    "state": "nsw",
+    "postcode": 2168,
+    "suburb_name": "Busby"
+  },
+  {
+    "suburb_id": 3172,
+    "state": "nsw",
+    "postcode": 2340,
+    "suburb_name": "South Tamworth"
+  },
+  {
+    "suburb_id": 8042,
+    "state": "sa",
+    "postcode": 5169,
+    "suburb_name": "Seaford Heights"
+  },
+  {
+    "suburb_id": 374,
+    "state": "nsw",
+    "postcode": 2085,
+    "suburb_name": "Belrose"
+  },
+  {
+    "suburb_id": 899,
+    "state": "nsw",
+    "postcode": 2119,
+    "suburb_name": "Cheltenham"
+  },
+  {
+    "suburb_id": 7908,
+    "state": "sa",
+    "postcode": 5275,
+    "suburb_name": "Pinks Beach"
+  },
+  {
+    "suburb_id": 10651,
+    "state": "vic",
+    "postcode": 3831,
+    "suburb_name": "Neerim"
+  },
+  {
+    "suburb_id": 1954,
+    "state": "nsw",
+    "postcode": 2147,
+    "suburb_name": "Kings Langley"
+  },
+  {
+    "suburb_id": 11309,
+    "state": "vic",
+    "postcode": 3959,
+    "suburb_name": "Waratah Bay"
+  },
+  {
+    "suburb_id": 1227,
+    "state": "nsw",
+    "postcode": 2047,
+    "suburb_name": "Drummoyne"
+  },
+  {
+    "suburb_id": 6085,
+    "state": "qld",
+    "postcode": 4305,
+    "suburb_name": "One Mile"
+  },
+  {
+    "suburb_id": 464,
+    "state": "nsw",
+    "postcode": 2322,
+    "suburb_name": "Black Hill"
+  },
+  {
+    "suburb_id": 8860,
+    "state": "tas",
+    "postcode": 7020,
+    "suburb_name": "Sandford"
+  },
+  {
+    "suburb_id": 9868,
+    "state": "vic",
+    "postcode": 3218,
+    "suburb_name": "Geelong West"
+  },
+  {
+    "suburb_id": 393,
+    "state": "nsw",
+    "postcode": 2261,
+    "suburb_name": "Berkeley Vale"
+  },
+  {
+    "suburb_id": 9165,
+    "state": "vic",
+    "postcode": 3722,
+    "suburb_name": "Barwite"
+  },
+  {
+    "suburb_id": 841,
+    "state": "nsw",
+    "postcode": 2580,
+    "suburb_name": "Carrick"
+  },
+  {
+    "suburb_id": 9280,
+    "state": "vic",
+    "postcode": 3870,
+    "suburb_name": "Boolarra South"
+  },
+  {
+    "suburb_id": 1464,
+    "state": "nsw",
+    "postcode": 2534,
+    "suburb_name": "Foxground"
+  },
+  {
+    "suburb_id": 4593,
+    "state": "qld",
+    "postcode": 4220,
+    "suburb_name": "Burleigh Waters"
+  },
+  {
+    "suburb_id": 7258,
+    "state": "sa",
+    "postcode": 5558,
+    "suburb_name": "East Moonta"
+  },
+  {
+    "suburb_id": 11775,
+    "state": "wa",
+    "postcode": 6798,
+    "suburb_name": "Christmas Island"
+  },
+  {
+    "suburb_id": 10509,
+    "state": "vic",
+    "postcode": 3127,
+    "suburb_name": "Mont Albert"
+  },
+  {
+    "suburb_id": 10664,
+    "state": "vic",
+    "postcode": 3551,
+    "suburb_name": "Newbridge"
+  },
+  {
+    "suburb_id": 7045,
+    "state": "sa",
+    "postcode": 5357,
+    "suburb_name": "Blanchetown"
+  },
+  {
+    "suburb_id": 7434,
+    "state": "sa",
+    "postcode": 5066,
+    "suburb_name": "Hazelwood Park"
   },
   {
     "suburb_id": 8515,
@@ -1224,160 +1776,1552 @@
     "suburb_name": "Elizabeth Town"
   },
   {
-    "suburb_id": 8979,
-    "state": "tas",
-    "postcode": 7009,
-    "suburb_name": "West Moonah"
+    "suburb_id": 6126,
+    "state": "qld",
+    "postcode": 4125,
+    "suburb_name": "Park Ridge"
   },
   {
-    "suburb_id": 8850,
-    "state": "tas",
-    "postcode": 7277,
-    "suburb_name": "Rosevears"
+    "suburb_id": 3867,
+    "state": "nsw",
+    "postcode": 2644,
+    "suburb_name": "Woomargama"
   },
   {
-    "suburb_id": 8535,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Forth"
+    "suburb_id": 7801,
+    "state": "sa",
+    "postcode": 5168,
+    "suburb_name": "Noarlunga Centre"
   },
   {
-    "suburb_id": 8849,
-    "state": "tas",
-    "postcode": 7292,
-    "suburb_name": "Rosevale"
+    "suburb_id": 502,
+    "state": "nsw",
+    "postcode": 2452,
+    "suburb_name": "Boambee East"
   },
   {
-    "suburb_id": 8969,
-    "state": "tas",
-    "postcode": 7250,
-    "suburb_name": "Waverley"
+    "suburb_id": 4336,
+    "state": "qld",
+    "postcode": 4065,
+    "suburb_name": "Bardon"
   },
   {
-    "suburb_id": 8386,
-    "state": "tas",
-    "postcode": 7270,
-    "suburb_name": "Beauty Point"
+    "suburb_id": 76,
+    "state": "act",
+    "postcode": 2606,
+    "suburb_name": "Lyons"
   },
   {
-    "suburb_id": 8616,
-    "state": "tas",
-    "postcode": 7270,
-    "suburb_name": "Kayena"
+    "suburb_id": 10161,
+    "state": "vic",
+    "postcode": 3036,
+    "suburb_name": "Keilor North"
   },
   {
-    "suburb_id": 8893,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Southport"
+    "suburb_id": 1934,
+    "state": "nsw",
+    "postcode": 2283,
+    "suburb_name": "Kilaben Bay"
   },
   {
-    "suburb_id": 8481,
-    "state": "tas",
-    "postcode": 7304,
-    "suburb_name": "Deloraine"
+    "suburb_id": 10958,
+    "state": "vic",
+    "postcode": 3234,
+    "suburb_name": "Separation Creek"
   },
   {
-    "suburb_id": 8597,
-    "state": "tas",
-    "postcode": 7017,
-    "suburb_name": "Honeywood"
+    "suburb_id": 5199,
+    "state": "qld",
+    "postcode": 4570,
+    "suburb_name": "Glenwood"
   },
   {
-    "suburb_id": 8420,
-    "state": "tas",
-    "postcode": 7262,
-    "suburb_name": "Bridport"
+    "suburb_id": 9626,
+    "state": "vic",
+    "postcode": 3047,
+    "suburb_name": "Dallas"
   },
   {
-    "suburb_id": 9011,
-    "state": "tas",
-    "postcode": 7249,
-    "suburb_name": "Youngtown"
+    "suburb_id": 1647,
+    "state": "nsw",
+    "postcode": 2753,
+    "suburb_name": "Grose Vale"
   },
   {
-    "suburb_id": 8844,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Romaine"
+    "suburb_id": 7452,
+    "state": "sa",
+    "postcode": 5007,
+    "suburb_name": "Hindmarsh"
   },
   {
-    "suburb_id": 8492,
-    "state": "tas",
-    "postcode": 7173,
-    "suburb_name": "Dodges Ferry"
+    "suburb_id": 1805,
+    "state": "nsw",
+    "postcode": 2463,
+    "suburb_name": "Ilarwill"
   },
   {
-    "suburb_id": 8389,
-    "state": "tas",
-    "postcode": 7018,
-    "suburb_name": "Bellerive"
+    "suburb_id": 1486,
+    "state": "nsw",
+    "postcode": 2702,
+    "suburb_name": "Ganmain"
   },
   {
-    "suburb_id": 8565,
-    "state": "tas",
-    "postcode": 7030,
-    "suburb_name": "Granton"
+    "suburb_id": 10647,
+    "state": "vic",
+    "postcode": 3384,
+    "suburb_name": "Navarre"
   },
   {
-    "suburb_id": 8862,
-    "state": "tas",
-    "postcode": 7307,
-    "suburb_name": "Sassafras"
+    "suburb_id": 2647,
+    "state": "nsw",
+    "postcode": 2640,
+    "suburb_name": "North Albury"
   },
   {
-    "suburb_id": 8947,
-    "state": "tas",
-    "postcode": 7120,
-    "suburb_name": "Tunbridge"
+    "suburb_id": 6277,
+    "state": "qld",
+    "postcode": 4310,
+    "suburb_name": "Roadvale"
   },
   {
-    "suburb_id": 8451,
-    "state": "tas",
-    "postcode": 7011,
-    "suburb_name": "Claremont"
+    "suburb_id": 64,
+    "state": "act",
+    "postcode": 2607,
+    "suburb_name": "Isaacs"
   },
   {
-    "suburb_id": 8517,
-    "state": "tas",
-    "postcode": 7325,
-    "suburb_name": "Elliott"
+    "suburb_id": 7150,
+    "state": "sa",
+    "postcode": 5165,
+    "suburb_name": "Christies Beach"
   },
   {
-    "suburb_id": 8750,
-    "state": "tas",
-    "postcode": 7306,
-    "suburb_name": "Nook"
+    "suburb_id": 3391,
+    "state": "nsw",
+    "postcode": 2444,
+    "suburb_name": "Thrumster"
   },
   {
-    "suburb_id": 8920,
+    "suburb_id": 7379,
+    "state": "sa",
+    "postcode": 5125,
+    "suburb_name": "Golden Grove"
+  },
+  {
+    "suburb_id": 4231,
+    "state": "qld",
+    "postcode": 4700,
+    "suburb_name": "Allenstown"
+  },
+  {
+    "suburb_id": 735,
+    "state": "nsw",
+    "postcode": 2576,
+    "suburb_name": "Burradoo"
+  },
+  {
+    "suburb_id": 4338,
+    "state": "qld",
+    "postcode": 4306,
+    "suburb_name": "Barellan Point"
+  },
+  {
+    "suburb_id": 864,
+    "state": "nsw",
+    "postcode": 2557,
+    "suburb_name": "Catherine Field"
+  },
+  {
+    "suburb_id": 8403,
     "state": "tas",
     "postcode": 7275,
-    "suburb_name": "Swan Point"
+    "suburb_name": "Blackwall"
   },
   {
-    "suburb_id": 8825,
-    "state": "tas",
-    "postcode": 7258,
-    "suburb_name": "Relbia"
+    "suburb_id": 3960,
+    "state": "nsw",
+    "postcode": 2017,
+    "suburb_name": "Zetland"
   },
   {
-    "suburb_id": 8726,
-    "state": "tas",
-    "postcode": 7248,
-    "suburb_name": "Mowbray"
+    "suburb_id": 3279,
+    "state": "nsw",
+    "postcode": 2640,
+    "suburb_name": "Table Top"
   },
   {
-    "suburb_id": 8660,
-    "state": "tas",
-    "postcode": 7301,
-    "suburb_name": "Longford"
+    "suburb_id": 7981,
+    "state": "sa",
+    "postcode": 5280,
+    "suburb_name": "Rendelsham"
   },
   {
-    "suburb_id": 8786,
+    "suburb_id": 672,
+    "state": "nsw",
+    "postcode": 2483,
+    "suburb_name": "Brunswick Heads"
+  },
+  {
+    "suburb_id": 11909,
+    "state": "wa",
+    "postcode": 6230,
+    "suburb_name": "East Bunbury"
+  },
+  {
+    "suburb_id": 11409,
+    "state": "vic",
+    "postcode": 3181,
+    "suburb_name": "Windsor"
+  },
+  {
+    "suburb_id": 3647,
+    "state": "nsw",
+    "postcode": 2282,
+    "suburb_name": "Warners Bay"
+  },
+  {
+    "suburb_id": 3450,
+    "state": "nsw",
+    "postcode": 2550,
+    "suburb_name": "Towamba"
+  },
+  {
+    "suburb_id": 9956,
+    "state": "vic",
+    "postcode": 3875,
+    "suburb_name": "Granite Rock"
+  },
+  {
+    "suburb_id": 4902,
+    "state": "qld",
+    "postcode": 4521,
+    "suburb_name": "Dayboro"
+  },
+  {
+    "suburb_id": 5762,
+    "state": "qld",
+    "postcode": 4350,
+    "suburb_name": "Middle Ridge"
+  },
+  {
+    "suburb_id": 7013,
+    "state": "sa",
+    "postcode": 5042,
+    "suburb_name": "Bedford Park"
+  },
+  {
+    "suburb_id": 439,
+    "state": "nsw",
+    "postcode": 2453,
+    "suburb_name": "Billys Creek"
+  },
+  {
+    "suburb_id": 8587,
     "state": "tas",
-    "postcode": 7316,
-    "suburb_name": "Penguin"
+    "postcode": 7030,
+    "suburb_name": "Herdsmans Cove"
+  },
+  {
+    "suburb_id": 7505,
+    "state": "sa",
+    "postcode": 5307,
+    "suburb_name": "Karoonda"
+  },
+  {
+    "suburb_id": 4735,
+    "state": "qld",
+    "postcode": 4879,
+    "suburb_name": "Clifton Beach"
+  },
+  {
+    "suburb_id": 8996,
+    "state": "tas",
+    "postcode": 7321,
+    "suburb_name": "Wiltshire"
+  },
+  {
+    "suburb_id": 8851,
+    "state": "tas",
+    "postcode": 7018,
+    "suburb_name": "Rosny"
+  },
+  {
+    "suburb_id": 4226,
+    "state": "qld",
+    "postcode": 4115,
+    "suburb_name": "Algester"
+  },
+  {
+    "suburb_id": 3794,
+    "state": "nsw",
+    "postcode": 2795,
+    "suburb_name": "Windradyne"
+  },
+  {
+    "suburb_id": 10263,
+    "state": "vic",
+    "postcode": 3909,
+    "suburb_name": "Lakes Entrance"
+  },
+  {
+    "suburb_id": 4211,
+    "state": "qld",
+    "postcode": 4802,
+    "suburb_name": "Airlie Beach"
+  },
+  {
+    "suburb_id": 10248,
+    "state": "vic",
+    "postcode": 3584,
+    "suburb_name": "Lake Boga"
+  },
+  {
+    "suburb_id": 8658,
+    "state": "tas",
+    "postcode": 7275,
+    "suburb_name": "Loira"
+  },
+  {
+    "suburb_id": 7532,
+    "state": "sa",
+    "postcode": 5049,
+    "suburb_name": "Kingston Park"
+  },
+  {
+    "suburb_id": 31,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Denman Prospect"
+  },
+  {
+    "suburb_id": 4072,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Karama"
+  },
+  {
+    "suburb_id": 9107,
+    "state": "vic",
+    "postcode": 3551,
+    "suburb_name": "Bagshot"
+  },
+  {
+    "suburb_id": 10825,
+    "state": "vic",
+    "postcode": 3944,
+    "suburb_name": "Portsea"
+  },
+  {
+    "suburb_id": 9550,
+    "state": "vic",
+    "postcode": 3250,
+    "suburb_name": "Colac East"
+  },
+  {
+    "suburb_id": 10181,
+    "state": "vic",
+    "postcode": 3631,
+    "suburb_name": "Kialla West"
+  },
+  {
+    "suburb_id": 7447,
+    "state": "sa",
+    "postcode": 5086,
+    "suburb_name": "Hillcrest"
+  },
+  {
+    "suburb_id": 565,
+    "state": "nsw",
+    "postcode": 2480,
+    "suburb_name": "Boorabee Park"
+  },
+  {
+    "suburb_id": 11227,
+    "state": "vic",
+    "postcode": 3043,
+    "suburb_name": "Tullamarine"
+  },
+  {
+    "suburb_id": 8456,
+    "state": "tas",
+    "postcode": 7020,
+    "suburb_name": "Clifton Beach"
+  },
+  {
+    "suburb_id": 7996,
+    "state": "sa",
+    "postcode": 5412,
+    "suburb_name": "Riverton"
+  },
+  {
+    "suburb_id": 1467,
+    "state": "nsw",
+    "postcode": 2756,
+    "suburb_name": "Freemans Reach"
+  },
+  {
+    "suburb_id": 7123,
+    "state": "sa",
+    "postcode": 5144,
+    "suburb_name": "Carey Gully"
+  },
+  {
+    "suburb_id": 6876,
+    "state": "qld",
+    "postcode": 4811,
+    "suburb_name": "Wulguru"
+  },
+  {
+    "suburb_id": 544,
+    "state": "nsw",
+    "postcode": 2445,
+    "suburb_name": "Bonny Hills"
+  },
+  {
+    "suburb_id": 10254,
+    "state": "vic",
+    "postcode": 3355,
+    "suburb_name": "Lake Gardens"
+  },
+  {
+    "suburb_id": 10037,
+    "state": "vic",
+    "postcode": 3825,
+    "suburb_name": "Hernes Oak"
+  },
+  {
+    "suburb_id": 5310,
+    "state": "qld",
+    "postcode": 4110,
+    "suburb_name": "Heathwood"
+  },
+  {
+    "suburb_id": 8348,
+    "state": "sa",
+    "postcode": 5576,
+    "suburb_name": "Yorketown"
+  },
+  {
+    "suburb_id": 2510,
+    "state": "nsw",
+    "postcode": 2323,
+    "suburb_name": "Mount Vincent"
+  },
+  {
+    "suburb_id": 9317,
+    "state": "vic",
+    "postcode": 3723,
+    "suburb_name": "Bridge Creek"
+  },
+  {
+    "suburb_id": 8852,
+    "state": "tas",
+    "postcode": 7018,
+    "suburb_name": "Rosny Park"
+  },
+  {
+    "suburb_id": 8038,
+    "state": "sa",
+    "postcode": 5049,
+    "suburb_name": "Seacliff Park"
+  },
+  {
+    "suburb_id": 8523,
+    "state": "tas",
+    "postcode": 7212,
+    "suburb_name": "Evandale"
+  },
+  {
+    "suburb_id": 8639,
+    "state": "tas",
+    "postcode": 7250,
+    "suburb_name": "Launceston"
+  },
+  {
+    "suburb_id": 3902,
+    "state": "nsw",
+    "postcode": 2199,
+    "suburb_name": "Yagoona"
+  },
+  {
+    "suburb_id": 4969,
+    "state": "qld",
+    "postcode": 4655,
+    "suburb_name": "Dundowran Beach"
+  },
+  {
+    "suburb_id": 3961,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Acacia Hills"
+  },
+  {
+    "suburb_id": 3374,
+    "state": "nsw",
+    "postcode": 2483,
+    "suburb_name": "The Pocket"
+  },
+  {
+    "suburb_id": 9798,
+    "state": "vic",
+    "postcode": 3678,
+    "suburb_name": "Everton"
+  },
+  {
+    "suburb_id": 738,
+    "state": "nsw",
+    "postcode": 2230,
+    "suburb_name": "Burraneer"
+  },
+  {
+    "suburb_id": 5174,
+    "state": "qld",
+    "postcode": 4800,
+    "suburb_name": "Glen Isla"
+  },
+  {
+    "suburb_id": 9364,
+    "state": "vic",
+    "postcode": 3821,
+    "suburb_name": "Buln Buln"
+  },
+  {
+    "suburb_id": 9723,
+    "state": "vic",
+    "postcode": 3576,
+    "suburb_name": "Durham Ox"
+  },
+  {
+    "suburb_id": 8617,
+    "state": "tas",
+    "postcode": 7176,
+    "suburb_name": "Kellevie"
+  },
+  {
+    "suburb_id": 7740,
+    "state": "sa",
+    "postcode": 5235,
+    "suburb_name": "Mount Pleasant"
+  },
+  {
+    "suburb_id": 4315,
+    "state": "qld",
+    "postcode": 4610,
+    "suburb_name": "Ballogie"
+  },
+  {
+    "suburb_id": 3906,
+    "state": "nsw",
+    "postcode": 2703,
+    "suburb_name": "Yanco"
+  },
+  {
+    "suburb_id": 229,
+    "state": "nsw",
+    "postcode": 2515,
+    "suburb_name": "Austinmer"
+  },
+  {
+    "suburb_id": 3857,
+    "state": "nsw",
+    "postcode": 2456,
+    "suburb_name": "Woolgoolga"
+  },
+  {
+    "suburb_id": 4339,
+    "state": "qld",
+    "postcode": 4670,
+    "suburb_name": "Bargara"
+  },
+  {
+    "suburb_id": 11217,
+    "state": "vic",
+    "postcode": 3373,
+    "suburb_name": "Trawalla"
+  },
+  {
+    "suburb_id": 6235,
+    "state": "qld",
+    "postcode": 4815,
+    "suburb_name": "Rasmussen"
+  },
+  {
+    "suburb_id": 7323,
+    "state": "sa",
+    "postcode": 5035,
+    "suburb_name": "Forestville"
+  },
+  {
+    "suburb_id": 7518,
+    "state": "sa",
+    "postcode": 5035,
+    "suburb_name": "Keswick"
+  },
+  {
+    "suburb_id": 8951,
+    "state": "tas",
+    "postcode": 7267,
+    "suburb_name": "Turners Marsh"
+  },
+  {
+    "suburb_id": 4912,
+    "state": "qld",
+    "postcode": 4621,
+    "suburb_name": "Degilbo"
+  },
+  {
+    "suburb_id": 4516,
+    "state": "qld",
+    "postcode": 4500,
+    "suburb_name": "Bray Park"
+  },
+  {
+    "suburb_id": 9166,
+    "state": "vic",
+    "postcode": 3243,
+    "suburb_name": "Barwon Downs"
+  },
+  {
+    "suburb_id": 987,
+    "state": "nsw",
+    "postcode": 2137,
+    "suburb_name": "Concord"
+  },
+  {
+    "suburb_id": 3409,
+    "state": "nsw",
+    "postcode": 2478,
+    "suburb_name": "Tintenbar"
+  },
+  {
+    "suburb_id": 2331,
+    "state": "nsw",
+    "postcode": 2620,
+    "suburb_name": "Michelago"
+  },
+  {
+    "suburb_id": 7366,
+    "state": "sa",
+    "postcode": 5291,
+    "suburb_name": "Glencoe"
+  },
+  {
+    "suburb_id": 10241,
+    "state": "vic",
+    "postcode": 3463,
+    "suburb_name": "Laanecoorie"
+  },
+  {
+    "suburb_id": 6164,
+    "state": "qld",
+    "postcode": 4361,
+    "suburb_name": "Pilton"
+  },
+  {
+    "suburb_id": 11146,
+    "state": "vic",
+    "postcode": 3106,
+    "suburb_name": "Templestowe"
+  },
+  {
+    "suburb_id": 2434,
+    "state": "nsw",
+    "postcode": 2400,
+    "suburb_name": "Moree"
+  },
+  {
+    "suburb_id": 8611,
+    "state": "tas",
+    "postcode": 7109,
+    "suburb_name": "Judbury"
+  },
+  {
+    "suburb_id": 4357,
+    "state": "qld",
+    "postcode": 4305,
+    "suburb_name": "Basin Pocket"
+  },
+  {
+    "suburb_id": 5536,
+    "state": "qld",
+    "postcode": 4285,
+    "suburb_name": "Knapp Creek"
+  },
+  {
+    "suburb_id": 4453,
+    "state": "qld",
+    "postcode": 4350,
+    "suburb_name": "Blue Mountain Heights"
+  },
+  {
+    "suburb_id": 6166,
+    "state": "qld",
+    "postcode": 4209,
+    "suburb_name": "Pimpama"
+  },
+  {
+    "suburb_id": 9706,
+    "state": "vic",
+    "postcode": 3304,
+    "suburb_name": "Drumborg"
+  },
+  {
+    "suburb_id": 4738,
+    "state": "qld",
+    "postcode": 4019,
+    "suburb_name": "Clontarf"
+  },
+  {
+    "suburb_id": 4915,
+    "state": "qld",
+    "postcode": 4700,
+    "suburb_name": "Depot Hill"
+  },
+  {
+    "suburb_id": 2815,
+    "state": "nsw",
+    "postcode": 2210,
+    "suburb_name": "Peakhurst Heights"
+  },
+  {
+    "suburb_id": 9782,
+    "state": "vic",
+    "postcode": 3551,
+    "suburb_name": "Epsom"
+  },
+  {
+    "suburb_id": 9914,
+    "state": "vic",
+    "postcode": 3418,
+    "suburb_name": "Glenlee"
+  },
+  {
+    "suburb_id": 11020,
+    "state": "vic",
+    "postcode": 3682,
+    "suburb_name": "Springhurst"
+  },
+  {
+    "suburb_id": 5021,
+    "state": "qld",
+    "postcode": 4361,
+    "suburb_name": "Ellangowan"
+  },
+  {
+    "suburb_id": 9318,
+    "state": "vic",
+    "postcode": 3516,
+    "suburb_name": "Bridgewater"
+  },
+  {
+    "suburb_id": 2449,
+    "state": "nsw",
+    "postcode": 2088,
+    "suburb_name": "Mosman"
+  },
+  {
+    "suburb_id": 7925,
+    "state": "sa",
+    "postcode": 5607,
+    "suburb_name": "Poonindie"
+  },
+  {
+    "suburb_id": 4436,
+    "state": "qld",
+    "postcode": 4472,
+    "suburb_name": "Blackall"
+  },
+  {
+    "suburb_id": 10716,
+    "state": "vic",
+    "postcode": 3131,
+    "suburb_name": "Nunawading"
+  },
+  {
+    "suburb_id": 3714,
+    "state": "nsw",
+    "postcode": 2747,
+    "suburb_name": "Werrington County"
+  },
+  {
+    "suburb_id": 11071,
+    "state": "vic",
+    "postcode": 3041,
+    "suburb_name": "Strathmore Heights"
+  },
+  {
+    "suburb_id": 5999,
+    "state": "qld",
+    "postcode": 4211,
+    "suburb_name": "Nerang"
+  },
+  {
+    "suburb_id": 2377,
+    "state": "nsw",
+    "postcode": 2795,
+    "suburb_name": "Mitchell"
+  },
+  {
+    "suburb_id": 9828,
+    "state": "vic",
+    "postcode": 3550,
+    "suburb_name": "Flora Hill"
+  },
+  {
+    "suburb_id": 8908,
+    "state": "tas",
+    "postcode": 7310,
+    "suburb_name": "Stony Rise"
+  },
+  {
+    "suburb_id": 10400,
+    "state": "vic",
+    "postcode": 3678,
+    "suburb_name": "Markwood"
+  },
+  {
+    "suburb_id": 11040,
+    "state": "vic",
+    "postcode": 3223,
+    "suburb_name": "St Leonards"
+  },
+  {
+    "suburb_id": 7967,
+    "state": "sa",
+    "postcode": 5433,
+    "suburb_name": "Quorn"
+  },
+  {
+    "suburb_id": 2365,
+    "state": "nsw",
+    "postcode": 2287,
+    "suburb_name": "Minmi"
+  },
+  {
+    "suburb_id": 9786,
+    "state": "vic",
+    "postcode": 3701,
+    "suburb_name": "Eskdale"
+  },
+  {
+    "suburb_id": 9613,
+    "state": "vic",
+    "postcode": 3705,
+    "suburb_name": "Cudgewa"
+  },
+  {
+    "suburb_id": 6083,
+    "state": "qld",
+    "postcode": 4365,
+    "suburb_name": "Old Talgai"
+  },
+  {
+    "suburb_id": 1602,
+    "state": "nsw",
+    "postcode": 2330,
+    "suburb_name": "Gowrie"
+  },
+  {
+    "suburb_id": 5012,
+    "state": "qld",
+    "postcode": 4740,
+    "suburb_name": "Eimeo"
+  },
+  {
+    "suburb_id": 9,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Bonner"
+  },
+  {
+    "suburb_id": 816,
+    "state": "nsw",
+    "postcode": 2577,
+    "suburb_name": "Canyonleigh"
+  },
+  {
+    "suburb_id": 3719,
+    "state": "nsw",
+    "postcode": 2795,
+    "suburb_name": "West Bathurst"
+  },
+  {
+    "suburb_id": 726,
+    "state": "nsw",
+    "postcode": 2429,
+    "suburb_name": "Bunyah"
+  },
+  {
+    "suburb_id": 8930,
+    "state": "tas",
+    "postcode": 7017,
+    "suburb_name": "Tea Tree"
+  },
+  {
+    "suburb_id": 6240,
+    "state": "qld",
+    "postcode": 4059,
+    "suburb_name": "Red Hill"
+  },
+  {
+    "suburb_id": 8290,
+    "state": "sa",
+    "postcode": 5087,
+    "suburb_name": "Windsor Gardens"
+  },
+  {
+    "suburb_id": 11929,
+    "state": "wa",
+    "postcode": 6027,
+    "suburb_name": "Edgewater"
+  },
+  {
+    "suburb_id": 5003,
+    "state": "qld",
+    "postcode": 4304,
+    "suburb_name": "Ebbw Vale"
+  },
+  {
+    "suburb_id": 11067,
+    "state": "vic",
+    "postcode": 3301,
+    "suburb_name": "Strathkellar"
+  },
+  {
+    "suburb_id": 8559,
+    "state": "tas",
+    "postcode": 7304,
+    "suburb_name": "Golden Valley"
+  },
+  {
+    "suburb_id": 9296,
+    "state": "vic",
+    "postcode": 3465,
+    "suburb_name": "Bowenvale"
+  },
+  {
+    "suburb_id": 7870,
+    "state": "sa",
+    "postcode": 5340,
+    "suburb_name": "Paringa"
+  },
+  {
+    "suburb_id": 11783,
+    "state": "wa",
+    "postcode": 6105,
+    "suburb_name": "Cloverdale"
+  },
+  {
+    "suburb_id": 8017,
+    "state": "sa",
+    "postcode": 5108,
+    "suburb_name": "Salisbury"
+  },
+  {
+    "suburb_id": 11798,
+    "state": "wa",
+    "postcode": 6450,
+    "suburb_name": "Condingup"
+  },
+  {
+    "suburb_id": 9704,
+    "state": "vic",
+    "postcode": 3818,
+    "suburb_name": "Drouin West"
+  },
+  {
+    "suburb_id": 11412,
+    "state": "vic",
+    "postcode": 3358,
+    "suburb_name": "Winter Valley"
+  },
+  {
+    "suburb_id": 10605,
+    "state": "vic",
+    "postcode": 3461,
+    "suburb_name": "Musk"
+  },
+  {
+    "suburb_id": 3481,
+    "state": "nsw",
+    "postcode": 2653,
+    "suburb_name": "Tumbarumba"
+  },
+  {
+    "suburb_id": 8678,
+    "state": "tas",
+    "postcode": 7252,
+    "suburb_name": "Lulworth"
+  },
+  {
+    "suburb_id": 10467,
+    "state": "vic",
+    "postcode": 3678,
+    "suburb_name": "Milawa"
+  },
+  {
+    "suburb_id": 6962,
+    "state": "sa",
+    "postcode": 5010,
+    "suburb_name": "Angle Park"
+  },
+  {
+    "suburb_id": 10179,
+    "state": "vic",
+    "postcode": 3631,
+    "suburb_name": "Kialla"
+  },
+  {
+    "suburb_id": 5474,
+    "state": "qld",
+    "postcode": 4701,
+    "suburb_name": "Kawana"
+  },
+  {
+    "suburb_id": 8933,
+    "state": "tas",
+    "postcode": 7307,
+    "suburb_name": "Thirlstane"
+  },
+  {
+    "suburb_id": 3869,
+    "state": "nsw",
+    "postcode": 2259,
+    "suburb_name": "Woongarrah"
+  },
+  {
+    "suburb_id": 12143,
+    "state": "wa",
+    "postcode": 6111,
+    "suburb_name": "Karragullen"
+  },
+  {
+    "suburb_id": 11007,
+    "state": "vic",
+    "postcode": 3260,
+    "suburb_name": "South Purrumbete"
+  },
+  {
+    "suburb_id": 6473,
+    "state": "qld",
+    "postcode": 4800,
+    "suburb_name": "Strathdickie"
+  },
+  {
+    "suburb_id": 10140,
+    "state": "vic",
+    "postcode": 3419,
+    "suburb_name": "Kaniva"
+  },
+  {
+    "suburb_id": 12895,
+    "state": "wa",
+    "postcode": 6280,
+    "suburb_name": "Wilyabrup"
+  },
+  {
+    "suburb_id": 3331,
+    "state": "nsw",
+    "postcode": 2320,
+    "suburb_name": "Telarah"
+  },
+  {
+    "suburb_id": 11724,
+    "state": "wa",
+    "postcode": 6167,
+    "suburb_name": "Calista"
+  },
+  {
+    "suburb_id": 2187,
+    "state": "nsw",
+    "postcode": 2463,
+    "suburb_name": "Maclean"
+  },
+  {
+    "suburb_id": 9848,
+    "state": "vic",
+    "postcode": 3217,
+    "suburb_name": "Freshwater Creek"
+  },
+  {
+    "suburb_id": 8230,
+    "state": "sa",
+    "postcode": 5650,
+    "suburb_name": "Warramboo"
+  },
+  {
+    "suburb_id": 11269,
+    "state": "vic",
+    "postcode": 3637,
+    "suburb_name": "Waaia"
+  },
+  {
+    "suburb_id": 5900,
+    "state": "qld",
+    "postcode": 4674,
+    "suburb_name": "Mount Maria"
+  },
+  {
+    "suburb_id": 8112,
+    "state": "sa",
+    "postcode": 5680,
+    "suburb_name": "Streaky Bay"
+  },
+  {
+    "suburb_id": 9766,
+    "state": "vic",
+    "postcode": 3558,
+    "suburb_name": "Elmore"
+  },
+  {
+    "suburb_id": 6217,
+    "state": "qld",
+    "postcode": 4069,
+    "suburb_name": "Pullenvale"
+  },
+  {
+    "suburb_id": 7891,
+    "state": "sa",
+    "postcode": 5690,
+    "suburb_name": "Penong"
+  },
+  {
+    "suburb_id": 1665,
+    "state": "nsw",
+    "postcode": 2580,
+    "suburb_name": "Gundary"
+  },
+  {
+    "suburb_id": 10285,
+    "state": "vic",
+    "postcode": 3028,
+    "suburb_name": "Laverton"
+  },
+  {
+    "suburb_id": 9513,
+    "state": "vic",
+    "postcode": 3352,
+    "suburb_name": "Clarendon"
+  },
+  {
+    "suburb_id": 8001,
+    "state": "sa",
+    "postcode": 5254,
+    "suburb_name": "Rocky Gully"
+  },
+  {
+    "suburb_id": 12540,
+    "state": "wa",
+    "postcode": 6147,
+    "suburb_name": "Parkwood"
+  },
+  {
+    "suburb_id": 11299,
+    "state": "vic",
+    "postcode": 3758,
+    "suburb_name": "Wandong"
+  },
+  {
+    "suburb_id": 7877,
+    "state": "sa",
+    "postcode": 5042,
+    "suburb_name": "Pasadena"
+  },
+  {
+    "suburb_id": 9836,
+    "state": "vic",
+    "postcode": 3236,
+    "suburb_name": "Forrest"
+  },
+  {
+    "suburb_id": 7441,
+    "state": "sa",
+    "postcode": 5118,
+    "suburb_name": "Hewett"
+  },
+  {
+    "suburb_id": 11458,
+    "state": "vic",
+    "postcode": 3635,
+    "suburb_name": "Wunghnu"
+  },
+  {
+    "suburb_id": 5465,
+    "state": "qld",
+    "postcode": 4169,
+    "suburb_name": "Kangaroo Point"
+  },
+  {
+    "suburb_id": 8272,
+    "state": "sa",
+    "postcode": 5271,
+    "suburb_name": "Wild Dog Valley"
+  },
+  {
+    "suburb_id": 9231,
+    "state": "vic",
+    "postcode": 3691,
+    "suburb_name": "Bethanga"
+  },
+  {
+    "suburb_id": 4647,
+    "state": "qld",
+    "postcode": 4802,
+    "suburb_name": "Cannonvale"
+  },
+  {
+    "suburb_id": 11029,
+    "state": "vic",
+    "postcode": 3477,
+    "suburb_name": "St Arnaud East"
+  },
+  {
+    "suburb_id": 808,
+    "state": "nsw",
+    "postcode": 2480,
+    "suburb_name": "Caniaba"
+  },
+  {
+    "suburb_id": 12646,
+    "state": "wa",
+    "postcode": 6074,
+    "suburb_name": "Sawyers Valley"
+  },
+  {
+    "suburb_id": 8093,
+    "state": "sa",
+    "postcode": 5068,
+    "suburb_name": "St Morris"
+  },
+  {
+    "suburb_id": 8100,
+    "state": "sa",
+    "postcode": 5069,
+    "suburb_name": "Stepney"
+  },
+  {
+    "suburb_id": 8308,
+    "state": "sa",
+    "postcode": 5254,
+    "suburb_name": "Woodlane"
+  },
+  {
+    "suburb_id": 9046,
+    "state": "vic",
+    "postcode": 3078,
+    "suburb_name": "Alphington"
+  },
+  {
+    "suburb_id": 10324,
+    "state": "vic",
+    "postcode": 3551,
+    "suburb_name": "Llanelly"
+  },
+  {
+    "suburb_id": 11454,
+    "state": "vic",
+    "postcode": 3272,
+    "suburb_name": "Woorndoo"
+  },
+  {
+    "suburb_id": 2783,
+    "state": "nsw",
+    "postcode": 2399,
+    "suburb_name": "Pallamallawa"
+  },
+  {
+    "suburb_id": 9366,
+    "state": "vic",
+    "postcode": 3902,
+    "suburb_name": "Bumberrah"
+  },
+  {
+    "suburb_id": 5831,
+    "state": "qld",
+    "postcode": 4105,
+    "suburb_name": "Moorooka"
+  },
+  {
+    "suburb_id": 11139,
+    "state": "vic",
+    "postcode": 3713,
+    "suburb_name": "Taylor Bay"
+  },
+  {
+    "suburb_id": 1958,
+    "state": "nsw",
+    "postcode": 2487,
+    "suburb_name": "Kingscliff"
+  },
+  {
+    "suburb_id": 8122,
+    "state": "sa",
+    "postcode": 5253,
+    "suburb_name": "Sunnyside"
+  },
+  {
+    "suburb_id": 3384,
+    "state": "nsw",
+    "postcode": 2572,
+    "suburb_name": "Thirlmere"
+  },
+  {
+    "suburb_id": 12491,
+    "state": "wa",
+    "postcode": 6208,
+    "suburb_name": "North Yunderup"
+  },
+  {
+    "suburb_id": 10680,
+    "state": "vic",
+    "postcode": 3501,
+    "suburb_name": "Nichols Point"
+  },
+  {
+    "suburb_id": 4985,
+    "state": "qld",
+    "postcode": 4870,
+    "suburb_name": "Earlville"
+  },
+  {
+    "suburb_id": 4418,
+    "state": "qld",
+    "postcode": 4216,
+    "suburb_name": "Biggera Waters"
+  },
+  {
+    "suburb_id": 5325,
+    "state": "qld",
+    "postcode": 4817,
+    "suburb_name": "Hervey Range"
+  },
+  {
+    "suburb_id": 11162,
+    "state": "vic",
+    "postcode": 3219,
+    "suburb_name": "Thomson"
+  },
+  {
+    "suburb_id": 323,
+    "state": "nsw",
+    "postcode": 2536,
+    "suburb_name": "Batemans Bay"
+  },
+  {
+    "suburb_id": 7766,
+    "state": "sa",
+    "postcode": 5254,
+    "suburb_name": "Mypolonga"
+  },
+  {
+    "suburb_id": 788,
+    "state": "nsw",
+    "postcode": 2747,
+    "suburb_name": "Cambridge Gardens"
+  },
+  {
+    "suburb_id": 11000,
+    "state": "vic",
+    "postcode": 3912,
+    "suburb_name": "Somerville"
+  },
+  {
+    "suburb_id": 7861,
+    "state": "sa",
+    "postcode": 5075,
+    "suburb_name": "Paradise"
+  },
+  {
+    "suburb_id": 965,
+    "state": "nsw",
+    "postcode": 2097,
+    "suburb_name": "Collaroy Plateau"
+  },
+  {
+    "suburb_id": 7219,
+    "state": "sa",
+    "postcode": 5232,
+    "suburb_name": "Cudlee Creek"
+  },
+  {
+    "suburb_id": 6765,
+    "state": "qld",
+    "postcode": 4680,
+    "suburb_name": "West Gladstone"
+  },
+  {
+    "suburb_id": 221,
+    "state": "nsw",
+    "postcode": 2361,
+    "suburb_name": "Ashford"
+  },
+  {
+    "suburb_id": 10065,
+    "state": "vic",
+    "postcode": 3741,
+    "suburb_name": "Hotham Heights"
+  },
+  {
+    "suburb_id": 2192,
+    "state": "nsw",
+    "postcode": 2113,
+    "suburb_name": "Macquarie Park"
+  },
+  {
+    "suburb_id": 5385,
+    "state": "qld",
+    "postcode": 4850,
+    "suburb_name": "Ingham"
+  },
+  {
+    "suburb_id": 3501,
+    "state": "nsw",
+    "postcode": 2205,
+    "suburb_name": "Turrella"
+  },
+  {
+    "suburb_id": 3324,
+    "state": "nsw",
+    "postcode": 2471,
+    "suburb_name": "Tatham"
+  },
+  {
+    "suburb_id": 2222,
+    "state": "nsw",
+    "postcode": 2250,
+    "suburb_name": "Mangrove Mountain"
+  },
+  {
+    "suburb_id": 9775,
+    "state": "vic",
+    "postcode": 3802,
+    "suburb_name": "Endeavour Hills"
+  },
+  {
+    "suburb_id": 10699,
+    "state": "vic",
+    "postcode": 3215,
+    "suburb_name": "North Geelong"
+  },
+  {
+    "suburb_id": 9655,
+    "state": "vic",
+    "postcode": 3280,
+    "suburb_name": "Dennington"
+  },
+  {
+    "suburb_id": 8739,
+    "state": "tas",
+    "postcode": 7321,
+    "suburb_name": "Natone"
+  },
+  {
+    "suburb_id": 7286,
+    "state": "sa",
+    "postcode": 5066,
+    "suburb_name": "Erindale"
+  },
+  {
+    "suburb_id": 3,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Amaroo"
+  },
+  {
+    "suburb_id": 9378,
+    "state": "vic",
+    "postcode": 3357,
+    "suburb_name": "Buninyong"
+  },
+  {
+    "suburb_id": 7223,
+    "state": "sa",
+    "postcode": 5631,
+    "suburb_name": "Cummins"
+  },
+  {
+    "suburb_id": 8615,
+    "state": "tas",
+    "postcode": 7267,
+    "suburb_name": "Karoola"
+  },
+  {
+    "suburb_id": 1072,
+    "state": "nsw",
+    "postcode": 2749,
+    "suburb_name": "Cranebrook"
+  },
+  {
+    "suburb_id": 1640,
+    "state": "nsw",
+    "postcode": 2334,
+    "suburb_name": "Greta"
+  },
+  {
+    "suburb_id": 6531,
+    "state": "qld",
+    "postcode": 4311,
+    "suburb_name": "Tarampa"
+  },
+  {
+    "suburb_id": 1831,
+    "state": "nsw",
+    "postcode": 2582,
+    "suburb_name": "Jeir"
+  },
+  {
+    "suburb_id": 3600,
+    "state": "nsw",
+    "postcode": 2430,
+    "suburb_name": "Wallabi Point"
+  },
+  {
+    "suburb_id": 1540,
+    "state": "nsw",
+    "postcode": 2773,
+    "suburb_name": "Glenbrook"
+  },
+  {
+    "suburb_id": 10178,
+    "state": "vic",
+    "postcode": 3173,
+    "suburb_name": "Keysborough"
+  },
+  {
+    "suburb_id": 9738,
+    "state": "vic",
+    "postcode": 3799,
+    "suburb_name": "East Warburton"
+  },
+  {
+    "suburb_id": 332,
+    "state": "nsw",
+    "postcode": 2015,
+    "suburb_name": "Beaconsfield"
+  },
+  {
+    "suburb_id": 7382,
+    "state": "sa",
+    "postcode": 5034,
+    "suburb_name": "Goodwood"
+  },
+  {
+    "suburb_id": 12344,
+    "state": "wa",
+    "postcode": 6450,
+    "suburb_name": "Monjingup"
+  },
+  {
+    "suburb_id": 1763,
+    "state": "nsw",
+    "postcode": 2644,
+    "suburb_name": "Holbrook"
+  },
+  {
+    "suburb_id": 6460,
+    "state": "qld",
+    "postcode": 4207,
+    "suburb_name": "Stapylton"
   },
   {
     "suburb_id": 8725,
@@ -1386,28 +3330,2986 @@
     "suburb_name": "Mountain River"
   },
   {
-    "suburb_id": 8935,
-    "state": "tas",
-    "postcode": 7054,
-    "suburb_name": "Tinderbox"
+    "suburb_id": 6333,
+    "state": "qld",
+    "postcode": 4520,
+    "suburb_name": "Samsonvale"
   },
   {
-    "suburb_id": 8873,
+    "suburb_id": 8796,
+    "state": "tas",
+    "postcode": 7030,
+    "suburb_name": "Pontville"
+  },
+  {
+    "suburb_id": 1031,
+    "state": "nsw",
+    "postcode": 2479,
+    "suburb_name": "Coorabell"
+  },
+  {
+    "suburb_id": 11056,
+    "state": "vic",
+    "postcode": 3260,
+    "suburb_name": "Stonyford"
+  },
+  {
+    "suburb_id": 8524,
+    "state": "tas",
+    "postcode": 7275,
+    "suburb_name": "Exeter"
+  },
+  {
+    "suburb_id": 4330,
+    "state": "qld",
+    "postcode": 4014,
+    "suburb_name": "Banyo"
+  },
+  {
+    "suburb_id": 8159,
+    "state": "sa",
+    "postcode": 5607,
+    "suburb_name": "Tiatukia"
+  },
+  {
+    "suburb_id": 4288,
+    "state": "qld",
+    "postcode": 4066,
+    "suburb_name": "Auchenflower"
+  },
+  {
+    "suburb_id": 9917,
+    "state": "vic",
+    "postcode": 3461,
+    "suburb_name": "Glenlyon"
+  },
+  {
+    "suburb_id": 184,
+    "state": "nsw",
+    "postcode": 2316,
+    "suburb_name": "Anna Bay"
+  },
+  {
+    "suburb_id": 10772,
+    "state": "vic",
+    "postcode": 3880,
+    "suburb_name": "Paynesville"
+  },
+  {
+    "suburb_id": 5967,
+    "state": "qld",
+    "postcode": 4125,
+    "suburb_name": "Munruben"
+  },
+  {
+    "suburb_id": 3256,
+    "state": "nsw",
+    "postcode": 2536,
+    "suburb_name": "Surfside"
+  },
+  {
+    "suburb_id": 11354,
+    "state": "vic",
+    "postcode": 3462,
+    "suburb_name": "Welshmans Reef"
+  },
+  {
+    "suburb_id": 1904,
+    "state": "nsw",
+    "postcode": 2795,
+    "suburb_name": "Kelso"
+  },
+  {
+    "suburb_id": 10938,
+    "state": "vic",
+    "postcode": 3787,
+    "suburb_name": "Sassafras"
+  },
+  {
+    "suburb_id": 1599,
+    "state": "nsw",
+    "postcode": 2250,
+    "suburb_name": "Gosford"
+  },
+  {
+    "suburb_id": 3568,
+    "state": "nsw",
+    "postcode": 2280,
+    "suburb_name": "Valentine"
+  },
+  {
+    "suburb_id": 7622,
+    "state": "sa",
+    "postcode": 5238,
+    "suburb_name": "Mannum"
+  },
+  {
+    "suburb_id": 12053,
+    "state": "wa",
+    "postcode": 6027,
+    "suburb_name": "Heathridge"
+  },
+  {
+    "suburb_id": 8518,
+    "state": "tas",
+    "postcode": 7255,
+    "suburb_name": "Emita"
+  },
+  {
+    "suburb_id": 11667,
+    "state": "wa",
+    "postcode": 6056,
+    "suburb_name": "Boya"
+  },
+  {
+    "suburb_id": 7455,
+    "state": "sa",
+    "postcode": 5211,
+    "suburb_name": "Hindmarsh Valley"
+  },
+  {
+    "suburb_id": 8824,
+    "state": "tas",
+    "postcode": 7304,
+    "suburb_name": "Reedy Marsh"
+  },
+  {
+    "suburb_id": 11112,
+    "state": "vic",
+    "postcode": 3885,
+    "suburb_name": "Tambo Upper"
+  },
+  {
+    "suburb_id": 3973,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Anula"
+  },
+  {
+    "suburb_id": 9340,
+    "state": "vic",
+    "postcode": 3056,
+    "suburb_name": "Brunswick"
+  },
+  {
+    "suburb_id": 545,
+    "state": "nsw",
+    "postcode": 2177,
+    "suburb_name": "Bonnyrigg"
+  },
+  {
+    "suburb_id": 2735,
+    "state": "nsw",
+    "postcode": 2483,
+    "suburb_name": "Ocean Shores"
+  },
+  {
+    "suburb_id": 4605,
+    "state": "qld",
+    "postcode": 4818,
+    "suburb_name": "Bushland Beach"
+  },
+  {
+    "suburb_id": 7395,
+    "state": "sa",
+    "postcode": 5140,
+    "suburb_name": "Greenhill"
+  },
+  {
+    "suburb_id": 8236,
+    "state": "sa",
+    "postcode": 5452,
+    "suburb_name": "Watervale"
+  },
+  {
+    "suburb_id": 10395,
+    "state": "vic",
+    "postcode": 3222,
+    "suburb_name": "Marcus Hill"
+  },
+  {
+    "suburb_id": 12232,
+    "state": "wa",
+    "postcode": 6043,
+    "suburb_name": "Ledge Point"
+  },
+  {
+    "suburb_id": 7313,
+    "state": "sa",
+    "postcode": 5082,
+    "suburb_name": "Fitzroy"
+  },
+  {
+    "suburb_id": 3168,
+    "state": "nsw",
+    "postcode": 2484,
+    "suburb_name": "South Murwillumbah"
+  },
+  {
+    "suburb_id": 4186,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Wulagi"
+  },
+  {
+    "suburb_id": 11531,
+    "state": "wa",
+    "postcode": 6225,
+    "suburb_name": "Allanson"
+  },
+  {
+    "suburb_id": 12231,
+    "state": "wa",
+    "postcode": 6170,
+    "suburb_name": "Leda"
+  },
+  {
+    "suburb_id": 8390,
+    "state": "tas",
+    "postcode": 7254,
+    "suburb_name": "Bellingham"
+  },
+  {
+    "suburb_id": 6575,
+    "state": "qld",
+    "postcode": 4570,
+    "suburb_name": "The Palms"
+  },
+  {
+    "suburb_id": 3059,
+    "state": "nsw",
+    "postcode": 2456,
+    "suburb_name": "Safety Beach"
+  },
+  {
+    "suburb_id": 10658,
+    "state": "vic",
+    "postcode": 3953,
+    "suburb_name": "Nerrena"
+  },
+  {
+    "suburb_id": 8806,
+    "state": "tas",
+    "postcode": 7173,
+    "suburb_name": "Primrose Sands"
+  },
+  {
+    "suburb_id": 59,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Higgins"
+  },
+  {
+    "suburb_id": 7636,
+    "state": "sa",
+    "postcode": 5033,
+    "suburb_name": "Marleston"
+  },
+  {
+    "suburb_id": 9817,
+    "state": "vic",
+    "postcode": 3156,
+    "suburb_name": "Ferntree Gully"
+  },
+  {
+    "suburb_id": 4124,
+    "state": "nt",
+    "postcode": 837,
+    "suburb_name": "Noonamah"
+  },
+  {
+    "suburb_id": 9801,
+    "state": "vic",
+    "postcode": 3338,
+    "suburb_name": "Eynesbury"
+  },
+  {
+    "suburb_id": 6192,
+    "state": "qld",
+    "postcode": 4655,
+    "suburb_name": "Point Vernon"
+  },
+  {
+    "suburb_id": 6035,
+    "state": "qld",
+    "postcode": 4566,
+    "suburb_name": "Noosaville"
+  },
+  {
+    "suburb_id": 1012,
+    "state": "nsw",
+    "postcode": 2701,
+    "suburb_name": "Coolamon"
+  },
+  {
+    "suburb_id": 1155,
+    "state": "nsw",
+    "postcode": 2793,
+    "suburb_name": "Darbys Falls"
+  },
+  {
+    "suburb_id": 4482,
+    "state": "qld",
+    "postcode": 4034,
+    "suburb_name": "Boondall"
+  },
+  {
+    "suburb_id": 1633,
+    "state": "nsw",
+    "postcode": 2065,
+    "suburb_name": "Greenwich"
+  },
+  {
+    "suburb_id": 10089,
+    "state": "vic",
+    "postcode": 3321,
+    "suburb_name": "Inverleigh"
+  },
+  {
+    "suburb_id": 1461,
+    "state": "nsw",
+    "postcode": 2258,
+    "suburb_name": "Fountaindale"
+  },
+  {
+    "suburb_id": 396,
+    "state": "nsw",
+    "postcode": 2081,
+    "suburb_name": "Berowra"
+  },
+  {
+    "suburb_id": 8485,
+    "state": "tas",
+    "postcode": 7009,
+    "suburb_name": "Derwent Park"
+  },
+  {
+    "suburb_id": 2863,
+    "state": "nsw",
+    "postcode": 2761,
+    "suburb_name": "Plumpton"
+  },
+  {
+    "suburb_id": 8351,
+    "state": "sa",
+    "postcode": 5172,
+    "suburb_name": "Yundi"
+  },
+  {
+    "suburb_id": 11471,
+    "state": "vic",
+    "postcode": 3637,
+    "suburb_name": "Yalca"
+  },
+  {
+    "suburb_id": 7707,
+    "state": "sa",
+    "postcode": 5320,
+    "suburb_name": "Morgan"
+  },
+  {
+    "suburb_id": 5613,
+    "state": "qld",
+    "postcode": 4305,
+    "suburb_name": "Leichhardt"
+  },
+  {
+    "suburb_id": 8699,
+    "state": "tas",
+    "postcode": 7310,
+    "suburb_name": "Melrose"
+  },
+  {
+    "suburb_id": 8571,
+    "state": "tas",
+    "postcode": 7150,
+    "suburb_name": "Great Bay"
+  },
+  {
+    "suburb_id": 7134,
+    "state": "sa",
+    "postcode": 5690,
+    "suburb_name": "Ceduna"
+  },
+  {
+    "suburb_id": 9735,
+    "state": "vic",
+    "postcode": 3002,
+    "suburb_name": "East Melbourne"
+  },
+  {
+    "suburb_id": 7377,
+    "state": "sa",
+    "postcode": 5344,
+    "suburb_name": "Glossop"
+  },
+  {
+    "suburb_id": 5710,
+    "state": "qld",
+    "postcode": 4753,
+    "suburb_name": "Marian"
+  },
+  {
+    "suburb_id": 10822,
+    "state": "vic",
+    "postcode": 3305,
+    "suburb_name": "Portland"
+  },
+  {
+    "suburb_id": 11197,
+    "state": "vic",
+    "postcode": 3980,
+    "suburb_name": "Tooradin"
+  },
+  {
+    "suburb_id": 10238,
+    "state": "vic",
+    "postcode": 3444,
+    "suburb_name": "Kyneton"
+  },
+  {
+    "suburb_id": 9607,
+    "state": "vic",
+    "postcode": 3301,
+    "suburb_name": "Croxton East"
+  },
+  {
+    "suburb_id": 4984,
+    "state": "qld",
+    "postcode": 4207,
+    "suburb_name": "Eagleby"
+  },
+  {
+    "suburb_id": 9179,
+    "state": "vic",
+    "postcode": 3153,
+    "suburb_name": "Bayswater"
+  },
+  {
+    "suburb_id": 2897,
+    "state": "nsw",
+    "postcode": 2196,
+    "suburb_name": "Punchbowl"
+  },
+  {
+    "suburb_id": 9843,
+    "state": "vic",
+    "postcode": 3200,
+    "suburb_name": "Frankston North"
+  },
+  {
+    "suburb_id": 9272,
+    "state": "vic",
+    "postcode": 3196,
+    "suburb_name": "Bonbeach"
+  },
+  {
+    "suburb_id": 4927,
+    "state": "qld",
+    "postcode": 4559,
+    "suburb_name": "Diddillibah"
+  },
+  {
+    "suburb_id": 9947,
+    "state": "vic",
+    "postcode": 3873,
+    "suburb_name": "Gormandale"
+  },
+  {
+    "suburb_id": 4082,
+    "state": "nt",
+    "postcode": 850,
+    "suburb_name": "Lansdowne"
+  },
+  {
+    "suburb_id": 10099,
+    "state": "vic",
+    "postcode": 3498,
+    "suburb_name": "Irymple"
+  },
+  {
+    "suburb_id": 8422,
+    "state": "tas",
+    "postcode": 7330,
+    "suburb_name": "Brittons Swamp"
+  },
+  {
+    "suburb_id": 7640,
+    "state": "sa",
+    "postcode": 5170,
+    "suburb_name": "Maslin Beach"
+  },
+  {
+    "suburb_id": 8128,
+    "state": "sa",
+    "postcode": 5259,
+    "suburb_name": "Tailem Bend"
+  },
+  {
+    "suburb_id": 35,
+    "state": "act",
+    "postcode": 2615,
+    "suburb_name": "Dunlop"
+  },
+  {
+    "suburb_id": 8544,
+    "state": "tas",
+    "postcode": 7112,
+    "suburb_name": "Gardners Bay"
+  },
+  {
+    "suburb_id": 5075,
+    "state": "qld",
+    "postcode": 4358,
+    "suburb_name": "Felton"
+  },
+  {
+    "suburb_id": 10588,
+    "state": "vic",
+    "postcode": 3862,
+    "suburb_name": "Munro"
+  },
+  {
+    "suburb_id": 2669,
+    "state": "nsw",
+    "postcode": 2101,
+    "suburb_name": "North Narrabeen"
+  },
+  {
+    "suburb_id": 2918,
+    "state": "nsw",
+    "postcode": 2096,
+    "suburb_name": "Queenscliff"
+  },
+  {
+    "suburb_id": 9838,
+    "state": "vic",
+    "postcode": 3960,
+    "suburb_name": "Foster North"
+  },
+  {
+    "suburb_id": 1187,
+    "state": "nsw",
+    "postcode": 2328,
+    "suburb_name": "Denman"
+  },
+  {
+    "suburb_id": 9496,
+    "state": "vic",
+    "postcode": 3312,
+    "suburb_name": "Chetwynd"
+  },
+  {
+    "suburb_id": 9630,
+    "state": "vic",
+    "postcode": 3175,
+    "suburb_name": "Dandenong"
+  },
+  {
+    "suburb_id": 4445,
+    "state": "qld",
+    "postcode": 4717,
+    "suburb_name": "Blackwater"
+  },
+  {
+    "suburb_id": 8519,
     "state": "tas",
     "postcode": 7320,
-    "suburb_name": "Shorewell Park"
+    "suburb_name": "Emu Heights"
   },
   {
-    "suburb_id": 8677,
+    "suburb_id": 10193,
+    "state": "vic",
+    "postcode": 3137,
+    "suburb_name": "Kilsyth South"
+  },
+  {
+    "suburb_id": 10312,
+    "state": "vic",
+    "postcode": 3673,
+    "suburb_name": "Lima East"
+  },
+  {
+    "suburb_id": 7957,
+    "state": "sa",
+    "postcode": 5201,
+    "suburb_name": "Prospect Hill"
+  },
+  {
+    "suburb_id": 10769,
+    "state": "vic",
+    "postcode": 3491,
+    "suburb_name": "Patchewollock"
+  },
+  {
+    "suburb_id": 3157,
+    "state": "nsw",
+    "postcode": 2460,
+    "suburb_name": "South Grafton"
+  },
+  {
+    "suburb_id": 9662,
+    "state": "vic",
+    "postcode": 3325,
+    "suburb_name": "Derrinallum"
+  },
+  {
+    "suburb_id": 9710,
+    "state": "vic",
+    "postcode": 3446,
+    "suburb_name": "Drummond North"
+  },
+  {
+    "suburb_id": 12152,
+    "state": "wa",
+    "postcode": 6317,
+    "suburb_name": "Katanning"
+  },
+  {
+    "suburb_id": 4293,
+    "state": "qld",
+    "postcode": 4670,
+    "suburb_name": "Avenell Heights"
+  },
+  {
+    "suburb_id": 8732,
+    "state": "tas",
+    "postcode": 7000,
+    "suburb_name": "Mount Stuart"
+  },
+  {
+    "suburb_id": 10327,
+    "state": "vic",
+    "postcode": 3563,
+    "suburb_name": "Lockington"
+  },
+  {
+    "suburb_id": 12041,
+    "state": "wa",
+    "postcode": 6163,
+    "suburb_name": "Hamilton Hill"
+  },
+  {
+    "suburb_id": 5007,
+    "state": "qld",
+    "postcode": 4869,
+    "suburb_name": "Edmonton"
+  },
+  {
+    "suburb_id": 1105,
+    "state": "nsw",
+    "postcode": 2487,
+    "suburb_name": "Cudgen"
+  },
+  {
+    "suburb_id": 3439,
+    "state": "nsw",
+    "postcode": 2452,
+    "suburb_name": "Toormina"
+  },
+  {
+    "suburb_id": 8238,
+    "state": "sa",
+    "postcode": 5066,
+    "suburb_name": "Wattle Park"
+  },
+  {
+    "suburb_id": 6344,
+    "state": "qld",
+    "postcode": 4737,
+    "suburb_name": "Sarina Beach"
+  },
+  {
+    "suburb_id": 8736,
+    "state": "tas",
+    "postcode": 7260,
+    "suburb_name": "Nabowla"
+  },
+  {
+    "suburb_id": 9204,
+    "state": "vic",
+    "postcode": 3228,
+    "suburb_name": "Bells Beach"
+  },
+  {
+    "suburb_id": 4093,
+    "state": "nt",
+    "postcode": 812,
+    "suburb_name": "Malak"
+  },
+  {
+    "suburb_id": 6530,
+    "state": "qld",
+    "postcode": 4421,
+    "suburb_name": "Tara"
+  },
+  {
+    "suburb_id": 7975,
+    "state": "sa",
+    "postcode": 5521,
+    "suburb_name": "Redhill"
+  },
+  {
+    "suburb_id": 8036,
+    "state": "sa",
+    "postcode": 5153,
+    "suburb_name": "Scott Creek"
+  },
+  {
+    "suburb_id": 5871,
+    "state": "qld",
+    "postcode": 4573,
+    "suburb_name": "Mount Coolum"
+  },
+  {
+    "suburb_id": 3057,
+    "state": "nsw",
+    "postcode": 2756,
+    "suburb_name": "Sackville North"
+  },
+  {
+    "suburb_id": 11336,
+    "state": "vic",
+    "postcode": 3087,
+    "suburb_name": "Watsonia"
+  },
+  {
+    "suburb_id": 8583,
+    "state": "tas",
+    "postcode": 7320,
+    "suburb_name": "Havenview"
+  },
+  {
+    "suburb_id": 5256,
+    "state": "qld",
+    "postcode": 4570,
+    "suburb_name": "Greens Creek"
+  },
+  {
+    "suburb_id": 2805,
+    "state": "nsw",
+    "postcode": 2150,
+    "suburb_name": "Parramatta"
+  },
+  {
+    "suburb_id": 6762,
+    "state": "qld",
+    "postcode": 4405,
+    "suburb_name": "Weranga"
+  },
+  {
+    "suburb_id": 9205,
+    "state": "vic",
+    "postcode": 3216,
+    "suburb_name": "Belmont"
+  },
+  {
+    "suburb_id": 621,
+    "state": "nsw",
+    "postcode": 2839,
+    "suburb_name": "Brewarrina"
+  },
+  {
+    "suburb_id": 7989,
+    "state": "sa",
+    "postcode": 5412,
+    "suburb_name": "Rhynie"
+  },
+  {
+    "suburb_id": 4737,
+    "state": "qld",
+    "postcode": 4824,
+    "suburb_name": "Cloncurry"
+  },
+  {
+    "suburb_id": 9804,
+    "state": "vic",
+    "postcode": 3231,
+    "suburb_name": "Fairhaven"
+  },
+  {
+    "suburb_id": 7285,
+    "state": "sa",
+    "postcode": 5085,
+    "suburb_name": "Enfield"
+  },
+  {
+    "suburb_id": 2277,
+    "state": "nsw",
+    "postcode": 2304,
+    "suburb_name": "Mayfield West"
+  },
+  {
+    "suburb_id": 1654,
+    "state": "nsw",
+    "postcode": 2852,
+    "suburb_name": "Gulgong"
+  },
+  {
+    "suburb_id": 10821,
+    "state": "vic",
+    "postcode": 3223,
+    "suburb_name": "Portarlington"
+  },
+  {
+    "suburb_id": 11355,
+    "state": "vic",
+    "postcode": 3966,
+    "suburb_name": "Welshpool"
+  },
+  {
+    "suburb_id": 4791,
+    "state": "qld",
+    "postcode": 4209,
+    "suburb_name": "Coomera"
+  },
+  {
+    "suburb_id": 4375,
+    "state": "qld",
+    "postcode": 4207,
+    "suburb_name": "Beenleigh"
+  },
+  {
+    "suburb_id": 3060,
+    "state": "nsw",
+    "postcode": 2317,
+    "suburb_name": "Salamander Bay"
+  },
+  {
+    "suburb_id": 3330,
+    "state": "nsw",
+    "postcode": 2324,
+    "suburb_name": "Tea Gardens"
+  },
+  {
+    "suburb_id": 7232,
+    "state": "sa",
+    "postcode": 5047,
+    "suburb_name": "Darlington"
+  },
+  {
+    "suburb_id": 6820,
+    "state": "qld",
+    "postcode": 4311,
+    "suburb_name": "Wivenhoe Hill"
+  },
+  {
+    "suburb_id": 984,
+    "state": "nsw",
+    "postcode": 2226,
+    "suburb_name": "Como"
+  },
+  {
+    "suburb_id": 5499,
+    "state": "qld",
+    "postcode": 4570,
+    "suburb_name": "Kia Ora"
+  },
+  {
+    "suburb_id": 9647,
+    "state": "vic",
+    "postcode": 3385,
+    "suburb_name": "Deep Lead"
+  },
+  {
+    "suburb_id": 1194,
+    "state": "nsw",
+    "postcode": 2770,
+    "suburb_name": "Dharruk"
+  },
+  {
+    "suburb_id": 521,
+    "state": "nsw",
+    "postcode": 2629,
+    "suburb_name": "Bolaro"
+  },
+  {
+    "suburb_id": 10420,
+    "state": "vic",
+    "postcode": 3874,
+    "suburb_name": "Mcloughlins Beach"
+  },
+  {
+    "suburb_id": 8535,
+    "state": "tas",
+    "postcode": 7310,
+    "suburb_name": "Forth"
+  },
+  {
+    "suburb_id": 9688,
+    "state": "vic",
+    "postcode": 3064,
+    "suburb_name": "Donnybrook"
+  },
+  {
+    "suburb_id": 2096,
+    "state": "nsw",
+    "postcode": 2138,
+    "suburb_name": "Liberty Grove"
+  },
+  {
+    "suburb_id": 6264,
+    "state": "qld",
+    "postcode": 4565,
+    "suburb_name": "Ringtail Creek"
+  },
+  {
+    "suburb_id": 12722,
+    "state": "wa",
+    "postcode": 6164,
+    "suburb_name": "Success"
+  },
+  {
+    "suburb_id": 1713,
+    "state": "nsw",
+    "postcode": 2150,
+    "suburb_name": "Harris Park"
+  },
+  {
+    "suburb_id": 7759,
+    "state": "sa",
+    "postcode": 5253,
+    "suburb_name": "Murray Bridge East"
+  },
+  {
+    "suburb_id": 8151,
+    "state": "sa",
+    "postcode": 5577,
+    "suburb_name": "The Pines"
+  },
+  {
+    "suburb_id": 12404,
+    "state": "wa",
+    "postcode": 6123,
+    "suburb_name": "Mundijong"
+  },
+  {
+    "suburb_id": 7648,
+    "state": "sa",
+    "postcode": 5171,
+    "suburb_name": "Mclaren Vale"
+  },
+  {
+    "suburb_id": 9131,
+    "state": "vic",
+    "postcode": 3104,
+    "suburb_name": "Balwyn North"
+  },
+  {
+    "suburb_id": 4449,
+    "state": "qld",
+    "postcode": 4560,
+    "suburb_name": "Bli Bli"
+  },
+  {
+    "suburb_id": 7758,
+    "state": "sa",
+    "postcode": 5253,
+    "suburb_name": "Murray Bridge"
+  },
+  {
+    "suburb_id": 1533,
+    "state": "nsw",
+    "postcode": 2846,
+    "suburb_name": "Glen Davis"
+  },
+  {
+    "suburb_id": 9121,
+    "state": "vic",
+    "postcode": 3350,
+    "suburb_name": "Ballarat North"
+  },
+  {
+    "suburb_id": 5748,
+    "state": "qld",
+    "postcode": 4352,
+    "suburb_name": "Meringandan West"
+  },
+  {
+    "suburb_id": 9749,
+    "state": "vic",
+    "postcode": 3318,
+    "suburb_name": "Edenhope"
+  },
+  {
+    "suburb_id": 8815,
+    "state": "tas",
+    "postcode": 7467,
+    "suburb_name": "Queenstown"
+  },
+  {
+    "suburb_id": 2119,
+    "state": "nsw",
+    "postcode": 2480,
+    "suburb_name": "Lismore"
+  },
+  {
+    "suburb_id": 9578,
+    "state": "vic",
+    "postcode": 3984,
+    "suburb_name": "Coronet Bay"
+  },
+  {
+    "suburb_id": 9086,
+    "state": "vic",
+    "postcode": 3147,
+    "suburb_name": "Ashburton"
+  },
+  {
+    "suburb_id": 5798,
+    "state": "qld",
+    "postcode": 4551,
+    "suburb_name": "Moffat Beach"
+  },
+  {
+    "suburb_id": 6187,
+    "state": "qld",
+    "postcode": 4355,
+    "suburb_name": "Plainby"
+  },
+  {
+    "suburb_id": 7302,
+    "state": "sa",
+    "postcode": 5126,
+    "suburb_name": "Fairview Park"
+  },
+  {
+    "suburb_id": 3713,
+    "state": "nsw",
+    "postcode": 2747,
+    "suburb_name": "Werrington"
+  },
+  {
+    "suburb_id": 2136,
+    "state": "nsw",
+    "postcode": 2650,
+    "suburb_name": "Lloyd"
+  },
+  {
+    "suburb_id": 1502,
+    "state": "nsw",
+    "postcode": 2534,
+    "suburb_name": "Gerringong"
+  },
+  {
+    "suburb_id": 11293,
+    "state": "vic",
+    "postcode": 3579,
+    "suburb_name": "Wandella"
+  },
+  {
+    "suburb_id": 6689,
+    "state": "qld",
+    "postcode": 4715,
+    "suburb_name": "Valentine Plains"
+  },
+  {
+    "suburb_id": 1324,
+    "state": "nsw",
+    "postcode": 2325,
+    "suburb_name": "Ellalong"
+  },
+  {
+    "suburb_id": 10787,
+    "state": "vic",
+    "postcode": 3639,
+    "suburb_name": "Picola"
+  },
+  {
+    "suburb_id": 9931,
+    "state": "vic",
+    "postcode": 3851,
+    "suburb_name": "Golden Beach"
+  },
+  {
+    "suburb_id": 11025,
+    "state": "vic",
+    "postcode": 3219,
+    "suburb_name": "St Albans Park"
+  },
+  {
+    "suburb_id": 8649,
+    "state": "tas",
+    "postcode": 7173,
+    "suburb_name": "Lewisham"
+  },
+  {
+    "suburb_id": 8032,
+    "state": "sa",
+    "postcode": 5350,
+    "suburb_name": "Sandy Creek"
+  },
+  {
+    "suburb_id": 8460,
+    "state": "tas",
+    "postcode": 7012,
+    "suburb_name": "Collinsvale"
+  },
+  {
+    "suburb_id": 10059,
+    "state": "vic",
+    "postcode": 3396,
+    "suburb_name": "Hopetoun"
+  },
+  {
+    "suburb_id": 7074,
+    "state": "sa",
+    "postcode": 5155,
+    "suburb_name": "Bridgewater"
+  },
+  {
+    "suburb_id": 872,
+    "state": "nsw",
+    "postcode": 2178,
+    "suburb_name": "Cecil Park"
+  },
+  {
+    "suburb_id": 9371,
+    "state": "vic",
+    "postcode": 3083,
+    "suburb_name": "Bundoora"
+  },
+  {
+    "suburb_id": 7980,
+    "state": "sa",
+    "postcode": 5118,
+    "suburb_name": "Reid"
+  },
+  {
+    "suburb_id": 12522,
+    "state": "wa",
+    "postcode": 6167,
+    "suburb_name": "Orelia"
+  },
+  {
+    "suburb_id": 6899,
+    "state": "qld",
+    "postcode": 4305,
+    "suburb_name": "Yamanto"
+  },
+  {
+    "suburb_id": 6555,
+    "state": "qld",
+    "postcode": 4565,
+    "suburb_name": "Tewantin"
+  },
+  {
+    "suburb_id": 1484,
+    "state": "nsw",
+    "postcode": 2159,
+    "suburb_name": "Galston"
+  },
+  {
+    "suburb_id": 1332,
+    "state": "nsw",
+    "postcode": 2325,
+    "suburb_name": "Elrington"
+  },
+  {
+    "suburb_id": 447,
+    "state": "nsw",
+    "postcode": 2404,
+    "suburb_name": "Bingara"
+  },
+  {
+    "suburb_id": 7244,
+    "state": "sa",
+    "postcode": 5008,
+    "suburb_name": "Devon Park"
+  },
+  {
+    "suburb_id": 5637,
+    "state": "qld",
+    "postcode": 4133,
+    "suburb_name": "Logan Reserve"
+  },
+  {
+    "suburb_id": 6810,
+    "state": "qld",
+    "postcode": 4030,
+    "suburb_name": "Windsor"
+  },
+  {
+    "suburb_id": 7147,
+    "state": "sa",
+    "postcode": 5211,
+    "suburb_name": "Chiton"
+  },
+  {
+    "suburb_id": 1512,
+    "state": "nsw",
+    "postcode": 2360,
+    "suburb_name": "Gilgai"
+  },
+  {
+    "suburb_id": 7362,
+    "state": "sa",
+    "postcode": 5015,
+    "suburb_name": "Glanville"
+  },
+  {
+    "suburb_id": 10337,
+    "state": "vic",
+    "postcode": 3551,
+    "suburb_name": "Longlea"
+  },
+  {
+    "suburb_id": 10736,
+    "state": "vic",
+    "postcode": 3241,
+    "suburb_name": "Ombersley"
+  },
+  {
+    "suburb_id": 8688,
+    "state": "tas",
+    "postcode": 7030,
+    "suburb_name": "Mangalore"
+  },
+  {
+    "suburb_id": 7886,
+    "state": "sa",
+    "postcode": 5121,
+    "suburb_name": "Penfield"
+  },
+  {
+    "suburb_id": 5793,
+    "state": "qld",
+    "postcode": 4852,
+    "suburb_name": "Mission Beach"
+  },
+  {
+    "suburb_id": 1107,
+    "state": "nsw",
+    "postcode": 2540,
+    "suburb_name": "Cudmirrah"
+  },
+  {
+    "suburb_id": 9006,
+    "state": "tas",
+    "postcode": 7325,
+    "suburb_name": "Wynyard"
+  },
+  {
+    "suburb_id": 9812,
+    "state": "vic",
+    "postcode": 3458,
+    "suburb_name": "Fern Hill"
+  },
+  {
+    "suburb_id": 9089,
+    "state": "vic",
+    "postcode": 3195,
+    "suburb_name": "Aspendale Gardens"
+  },
+  {
+    "suburb_id": 8363,
+    "state": "tas",
+    "postcode": 7330,
+    "suburb_name": "Alcomie"
+  },
+  {
+    "suburb_id": 4064,
+    "state": "nt",
+    "postcode": 873,
+    "suburb_name": "Ilparpa"
+  },
+  {
+    "suburb_id": 1573,
+    "state": "nsw",
+    "postcode": 2739,
+    "suburb_name": "Gol Gol"
+  },
+  {
+    "suburb_id": 5707,
+    "state": "qld",
+    "postcode": 4880,
+    "suburb_name": "Mareeba"
+  },
+  {
+    "suburb_id": 6179,
+    "state": "qld",
+    "postcode": 4008,
+    "suburb_name": "Pinkenba"
+  },
+  {
+    "suburb_id": 10986,
+    "state": "vic",
+    "postcode": 3260,
+    "suburb_name": "Skibo"
+  },
+  {
+    "suburb_id": 10273,
+    "state": "vic",
+    "postcode": 3318,
+    "suburb_name": "Langkoop"
+  },
+  {
+    "suburb_id": 4146,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Stapleton"
+  },
+  {
+    "suburb_id": 824,
+    "state": "nsw",
+    "postcode": 2285,
+    "suburb_name": "Cardiff"
+  },
+  {
+    "suburb_id": 7008,
+    "state": "sa",
+    "postcode": 5222,
+    "suburb_name": "Baudin Beach"
+  },
+  {
+    "suburb_id": 6601,
+    "state": "qld",
+    "postcode": 4563,
+    "suburb_name": "Tinbeerwah"
+  },
+  {
+    "suburb_id": 11462,
+    "state": "vic",
+    "postcode": 3527,
+    "suburb_name": "Wycheproof"
+  },
+  {
+    "suburb_id": 7296,
+    "state": "sa",
+    "postcode": 5116,
+    "suburb_name": "Evanston South"
+  },
+  {
+    "suburb_id": 12438,
+    "state": "wa",
+    "postcode": 6281,
+    "suburb_name": "Naturaliste"
+  },
+  {
+    "suburb_id": 6694,
+    "state": "qld",
+    "postcode": 4285,
+    "suburb_name": "Veresdale"
+  },
+  {
+    "suburb_id": 2228,
+    "state": "nsw",
+    "postcode": 2430,
+    "suburb_name": "Manning Point"
+  },
+  {
+    "suburb_id": 8250,
+    "state": "sa",
+    "postcode": 5024,
+    "suburb_name": "West Beach"
+  },
+  {
+    "suburb_id": 4948,
+    "state": "qld",
+    "postcode": 4814,
+    "suburb_name": "Douglas"
+  },
+  {
+    "suburb_id": 11081,
+    "state": "vic",
+    "postcode": 3922,
+    "suburb_name": "Sunset Strip"
+  },
+  {
+    "suburb_id": 438,
+    "state": "nsw",
+    "postcode": 2483,
+    "suburb_name": "Billinudgel"
+  },
+  {
+    "suburb_id": 8453,
+    "state": "tas",
+    "postcode": 7019,
+    "suburb_name": "Clarendon Vale"
+  },
+  {
+    "suburb_id": 3636,
+    "state": "nsw",
+    "postcode": 2298,
+    "suburb_name": "Waratah"
+  },
+  {
+    "suburb_id": 1078,
+    "state": "nsw",
+    "postcode": 2090,
+    "suburb_name": "Cremorne"
+  },
+  {
+    "suburb_id": 6568,
+    "state": "qld",
+    "postcode": 4061,
+    "suburb_name": "The Gap"
+  },
+  {
+    "suburb_id": 7526,
+    "state": "sa",
+    "postcode": 5641,
+    "suburb_name": "Kimba"
+  },
+  {
+    "suburb_id": 2637,
+    "state": "nsw",
+    "postcode": 2631,
+    "suburb_name": "Nimmitabel"
+  },
+  {
+    "suburb_id": 7443,
+    "state": "sa",
+    "postcode": 5063,
+    "suburb_name": "Highgate"
+  },
+  {
+    "suburb_id": 758,
+    "state": "nsw",
+    "postcode": 2446,
+    "suburb_name": "Byabarra"
+  },
+  {
+    "suburb_id": 10170,
+    "state": "vic",
+    "postcode": 3691,
+    "suburb_name": "Kergunyah"
+  },
+  {
+    "suburb_id": 5533,
+    "state": "qld",
+    "postcode": 4817,
+    "suburb_name": "Kirwan"
+  },
+  {
+    "suburb_id": 8287,
+    "state": "sa",
+    "postcode": 5255,
+    "suburb_name": "Willyaroo"
+  },
+  {
+    "suburb_id": 11363,
+    "state": "vic",
+    "postcode": 3030,
+    "suburb_name": "Werribee South"
+  },
+  {
+    "suburb_id": 3812,
+    "state": "nsw",
+    "postcode": 2775,
+    "suburb_name": "Wisemans Ferry"
+  },
+  {
+    "suburb_id": 5969,
+    "state": "qld",
+    "postcode": 4605,
+    "suburb_name": "Murgon"
+  },
+  {
+    "suburb_id": 2140,
+    "state": "nsw",
+    "postcode": 2656,
+    "suburb_name": "Lockhart"
+  },
+  {
+    "suburb_id": 7649,
+    "state": "sa",
+    "postcode": 5201,
+    "suburb_name": "Meadows"
+  },
+  {
+    "suburb_id": 902,
+    "state": "nsw",
+    "postcode": 2162,
+    "suburb_name": "Chester Hill"
+  },
+  {
+    "suburb_id": 4195,
+    "state": "qld",
+    "postcode": 4613,
+    "suburb_name": "Abbeywood"
+  },
+  {
+    "suburb_id": 9234,
+    "state": "vic",
+    "postcode": 3590,
+    "suburb_name": "Beverford"
+  },
+  {
+    "suburb_id": 2127,
+    "state": "nsw",
+    "postcode": 2259,
+    "suburb_name": "Little Jilliby"
+  },
+  {
+    "suburb_id": 6358,
+    "state": "qld",
+    "postcode": 4073,
+    "suburb_name": "Seventeen Mile Rocks"
+  },
+  {
+    "suburb_id": 6867,
+    "state": "qld",
+    "postcode": 4552,
+    "suburb_name": "Wootha"
+  },
+  {
+    "suburb_id": 6774,
+    "state": "qld",
+    "postcode": 4870,
+    "suburb_name": "Westcourt"
+  },
+  {
+    "suburb_id": 5509,
+    "state": "qld",
+    "postcode": 4373,
+    "suburb_name": "Killarney"
+  },
+  {
+    "suburb_id": 11196,
+    "state": "vic",
+    "postcode": 3962,
+    "suburb_name": "Toora North"
+  },
+  {
+    "suburb_id": 3163,
+    "state": "nsw",
+    "postcode": 2440,
+    "suburb_name": "South Kempsey"
+  },
+  {
+    "suburb_id": 9609,
+    "state": "vic",
+    "postcode": 3115,
+    "suburb_name": "Croydon Hills"
+  },
+  {
+    "suburb_id": 6814,
+    "state": "qld",
+    "postcode": 4347,
+    "suburb_name": "Winwill"
+  },
+  {
+    "suburb_id": 10219,
+    "state": "vic",
+    "postcode": 3844,
+    "suburb_name": "Koornalla"
+  },
+  {
+    "suburb_id": 9650,
+    "state": "vic",
+    "postcode": 3356,
+    "suburb_name": "Delacombe"
+  },
+  {
+    "suburb_id": 9443,
+    "state": "vic",
+    "postcode": 3978,
+    "suburb_name": "Cardinia"
+  },
+  {
+    "suburb_id": 8634,
+    "state": "tas",
+    "postcode": 7267,
+    "suburb_name": "Lalla"
+  },
+  {
+    "suburb_id": 4852,
+    "state": "qld",
+    "postcode": 4355,
+    "suburb_name": "Crows Nest"
+  },
+  {
+    "suburb_id": 1787,
+    "state": "nsw",
+    "postcode": 2643,
+    "suburb_name": "Howlong"
+  },
+  {
+    "suburb_id": 7893,
+    "state": "sa",
+    "postcode": 5453,
+    "suburb_name": "Penwortham"
+  },
+  {
+    "suburb_id": 11528,
+    "state": "wa",
+    "postcode": 6154,
+    "suburb_name": "Alfred Cove"
+  },
+  {
+    "suburb_id": 7378,
+    "state": "sa",
+    "postcode": 5070,
+    "suburb_name": "Glynde"
+  },
+  {
+    "suburb_id": 1562,
+    "state": "nsw",
+    "postcode": 2768,
+    "suburb_name": "Glenwood"
+  },
+  {
+    "suburb_id": 6842,
+    "state": "qld",
+    "postcode": 4660,
+    "suburb_name": "Woodgate"
+  },
+  {
+    "suburb_id": 9163,
+    "state": "vic",
+    "postcode": 3329,
+    "suburb_name": "Barunah Park"
+  },
+  {
+    "suburb_id": 5432,
+    "state": "qld",
+    "postcode": 4515,
+    "suburb_name": "Jimna"
+  },
+  {
+    "suburb_id": 255,
+    "state": "nsw",
+    "postcode": 2358,
+    "suburb_name": "Balala"
+  },
+  {
+    "suburb_id": 9462,
+    "state": "vic",
+    "postcode": 3201,
+    "suburb_name": "Carrum Downs"
+  },
+  {
+    "suburb_id": 2730,
+    "state": "nsw",
+    "postcode": 2223,
+    "suburb_name": "Oatley"
+  },
+  {
+    "suburb_id": 6708,
+    "state": "qld",
+    "postcode": 4076,
+    "suburb_name": "Wacol"
+  },
+  {
+    "suburb_id": 2934,
+    "state": "nsw",
+    "postcode": 2287,
+    "suburb_name": "Rankin Park"
+  },
+  {
+    "suburb_id": 11311,
+    "state": "vic",
+    "postcode": 3465,
+    "suburb_name": "Wareek"
+  },
+  {
+    "suburb_id": 5496,
+    "state": "qld",
+    "postcode": 4879,
+    "suburb_name": "Kewarra Beach"
+  },
+  {
+    "suburb_id": 4137,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Robin Falls"
+  },
+  {
+    "suburb_id": 6535,
+    "state": "qld",
+    "postcode": 4309,
+    "suburb_name": "Tarome"
+  },
+  {
+    "suburb_id": 10971,
+    "state": "vic",
+    "postcode": 3329,
+    "suburb_name": "Shelford"
+  },
+  {
+    "suburb_id": 18,
+    "state": "act",
+    "postcode": 2913,
+    "suburb_name": "Casey"
+  },
+  {
+    "suburb_id": 3191,
+    "state": "nsw",
+    "postcode": 2666,
+    "suburb_name": "Springdale"
+  },
+  {
+    "suburb_id": 8023,
+    "state": "sa",
+    "postcode": 5109,
+    "suburb_name": "Salisbury Plain"
+  },
+  {
+    "suburb_id": 3962,
+    "state": "nt",
+    "postcode": 846,
+    "suburb_name": "Adelaide River"
+  },
+  {
+    "suburb_id": 11110,
+    "state": "vic",
+    "postcode": 3659,
+    "suburb_name": "Tallarook"
+  },
+  {
+    "suburb_id": 8872,
+    "state": "tas",
+    "postcode": 7306,
+    "suburb_name": "Sheffield"
+  },
+  {
+    "suburb_id": 1499,
+    "state": "nsw",
+    "postcode": 2298,
+    "suburb_name": "Georgetown"
+  },
+  {
+    "suburb_id": 10293,
+    "state": "vic",
+    "postcode": 3567,
+    "suburb_name": "Leitchville"
+  },
+  {
+    "suburb_id": 10514,
+    "state": "vic",
+    "postcode": 3224,
+    "suburb_name": "Moolap"
+  },
+  {
+    "suburb_id": 8839,
+    "state": "tas",
+    "postcode": 7321,
+    "suburb_name": "Rocky Cape"
+  },
+  {
+    "suburb_id": 1428,
+    "state": "nsw",
+    "postcode": 2525,
+    "suburb_name": "Figtree"
+  },
+  {
+    "suburb_id": 3128,
+    "state": "nsw",
+    "postcode": 2128,
+    "suburb_name": "Silverwater"
+  },
+  {
+    "suburb_id": 5205,
+    "state": "qld",
+    "postcode": 4865,
+    "suburb_name": "Goldsborough"
+  },
+  {
+    "suburb_id": 1542,
+    "state": "nsw",
+    "postcode": 2285,
+    "suburb_name": "Glendale"
+  },
+  {
+    "suburb_id": 10350,
+    "state": "vic",
+    "postcode": 3875,
+    "suburb_name": "Lucknow"
+  },
+  {
+    "suburb_id": 9301,
+    "state": "vic",
+    "postcode": 3128,
+    "suburb_name": "Box Hill"
+  },
+  {
+    "suburb_id": 11680,
+    "state": "wa",
+    "postcode": 6430,
+    "suburb_name": "Broadwood"
+  },
+  {
+    "suburb_id": 9928,
+    "state": "vic",
+    "postcode": 3221,
+    "suburb_name": "Gnarwarre"
+  },
+  {
+    "suburb_id": 5714,
+    "state": "qld",
+    "postcode": 4561,
+    "suburb_name": "Maroochy River"
+  },
+  {
+    "suburb_id": 1184,
+    "state": "nsw",
+    "postcode": 2114,
+    "suburb_name": "Denistone"
+  },
+  {
+    "suburb_id": 7608,
+    "state": "sa",
+    "postcode": 5153,
+    "suburb_name": "Macclesfield"
+  },
+  {
+    "suburb_id": 9557,
+    "state": "vic",
+    "postcode": 3066,
+    "suburb_name": "Collingwood"
+  },
+  {
+    "suburb_id": 2204,
+    "state": "nsw",
+    "postcode": 2320,
+    "suburb_name": "Maitland Vale"
+  },
+  {
+    "suburb_id": 8104,
+    "state": "sa",
+    "postcode": 5410,
+    "suburb_name": "Stockport"
+  },
+  {
+    "suburb_id": 3455,
+    "state": "nsw",
+    "postcode": 2480,
+    "suburb_name": "Tregeagle"
+  },
+  {
+    "suburb_id": 7462,
+    "state": "sa",
+    "postcode": 5090,
+    "suburb_name": "Hope Valley"
+  },
+  {
+    "suburb_id": 8429,
+    "state": "tas",
+    "postcode": 7140,
+    "suburb_name": "Bushy Park"
+  },
+  {
+    "suburb_id": 2013,
+    "state": "nsw",
+    "postcode": 2758,
+    "suburb_name": "Kurrajong"
+  },
+  {
+    "suburb_id": 5497,
+    "state": "qld",
+    "postcode": 4306,
+    "suburb_name": "Kholo"
+  },
+  {
+    "suburb_id": 9966,
+    "state": "vic",
+    "postcode": 3341,
+    "suburb_name": "Greendale"
+  },
+  {
+    "suburb_id": 3207,
+    "state": "nsw",
+    "postcode": 2075,
+    "suburb_name": "St Ives Chase"
+  },
+  {
+    "suburb_id": 6488,
+    "state": "qld",
+    "postcode": 4567,
+    "suburb_name": "Sunrise Beach"
+  },
+  {
+    "suburb_id": 453,
+    "state": "nsw",
+    "postcode": 2395,
+    "suburb_name": "Binnaway"
+  },
+  {
+    "suburb_id": 11198,
+    "state": "vic",
+    "postcode": 3142,
+    "suburb_name": "Toorak"
+  },
+  {
+    "suburb_id": 9691,
+    "state": "vic",
+    "postcode": 3401,
+    "suburb_name": "Dooen"
+  },
+  {
+    "suburb_id": 11437,
+    "state": "vic",
+    "postcode": 3874,
+    "suburb_name": "Woodside"
+  },
+  {
+    "suburb_id": 8297,
+    "state": "sa",
+    "postcode": 5481,
+    "suburb_name": "Wirrabara"
+  },
+  {
+    "suburb_id": 8594,
+    "state": "tas",
+    "postcode": 7252,
+    "suburb_name": "Hillwood"
+  },
+  {
+    "suburb_id": 7771,
+    "state": "sa",
+    "postcode": 5083,
+    "suburb_name": "Nailsworth"
+  },
+  {
+    "suburb_id": 4377,
+    "state": "qld",
+    "postcode": 4519,
+    "suburb_name": "Beerwah"
+  },
+  {
+    "suburb_id": 9908,
+    "state": "vic",
+    "postcode": 3854,
+    "suburb_name": "Glengarry North"
+  },
+  {
+    "suburb_id": 5415,
+    "state": "qld",
+    "postcode": 4208,
+    "suburb_name": "Jacobs Well"
+  },
+  {
+    "suburb_id": 8948,
+    "state": "tas",
+    "postcode": 7120,
+    "suburb_name": "Tunnack"
+  },
+  {
+    "suburb_id": 12161,
+    "state": "wa",
+    "postcode": 6333,
+    "suburb_name": "Kentdale"
+  },
+  {
+    "suburb_id": 3456,
+    "state": "nsw",
+    "postcode": 2770,
+    "suburb_name": "Tregear"
+  },
+  {
+    "suburb_id": 1549,
+    "state": "nsw",
+    "postcode": 2156,
+    "suburb_name": "Glenhaven"
+  },
+  {
+    "suburb_id": 5343,
+    "state": "qld",
+    "postcode": 4455,
+    "suburb_name": "Hodgson"
+  },
+  {
+    "suburb_id": 2056,
+    "state": "nsw",
+    "postcode": 2066,
+    "suburb_name": "Lane Cove North"
+  },
+  {
+    "suburb_id": 9702,
+    "state": "vic",
+    "postcode": 3818,
+    "suburb_name": "Drouin East"
+  },
+  {
+    "suburb_id": 10303,
+    "state": "vic",
+    "postcode": 3332,
+    "suburb_name": "Lethbridge"
+  },
+  {
+    "suburb_id": 8092,
+    "state": "sa",
+    "postcode": 5042,
+    "suburb_name": "St Marys"
+  },
+  {
+    "suburb_id": 2695,
+    "state": "nsw",
+    "postcode": 2153,
+    "suburb_name": "Norwest"
+  },
+  {
+    "suburb_id": 8404,
+    "state": "tas",
+    "postcode": 7301,
+    "suburb_name": "Blackwood Creek"
+  },
+  {
+    "suburb_id": 6169,
+    "state": "qld",
+    "postcode": 4568,
+    "suburb_name": "Pinbarren"
+  },
+  {
+    "suburb_id": 8920,
+    "state": "tas",
+    "postcode": 7275,
+    "suburb_name": "Swan Point"
+  },
+  {
+    "suburb_id": 11494,
+    "state": "vic",
+    "postcode": 3091,
+    "suburb_name": "Yarrambat"
+  },
+  {
+    "suburb_id": 2809,
+    "state": "nsw",
+    "postcode": 2325,
+    "suburb_name": "Paxton"
+  },
+  {
+    "suburb_id": 6050,
+    "state": "qld",
+    "postcode": 4740,
+    "suburb_name": "North Mackay"
+  },
+  {
+    "suburb_id": 6065,
+    "state": "qld",
+    "postcode": 4012,
+    "suburb_name": "Nundah"
+  },
+  {
+    "suburb_id": 148,
+    "state": "nsw",
+    "postcode": 2560,
+    "suburb_name": "Airds"
+  },
+  {
+    "suburb_id": 11055,
+    "state": "vic",
+    "postcode": 3957,
+    "suburb_name": "Stony Creek"
+  },
+  {
+    "suburb_id": 7563,
+    "state": "sa",
+    "postcode": 5255,
+    "suburb_name": "Langhorne Creek"
+  },
+  {
+    "suburb_id": 11249,
+    "state": "vic",
+    "postcode": 3756,
+    "suburb_name": "Upper Plenty"
+  },
+  {
+    "suburb_id": 8613,
+    "state": "tas",
+    "postcode": 7150,
+    "suburb_name": "Kaoota"
+  },
+  {
+    "suburb_id": 9574,
+    "state": "vic",
+    "postcode": 3984,
+    "suburb_name": "Corinella"
+  },
+  {
+    "suburb_id": 10419,
+    "state": "vic",
+    "postcode": 3204,
+    "suburb_name": "Mckinnon"
+  },
+  {
+    "suburb_id": 11416,
+    "state": "vic",
+    "postcode": 3690,
+    "suburb_name": "Wodonga"
+  },
+  {
+    "suburb_id": 6716,
+    "state": "qld",
+    "postcode": 4383,
+    "suburb_name": "Wallangarra"
+  },
+  {
+    "suburb_id": 1872,
+    "state": "nsw",
+    "postcode": 2530,
+    "suburb_name": "Kanahooka"
+  },
+  {
+    "suburb_id": 842,
+    "state": "nsw",
+    "postcode": 2294,
+    "suburb_name": "Carrington"
+  },
+  {
+    "suburb_id": 11310,
+    "state": "vic",
+    "postcode": 3799,
+    "suburb_name": "Warburton"
+  },
+  {
+    "suburb_id": 10505,
+    "state": "vic",
+    "postcode": 3793,
+    "suburb_name": "Monbulk"
+  },
+  {
+    "suburb_id": 3574,
+    "state": "nsw",
+    "postcode": 2030,
+    "suburb_name": "Vaucluse"
+  },
+  {
+    "suburb_id": 5261,
+    "state": "qld",
+    "postcode": 4800,
+    "suburb_name": "Gregory River"
+  },
+  {
+    "suburb_id": 9620,
+    "state": "vic",
+    "postcode": 3268,
+    "suburb_name": "Curdievale"
+  },
+  {
+    "suburb_id": 4663,
+    "state": "qld",
+    "postcode": 4152,
+    "suburb_name": "Carina Heights"
+  },
+  {
+    "suburb_id": 9687,
+    "state": "vic",
+    "postcode": 3109,
+    "suburb_name": "Doncaster East"
+  },
+  {
+    "suburb_id": 9853,
+    "state": "vic",
+    "postcode": 3381,
+    "suburb_name": "Fyans Creek"
+  },
+  {
+    "suburb_id": 11099,
+    "state": "vic",
+    "postcode": 3037,
+    "suburb_name": "Sydenham"
+  },
+  {
+    "suburb_id": 813,
+    "state": "nsw",
+    "postcode": 2804,
+    "suburb_name": "Canowindra"
+  },
+  {
+    "suburb_id": 757,
+    "state": "nsw",
+    "postcode": 2571,
+    "suburb_name": "Buxton"
+  },
+  {
+    "suburb_id": 9261,
+    "state": "vic",
+    "postcode": 3678,
+    "suburb_name": "Bobinawarrah"
+  },
+  {
+    "suburb_id": 5309,
+    "state": "qld",
+    "postcode": 4825,
+    "suburb_name": "Healy"
+  },
+  {
+    "suburb_id": 5621,
+    "state": "qld",
+    "postcode": 4305,
+    "suburb_name": "Limestone Ridges"
+  },
+  {
+    "suburb_id": 5956,
+    "state": "qld",
+    "postcode": 4285,
+    "suburb_name": "Mundoolun"
+  },
+  {
+    "suburb_id": 7953,
+    "state": "sa",
+    "postcode": 5550,
+    "suburb_name": "Port Wakefield"
+  },
+  {
+    "suburb_id": 1403,
+    "state": "nsw",
+    "postcode": 2519,
+    "suburb_name": "Fairy Meadow"
+  },
+  {
+    "suburb_id": 11490,
+    "state": "vic",
+    "postcode": 3797,
+    "suburb_name": "Yarra Junction"
+  },
+  {
+    "suburb_id": 10184,
+    "state": "vic",
+    "postcode": 3995,
+    "suburb_name": "Kilcunda"
+  },
+  {
+    "suburb_id": 10435,
+    "state": "vic",
+    "postcode": 3337,
+    "suburb_name": "Melton West"
+  },
+  {
+    "suburb_id": 8012,
+    "state": "sa",
+    "postcode": 5070,
+    "suburb_name": "Royston Park"
+  },
+  {
+    "suburb_id": 542,
+    "state": "nsw",
+    "postcode": 2264,
+    "suburb_name": "Bonnells Bay"
+  },
+  {
+    "suburb_id": 10240,
+    "state": "vic",
+    "postcode": 3621,
+    "suburb_name": "Kyvalley"
+  },
+  {
+    "suburb_id": 6034,
+    "state": "qld",
+    "postcode": 4565,
+    "suburb_name": "Noosa North Shore"
+  },
+  {
+    "suburb_id": 3701,
+    "state": "nsw",
+    "postcode": 2820,
+    "suburb_name": "Wellington"
+  },
+  {
+    "suburb_id": 2882,
+    "state": "nsw",
+    "postcode": 2790,
+    "suburb_name": "Pottery Estate"
+  },
+  {
+    "suburb_id": 10264,
+    "state": "vic",
+    "postcode": 3352,
+    "suburb_name": "Lal Lal"
+  },
+  {
+    "suburb_id": 10043,
+    "state": "vic",
+    "postcode": 3304,
+    "suburb_name": "Heywood"
+  },
+  {
+    "suburb_id": 10146,
+    "state": "vic",
+    "postcode": 3950,
+    "suburb_name": "Kardella South"
+  },
+  {
+    "suburb_id": 2565,
+    "state": "nsw",
+    "postcode": 2550,
+    "suburb_name": "Myrtle Mountain"
+  },
+  {
+    "suburb_id": 4209,
+    "state": "qld",
+    "postcode": 4677,
+    "suburb_name": "Agnes Water"
+  },
+  {
+    "suburb_id": 4247,
+    "state": "qld",
+    "postcode": 4380,
+    "suburb_name": "Amiens"
+  },
+  {
+    "suburb_id": 2827,
+    "state": "nsw",
+    "postcode": 2120,
+    "suburb_name": "Pennant Hills"
+  },
+  {
+    "suburb_id": 10187,
+    "state": "vic",
+    "postcode": 3678,
+    "suburb_name": "Killawarra"
+  },
+  {
+    "suburb_id": 12765,
+    "state": "wa",
+    "postcode": 6060,
+    "suburb_name": "Tuart Hill"
+  },
+  {
+    "suburb_id": 4866,
+    "state": "qld",
+    "postcode": 4223,
+    "suburb_name": "Currumbin Valley"
+  },
+  {
+    "suburb_id": 4778,
+    "state": "qld",
+    "postcode": 4895,
+    "suburb_name": "Cooktown"
+  },
+  {
+    "suburb_id": 11902,
+    "state": "wa",
+    "postcode": 6281,
+    "suburb_name": "Dunsborough"
+  },
+  {
+    "suburb_id": 5060,
+    "state": "qld",
+    "postcode": 4888,
+    "suburb_name": "Evelyn"
+  },
+  {
+    "suburb_id": 12283,
+    "state": "wa",
+    "postcode": 6020,
+    "suburb_name": "Marmion"
+  },
+  {
+    "suburb_id": 10520,
+    "state": "vic",
+    "postcode": 3189,
+    "suburb_name": "Moorabbin"
+  },
+  {
+    "suburb_id": 7423,
+    "state": "sa",
+    "postcode": 5244,
+    "suburb_name": "Harrogate"
+  },
+  {
+    "suburb_id": 5165,
+    "state": "qld",
+    "postcode": 4518,
+    "suburb_name": "Glass House Mountains"
+  },
+  {
+    "suburb_id": 7075,
+    "state": "sa",
+    "postcode": 5048,
+    "suburb_name": "Brighton"
+  },
+  {
+    "suburb_id": 601,
+    "state": "nsw",
+    "postcode": 2449,
+    "suburb_name": "Bowraville"
+  },
+  {
+    "suburb_id": 3631,
+    "state": "nsw",
+    "postcode": 2267,
+    "suburb_name": "Wangi Wangi"
+  },
+  {
+    "suburb_id": 10397,
+    "state": "vic",
+    "postcode": 3233,
+    "suburb_name": "Marengo"
+  },
+  {
+    "suburb_id": 10021,
+    "state": "vic",
+    "postcode": 3981,
+    "suburb_name": "Heath Hill"
+  },
+  {
+    "suburb_id": 6941,
+    "state": "sa",
+    "postcode": 5173,
+    "suburb_name": "Aldinga Beach"
+  },
+  {
+    "suburb_id": 10543,
+    "state": "vic",
+    "postcode": 3951,
+    "suburb_name": "Moyarra"
+  },
+  {
+    "suburb_id": 9031,
+    "state": "vic",
+    "postcode": 3971,
+    "suburb_name": "Alberton"
+  },
+  {
+    "suburb_id": 2392,
+    "state": "nsw",
+    "postcode": 2539,
+    "suburb_name": "Mollymook"
+  },
+  {
+    "suburb_id": 11615,
+    "state": "wa",
+    "postcode": 6056,
+    "suburb_name": "Bellevue"
+  },
+  {
+    "suburb_id": 476,
+    "state": "nsw",
+    "postcode": 2148,
+    "suburb_name": "Blacktown"
+  },
+  {
+    "suburb_id": 7797,
+    "state": "sa",
+    "postcode": 5374,
+    "suburb_name": "Ngapala"
+  },
+  {
+    "suburb_id": 7579,
+    "state": "sa",
+    "postcode": 5607,
+    "suburb_name": "Lipson"
+  },
+  {
+    "suburb_id": 5113,
+    "state": "qld",
+    "postcode": 4006,
+    "suburb_name": "Fortitude Valley"
+  },
+  {
+    "suburb_id": 6239,
+    "state": "qld",
+    "postcode": 4816,
+    "suburb_name": "Ravenswood"
+  },
+  {
+    "suburb_id": 1408,
+    "state": "nsw",
+    "postcode": 2484,
+    "suburb_name": "Farrants Hill"
+  },
+  {
+    "suburb_id": 8083,
+    "state": "sa",
+    "postcode": 5062,
+    "suburb_name": "Springfield"
+  },
+  {
+    "suburb_id": 2090,
+    "state": "nsw",
+    "postcode": 2780,
+    "suburb_name": "Leura"
+  },
+  {
+    "suburb_id": 8378,
+    "state": "tas",
+    "postcode": 7030,
+    "suburb_name": "Bagdad"
+  },
+  {
+    "suburb_id": 6955,
+    "state": "sa",
+    "postcode": 5722,
+    "suburb_name": "Andamooka"
+  },
+  {
+    "suburb_id": 7152,
+    "state": "sa",
+    "postcode": 5453,
+    "suburb_name": "Clare"
+  },
+  {
+    "suburb_id": 6006,
+    "state": "qld",
+    "postcode": 4680,
+    "suburb_name": "New Auckland"
+  },
+  {
+    "suburb_id": 2372,
+    "state": "nsw",
+    "postcode": 2228,
+    "suburb_name": "Miranda"
+  },
+  {
+    "suburb_id": 6150,
+    "state": "qld",
+    "postcode": 4573,
+    "suburb_name": "Peregian Springs"
+  },
+  {
+    "suburb_id": 2212,
+    "state": "nsw",
+    "postcode": 2536,
+    "suburb_name": "Maloneys Beach"
+  },
+  {
+    "suburb_id": 8431,
+    "state": "tas",
+    "postcode": 7325,
+    "suburb_name": "Calder"
+  },
+  {
+    "suburb_id": 7104,
+    "state": "sa",
+    "postcode": 5560,
+    "suburb_name": "Bute"
+  },
+  {
+    "suburb_id": 8529,
+    "state": "tas",
+    "postcode": 7214,
+    "suburb_name": "Fingal"
+  },
+  {
+    "suburb_id": 2262,
+    "state": "nsw",
+    "postcode": 2293,
+    "suburb_name": "Maryville"
+  },
+  {
+    "suburb_id": 4080,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Lake Bennett"
+  },
+  {
+    "suburb_id": 4279,
+    "state": "qld",
+    "postcode": 4060,
+    "suburb_name": "Ashgrove"
+  },
+  {
+    "suburb_id": 3865,
+    "state": "nsw",
+    "postcode": 2464,
+    "suburb_name": "Wooloweyah"
+  },
+  {
+    "suburb_id": 4259,
+    "state": "qld",
+    "postcode": 4378,
+    "suburb_name": "Applethorpe"
+  },
+  {
+    "suburb_id": 1323,
+    "state": "nsw",
+    "postcode": 2171,
+    "suburb_name": "Elizabeth Hills"
+  },
+  {
+    "suburb_id": 1437,
+    "state": "nsw",
+    "postcode": 2283,
+    "suburb_name": "Fishing Point"
+  },
+  {
+    "suburb_id": 940,
+    "state": "nsw",
+    "postcode": 2283,
+    "suburb_name": "Coal Point"
+  },
+  {
+    "suburb_id": 6188,
+    "state": "qld",
+    "postcode": 4341,
+    "suburb_name": "Plainland"
+  },
+  {
+    "suburb_id": 9352,
+    "state": "vic",
+    "postcode": 3958,
+    "suburb_name": "Buffalo"
+  },
+  {
+    "suburb_id": 4089,
+    "state": "nt",
+    "postcode": 822,
+    "suburb_name": "Livingstone"
+  },
+  {
+    "suburb_id": 2116,
+    "state": "nsw",
+    "postcode": 2070,
+    "suburb_name": "Lindfield"
+  },
+  {
+    "suburb_id": 11361,
+    "state": "vic",
+    "postcode": 3364,
+    "suburb_name": "Werona"
+  },
+  {
+    "suburb_id": 2251,
+    "state": "nsw",
+    "postcode": 2765,
+    "suburb_name": "Marsden Park"
+  },
+  {
+    "suburb_id": 2914,
+    "state": "nsw",
+    "postcode": 2620,
+    "suburb_name": "Queanbeyan East"
+  },
+  {
+    "suburb_id": 10391,
+    "state": "vic",
+    "postcode": 3971,
+    "suburb_name": "Manns Beach"
+  },
+  {
+    "suburb_id": 10881,
+    "state": "vic",
+    "postcode": 3185,
+    "suburb_name": "Ripponlea"
+  },
+  {
+    "suburb_id": 3092,
+    "state": "nsw",
+    "postcode": 2762,
+    "suburb_name": "Schofields"
+  },
+  {
+    "suburb_id": 10411,
+    "state": "vic",
+    "postcode": 3779,
+    "suburb_name": "Marysville"
+  },
+  {
+    "suburb_id": 2114,
+    "state": "nsw",
+    "postcode": 2480,
+    "suburb_name": "Lindendale"
+  },
+  {
+    "suburb_id": 10086,
+    "state": "vic",
+    "postcode": 3517,
+    "suburb_name": "Inglewood"
+  },
+  {
+    "suburb_id": 2132,
+    "state": "nsw",
+    "postcode": 2170,
+    "suburb_name": "Liverpool"
+  },
+  {
+    "suburb_id": 10398,
+    "state": "vic",
+    "postcode": 3032,
+    "suburb_name": "Maribyrnong"
+  },
+  {
+    "suburb_id": 34,
+    "state": "act",
+    "postcode": 2611,
+    "suburb_name": "Duffy"
+  },
+  {
+    "suburb_id": 790,
+    "state": "nsw",
+    "postcode": 2570,
+    "suburb_name": "Camden"
+  },
+  {
+    "suburb_id": 9927,
+    "state": "vic",
+    "postcode": 3293,
+    "suburb_name": "Glenthompson"
+  },
+  {
+    "suburb_id": 9542,
+    "state": "vic",
+    "postcode": 3781,
+    "suburb_name": "Cockatoo"
+  },
+  {
+    "suburb_id": 7948,
+    "state": "sa",
+    "postcode": 5540,
+    "suburb_name": "Port Pirie South"
+  },
+  {
+    "suburb_id": 11718,
+    "state": "wa",
+    "postcode": 6280,
+    "suburb_name": "Busselton"
+  },
+  {
+    "suburb_id": 9884,
+    "state": "vic",
+    "postcode": 3624,
+    "suburb_name": "Girgarre"
+  },
+  {
+    "suburb_id": 7987,
+    "state": "sa",
+    "postcode": 5161,
+    "suburb_name": "Reynella"
+  },
+  {
+    "suburb_id": 4162,
+    "state": "nt",
+    "postcode": 810,
+    "suburb_name": "Tiwi"
+  },
+  {
+    "suburb_id": 5098,
+    "state": "qld",
+    "postcode": 4860,
+    "suburb_name": "Flying Fish Point"
+  },
+  {
+    "suburb_id": 8402,
+    "state": "tas",
+    "postcode": 7250,
+    "suburb_name": "Blackstone Heights"
+  },
+  {
+    "suburb_id": 3148,
+    "state": "nsw",
+    "postcode": 2340,
+    "suburb_name": "Somerton"
+  },
+  {
+    "suburb_id": 9141,
+    "state": "vic",
+    "postcode": 3331,
+    "suburb_name": "Bannockburn"
+  },
+  {
+    "suburb_id": 2465,
+    "state": "nsw",
+    "postcode": 2650,
+    "suburb_name": "Mount Austin"
+  },
+  {
+    "suburb_id": 10058,
+    "state": "vic",
+    "postcode": 3717,
+    "suburb_name": "Homewood"
+  },
+  {
+    "suburb_id": 2690,
+    "state": "nsw",
+    "postcode": 2868,
+    "suburb_name": "North Yeoval"
+  },
+  {
+    "suburb_id": 10633,
+    "state": "vic",
+    "postcode": 3277,
+    "suburb_name": "Naringal"
+  },
+  {
+    "suburb_id": 4823,
+    "state": "qld",
+    "postcode": 4818,
+    "suburb_name": "Cosgrove"
+  },
+  {
+    "suburb_id": 8436,
+    "state": "tas",
+    "postcode": 7210,
+    "suburb_name": "Campbell Town"
+  },
+  {
+    "suburb_id": 3227,
+    "state": "nsw",
+    "postcode": 2443,
+    "suburb_name": "Stewarts River"
+  },
+  {
+    "suburb_id": 170,
+    "state": "nsw",
+    "postcode": 2477,
+    "suburb_name": "Alstonvale"
+  },
+  {
+    "suburb_id": 7701,
+    "state": "sa",
+    "postcode": 5558,
+    "suburb_name": "Moonta Bay"
+  },
+  {
+    "suburb_id": 8670,
     "state": "tas",
     "postcode": 7109,
-    "suburb_name": "Lucaston"
+    "suburb_name": "Lower Longley"
   },
   {
-    "suburb_id": 8964,
+    "suburb_id": 8865,
     "state": "tas",
-    "postcode": 7018,
-    "suburb_name": "Warrane"
+    "postcode": 7330,
+    "suburb_name": "Scopus"
+  },
+  {
+    "suburb_id": 6483,
+    "state": "qld",
+    "postcode": 4680,
+    "suburb_name": "Sun Valley"
+  },
+  {
+    "suburb_id": 9561,
+    "state": "vic",
+    "postcode": 3227,
+    "suburb_name": "Connewarre"
+  },
+  {
+    "suburb_id": 11612,
+    "state": "wa",
+    "postcode": 6566,
+    "suburb_name": "Bejoording"
+  },
+  {
+    "suburb_id": 10592,
+    "state": "vic",
+    "postcode": 3610,
+    "suburb_name": "Murchison North"
+  },
+  {
+    "suburb_id": 8551,
+    "state": "tas",
+    "postcode": 7000,
+    "suburb_name": "Glebe"
+  },
+  {
+    "suburb_id": 1347,
+    "state": "nsw",
+    "postcode": 2560,
+    "suburb_name": "Englorie Park"
+  },
+  {
+    "suburb_id": 7391,
+    "state": "sa",
+    "postcode": 5107,
+    "suburb_name": "Green Fields"
+  },
+  {
+    "suburb_id": 7851,
+    "state": "sa",
+    "postcode": 5357,
+    "suburb_name": "Paisley"
+  },
+  {
+    "suburb_id": 472,
+    "state": "nsw",
+    "postcode": 2785,
+    "suburb_name": "Blackheath"
+  },
+  {
+    "suburb_id": 2548,
+    "state": "nsw",
+    "postcode": 2586,
+    "suburb_name": "Murringo"
+  },
+  {
+    "suburb_id": 658,
+    "state": "nsw",
+    "postcode": 2535,
+    "suburb_name": "Broughton"
+  },
+  {
+    "suburb_id": 9215,
+    "state": "vic",
+    "postcode": 3435,
+    "suburb_name": "Benloch"
+  },
+  {
+    "suburb_id": 9722,
+    "state": "vic",
+    "postcode": 3352,
+    "suburb_name": "Durham Lead"
+  },
+  {
+    "suburb_id": 571,
+    "state": "nsw",
+    "postcode": 2650,
+    "suburb_name": "Boorooma"
+  },
+  {
+    "suburb_id": 3280,
+    "state": "nsw",
+    "postcode": 2469,
+    "suburb_name": "Tabulam"
+  },
+  {
+    "suburb_id": 10580,
+    "state": "vic",
+    "postcode": 3149,
+    "suburb_name": "Mount Waverley"
+  },
+  {
+    "suburb_id": 10333,
+    "state": "vic",
+    "postcode": 3340,
+    "suburb_name": "Long Forest"
+  },
+  {
+    "suburb_id": 10304,
+    "state": "vic",
+    "postcode": 3352,
+    "suburb_name": "Lexton"
+  },
+  {
+    "suburb_id": 8584,
+    "state": "tas",
+    "postcode": 7307,
+    "suburb_name": "Hawley Beach"
+  },
+  {
+    "suburb_id": 7999,
+    "state": "sa",
+    "postcode": 5254,
+    "suburb_name": "Rockleigh"
+  },
+  {
+    "suburb_id": 7712,
+    "state": "sa",
+    "postcode": 5214,
+    "suburb_name": "Mosquito Hill"
+  },
+  {
+    "suburb_id": 8866,
+    "state": "tas",
+    "postcode": 7330,
+    "suburb_name": "Scotchtown"
+  },
+  {
+    "suburb_id": 10621,
+    "state": "vic",
+    "postcode": 3847,
+    "suburb_name": "Nambrok"
+  },
+  {
+    "suburb_id": 116,
+    "state": "act",
+    "postcode": 2914,
+    "suburb_name": "Throsby"
+  },
+  {
+    "suburb_id": 2980,
+    "state": "nsw",
+    "postcode": 2444,
+    "suburb_name": "Riverside"
+  },
+  {
+    "suburb_id": 2323,
+    "state": "nsw",
+    "postcode": 2160,
+    "suburb_name": "Merrylands"
   },
   {
     "suburb_id": 8953,
@@ -1416,117 +6318,171 @@
     "suburb_name": "Ulverstone"
   },
   {
-    "suburb_id": 8355,
-    "state": "tas",
-    "postcode": 7112,
-    "suburb_name": "Abels Bay"
+    "suburb_id": 2199,
+    "state": "nsw",
+    "postcode": 2482,
+    "suburb_name": "Main Arm"
   },
   {
-    "suburb_id": 8789,
-    "state": "tas",
-    "postcode": 7109,
-    "suburb_name": "Petcheys Bay"
+    "suburb_id": 5064,
+    "state": "qld",
+    "postcode": 4103,
+    "suburb_name": "Fairfield"
   },
   {
-    "suburb_id": 8919,
-    "state": "tas",
-    "postcode": 7252,
-    "suburb_name": "Swan Bay"
+    "suburb_id": 288,
+    "state": "nsw",
+    "postcode": 2486,
+    "suburb_name": "Banora Point"
   },
   {
-    "suburb_id": 8938,
-    "state": "tas",
-    "postcode": 7007,
-    "suburb_name": "Tolmans Hill"
+    "suburb_id": 3318,
+    "state": "nsw",
+    "postcode": 2580,
+    "suburb_name": "Tarlo"
   },
   {
-    "suburb_id": 8521,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "Erriba"
+    "suburb_id": 1360,
+    "state": "nsw",
+    "postcode": 2043,
+    "suburb_name": "Erskineville"
   },
   {
-    "suburb_id": 8687,
-    "state": "tas",
-    "postcode": 7140,
-    "suburb_name": "Malbina"
+    "suburb_id": 4610,
+    "state": "qld",
+    "postcode": 4352,
+    "suburb_name": "Cabarlah"
   },
   {
-    "suburb_id": 8500,
-    "state": "tas",
-    "postcode": 7025,
-    "suburb_name": "Dulcot"
+    "suburb_id": 328,
+    "state": "nsw",
+    "postcode": 2580,
+    "suburb_name": "Baw Baw"
   },
   {
-    "suburb_id": 8957,
-    "state": "tas",
-    "postcode": 7321,
-    "suburb_name": "Upper Natone"
+    "suburb_id": 7237,
+    "state": "sa",
+    "postcode": 5252,
+    "suburb_name": "Dawesley"
   },
   {
-    "suburb_id": 8891,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "South Spreyton"
+    "suburb_id": 9042,
+    "state": "vic",
+    "postcode": 3305,
+    "suburb_name": "Allestree"
   },
   {
-    "suburb_id": 8831,
-    "state": "tas",
-    "postcode": 7321,
-    "suburb_name": "Ridgley"
+    "suburb_id": 7843,
+    "state": "sa",
+    "postcode": 5013,
+    "suburb_name": "Ottoway"
   },
   {
-    "suburb_id": 8646,
-    "state": "tas",
-    "postcode": 7008,
-    "suburb_name": "Lenah Valley"
+    "suburb_id": 12067,
+    "state": "wa",
+    "postcode": 6025,
+    "suburb_name": "Hillarys"
   },
   {
-    "suburb_id": 8507,
-    "state": "tas",
-    "postcode": 7310,
-    "suburb_name": "East Devonport"
+    "suburb_id": 10725,
+    "state": "vic",
+    "postcode": 3063,
+    "suburb_name": "Oaklands Junction"
   },
   {
-    "suburb_id": 8876,
-    "state": "tas",
-    "postcode": 7321,
-    "suburb_name": "Sisters Beach"
+    "suburb_id": 8137,
+    "state": "sa",
+    "postcode": 5431,
+    "suburb_name": "Tarcowie"
   },
   {
-    "suburb_id": 8510,
-    "state": "tas",
-    "postcode": 7330,
-    "suburb_name": "Edith Creek"
+    "suburb_id": 4913,
+    "state": "qld",
+    "postcode": 4671,
+    "suburb_name": "Delan"
   },
   {
-    "suburb_id": 8528,
-    "state": "tas",
-    "postcode": 7054,
-    "suburb_name": "Fern Tree"
+    "suburb_id": 1162,
+    "state": "nsw",
+    "postcode": 2008,
+    "suburb_name": "Darlington"
   },
   {
-    "suburb_id": 8408,
-    "state": "tas",
-    "postcode": 7053,
-    "suburb_name": "Bonnet Hill"
+    "suburb_id": 10078,
+    "state": "vic",
+    "postcode": 3691,
+    "suburb_name": "Huon Creek"
   },
   {
-    "suburb_id": 8637,
-    "state": "tas",
-    "postcode": 7307,
-    "suburb_name": "Latrobe"
+    "suburb_id": 5884,
+    "state": "qld",
+    "postcode": 4122,
+    "suburb_name": "Mount Gravatt"
   },
   {
-    "suburb_id": 8940,
-    "state": "tas",
-    "postcode": 7018,
-    "suburb_name": "Tranmere"
+    "suburb_id": 5393,
+    "state": "qld",
+    "postcode": 4860,
+    "suburb_name": "Innisfail"
   },
   {
-    "suburb_id": 8766,
-    "state": "tas",
-    "postcode": 7320,
-    "suburb_name": "Ocean Vista"
+    "suburb_id": 3898,
+    "state": "nsw",
+    "postcode": 2259,
+    "suburb_name": "Wyongah"
+  },
+  {
+    "suburb_id": 5192,
+    "state": "qld",
+    "postcode": 4650,
+    "suburb_name": "Glenorchy"
+  },
+  {
+    "suburb_id": 9769,
+    "state": "vic",
+    "postcode": 3095,
+    "suburb_name": "Eltham"
+  },
+  {
+    "suburb_id": 2446,
+    "state": "nsw",
+    "postcode": 2537,
+    "suburb_name": "Moruya"
+  },
+  {
+    "suburb_id": 6390,
+    "state": "qld",
+    "postcode": 4740,
+    "suburb_name": "Slade Point"
+  },
+  {
+    "suburb_id": 7326,
+    "state": "sa",
+    "postcode": 5577,
+    "suburb_name": "Foul Bay"
+  },
+  {
+    "suburb_id": 11874,
+    "state": "wa",
+    "postcode": 6333,
+    "suburb_name": "Denmark"
+  },
+  {
+    "suburb_id": 9571,
+    "state": "vic",
+    "postcode": 3814,
+    "suburb_name": "Cora Lynn"
+  },
+  {
+    "suburb_id": 12324,
+    "state": "wa",
+    "postcode": 6056,
+    "suburb_name": "Millendon"
+  },
+  {
+    "suburb_id": 2756,
+    "state": "nsw",
+    "postcode": 2800,
+    "suburb_name": "Orange"
   }
 ]
